@@ -1,0 +1,468 @@
+lastName;firstName;birthDate;team-complete-name;team-official-name;role;id;wyId;country;birthCountry;teamId;nationalTeamId;foot;age
+Muto;Yoshinori;1992-07-15;Newcastle United FC;Newcastle United;Forward;392;94764;Japan;Japan;1613;12913;right;27
+Aoás Corrêa ;Marcos ;1994-05-14;Paris Saint-Germain FC;PSG;Defender;620;40539;Portugal;Brazil;3767;6380;right;25
+Aparecido Rodrigues;Ronaldo ;1982-09-10;FC Schalke 04;Schalke 04;Defender;276;14689;Germany;Brazil;2449;null;right;37
+Rémy;Loïc;1987-01-02;Getafe Club de Fútbol;Getafe;Forward;474;25577;Martinique;France;698;null;right;32
+Suljić;Ćazim;1996-10-29;Crotone;Crotone;Midfielder;70;340085;Bosnia-Herzegovina;France;3291;null;right;23
+Ideye Aide;Brown;1988-10-10;Málaga Club de Fútbol;Málaga;Forward;566;105616;Nigeria;Nigeria;683;null;right;31
+Nakoulma;Préjuce Niguimbé;1987-04-21;Nantes;Nantes;Forward;854;99453;Burkina Faso;Burkina Faso;None;null;right;32
+Giannotti;Pasquale;1999-06-05;Crotone;Crotone;Midfielder;380;527518;Italy;Italy;26410;null;right;20
+de Jesus;Jonathas Cristian;1989-03-06;Hannover 96;Hannover 96;Forward;76;20728;Brazil;Brazil;5656;null;right;30
+Ñíguez Esclapez;Saúl;1994-11-21;Club Atlético de Madrid;Atlético Madrid;Midfielder;724;4488;Spain;Spain;679;1598;left;25
+Achahbar;Karim;1996-01-03;Guingamp;Guingamp;Forward;504;260001;Morocco;France;null;null;left;23
+Reina Páez;José Manuel ;1982-08-31;AC Milan;Milan;Goalkeeper;724;7949;Spain;Spain;3157;1598;right;37
+Roca Junqué;Marc;1996-11-26;Reial Club Deportiu Espanyol;Espanyol;Midfielder;724;341752;Spain;Spain;691;null;left;23
+Kábler;Lukas;1992-08-30;SC Freiburg;Freiburg;Defender;276;18670;Germany;Germany;2453;null;right;27
+Báchel;Marcel;1991-03-18;Hellas Verona FC;Hellas Verona;Midfielder;438;22099;Liechtenstein;Austria;3194;null;left;28
+Navarro Mazuelos;Rafael Jesús;1994-02-23;Real Betis Balompié;Real Betis;Defender;724;247212;Spain;Spain;684;null;right;25
+Gánter;Christian;1993-02-28;SC Freiburg;Freiburg;Defender;276;216074;Germany;Germany;2453;null;left;26
+Adopo;Michel Ndary;2000-07-19;Torino;Torino;Midfielder;250;562846;France;France;3713;null;right;19
+N'Zonzi;Steven N'Kemboanza Mike Christopher;1988-12-15;AS Roma;Roma;Midfielder;180;8200;Congo DR;France;3158;4418;right;31
+do Rosário Calmon;Wergiton;1988-09-28;Toulouse FC;Toulouse;Midfielder;76;43196;Brazil;Brazil;3780;null;right;31
+Berenguer Remiro;Alejandro;1995-07-04;Torino FC;Torino;Forward;724;339791;Spain;Spain;3185;null;right;24
+Labeau;Brighton;1996-01-01;Amiens SC;Amiens SC;Forward;250;331913;France;France;4059;null;right;23
+Hábner;Benjamin;1989-07-04;TSG 1899 Hoffenheim;Hoffenheim;Defender;276;15719;Germany;Germany;2482;null;left;30
+Caumet;Romain;1999-04-13;Montpellier HSC;Montpellier;Midfielder;250;501018;France;France;3787;null;;20
+Tomič;Michal;1999-03-30;Sampdoria;Sampdoria;Defender;703;406142;Slovakia;Slovakia;14368;null;right;20
+Coppola;Domenico;1999-01-29;Torino;Torino;Goalkeeper;380;423147;Italy;Italy;3291;null;right;20
+Hábers;Timo;1996-07-20;Hannover 96;Hannover 96;Defender;276;272435;Germany;Germany;2455;null;right;23
+Caetano de Araújo;Raffael;1985-03-28;Borussia VfL Mönchengladbach;Borussia M'gladbach;Forward;76;15107;Brazil;Brazil;2454;null;right;34
+Mbaé;Safwan;1997-04-20;Monaco;Monaco;Defender;250;331914;France;France;1162;null;right;22
+Artiles Oliva;Aythami;1986-04-02;Las Palmas;Las Palmas;Defender;724;3372;Spain;Spain;709;null;right;33
+Gamberini;Alessandro;1981-08-27;Chievo;Chievo;Defender;380;20929;Italy;Italy;None;null;right;38
+Etxebarria Urkiaga;Beñat;1987-02-19;Athletic Club Bilbao;Athletic Club;Midfielder;724;3595;Spain;Spain;678;null;right;32
+Billemaz;Clément;1998-09-22;Dijon;Dijon;Forward;250;421864;France;France;4062;null;;21
+Gelin;Jérémy;1997-04-24;Stade Rennais FC;Rennes;Defender;250;301013;France;France;3774;null;right;22
+Loria;Leonardo;1999-03-28;Juventus;Juventus;Goalkeeper;380;443962;Italy;Italy;26540;null;right;20
+Besuschkow;Max;1997-05-31;Eintracht Frankfurt;Eintracht Frankfurt;Midfielder;276;302608;Germany;Germany;5120;null;right;22
+Quissanga;Bartolomeu Jacinto;1991-03-27;SS Lazio;Lazio;Defender;24;208865;Angola;Angola;3162;null;right;28
+Chagas Estevão;Dalbert Henrique;1993-09-08;FC Internazionale Milano;Internazionale;Defender;76;298212;Brazil;Brazil;3161;null;left;26
+Vaško;Filip;1999-08-11;Udinese;Udinese;Defender;703;406132;Slovakia;Slovakia;3724;null;right;20
+Gabbia;Matteo;1999-10-21;Milan;Milan;Defender;380;405603;Italy;Italy;3203;3764;right;20
+Máller;Nicolai;1987-09-25;Hamburger SV;Hamburger SV;Midfielder;276;15192;Germany;Germany;2450;null;right;32
+Bérigaud;Kévin;1988-05-09;Montpellier;Montpellier;Forward;250;26665;France;France;34760;null;right;31
+Frabotta;Gianluca;1999-06-24;Bologna;Bologna;Defender;380;489124;Italy;Italy;3414;27928;left;20
+Assou-Ekotto;Benoît;1984-03-24;Metz;Metz;Defender;120;8268;Cameroon;France;None;null;left;35
+Girotto;Andrei;1992-02-17;FC Nantes;Nantes;Midfielder;76;43515;Brazil;Brazil;3770;null;right;27
+El Id;Moctar El Hacen;1997-12-31;Levante UD;Levante;Midfielder;478;264778;Mauritania;Mauritania;695;null;right;22
+Sadzoute;Scotty;1998-04-29;Lille;Lille;Forward;250;506850;France;France;3915;null;;21
+da Rocha Fonte;José Miguel;1983-12-22;Lille OSC Métropole;Lille;Defender;620;8126;Portugal;Portugal;3776;9905;right;36
+Öztunali;Levin Mete;1996-03-15;1. FSV Mainz 05;Mainz 05;Midfielder;792;223560;Turkey;Germany;2460;3155;right;23
+Rangel Zaragoza;Àngel;1982-10-28;Swansea City;Swansea City;Defender;724;77541;Spain;Spain;1650;null;right;37
+Vilela Gama;Bruno Alexandre;1987-11-15;Deportivo La Coruña;Deportivo La Coruña;Midfielder;620;3394;Portugal;Portugal;12520;null;right;32
+Hadraoui;Bilal;1999-05-28;Metz;Metz;Midfielder;250;525231;France;France;3919;null;;20
+Tătărușanu;Anton Ciprian;1986-02-09;FC Nantes;Nantes;Goalkeeper;642;83574;Romania;Romania;3770;11944;right;33
+Yamberé;Cédric;1990-11-06;Dijon FCO;Dijon;Defender;140;215036;Central African Republic;France;3804;null;right;29
+Ié;Edgar Miguel;1994-05-01;Lille OSC Métropole;Lille;Defender;620;70959;Portugal;Guinea-Bissau;3776;null;right;25
+Quina;Domingos;1999-11-18;Watford FC;Watford;Midfielder;620;399653;Portugal;Guinea-Bissau;1644;9911;right;20
+Smarsch;Dennis;1999-01-14;Hertha BSC;Hertha BSC;Goalkeeper;276;433009;Germany;Germany;2457;null;right;20
+Pogba;Florentin;1990-08-19;Saint-Étienne;Saint-Étienne;Defender;250;26085;France;Guinea;None;null;left;29
+Kapustka;Bartosz;1996-12-23;SC Freiburg;Freiburg;Midfielder;616;269189;Poland;Poland;2453;13876;right;23
+Rukavina;Antonio;1984-01-26;Villarreal;Villarreal;Defender;688;15214;Serbia;Serbia;11042;17322;right;35
+Tonev;Aleksandar;1990-02-02;Crotone;Crotone;Forward;100;99423;Bulgaria;Bulgaria;null;9400;right;29
+Pionnier;Laurent;1982-05-24;Montpellier;Montpellier;Goalkeeper;250;25986;France;France;None;null;right;37
+Enrich Ametller;Sergio;1990-02-26;SD Eibar;Eibar;Forward;724;4048;Spain;Spain;701;null;right;29
+Tsadjout;Frank;1999-07-28;Milan;Milan;Forward;120;422086;Cameroon;Italy;26542;null;left;20
+Storari;Marco;1977-01-07;Milan;Milan;Goalkeeper;380;20457;Italy;Italy;None;null;right;42
+Egbo;Mandela;1997-08-17;Borussia M'gladbach;Borussia M'gladbach;Defender;566;286823;Nigeria;England;2619;null;right;22
+Castro Irizábal;Gonzalo;1984-09-14;Málaga Club de Fútbol;Málaga;Midfielder;724;3645;Spain;Uruguay;683;null;left;35
+León Limones;Sergio;1989-01-06;Real Betis Balompié;Real Betis;Forward;724;5268;Spain;Spain;684;null;right;30
+Tavares;Júlio;1988-11-19;Dijon FCO;Dijon;Forward;250;27354;France;Cape Verde Islands;3804;null;right;31
+Krapikas;Titas;1999-01-03;Sampdoria;Sampdoria;Goalkeeper;440;352868;Lithuania;Lithuania;3710;null;right;20
+Leborgne;Jordan;1995-09-29;Caen;Caen;Midfielder;250;258408;France;Guadeloupe;null;null;right;24
+Han;Kwang-Song;1998-09-11;Cagliari Calcio;Cagliari;Forward;408;404209;Korea DPR;Korea DPR;3173;19571;right;21
+Boccafoglia;Giacomo;1998-12-01;SPAL;SPAL;Defender;380;503517;Italy;Italy;3679;null;right;21
+Amrabat;Nordin;1987-03-31;Watford;Watford;Forward;504;32968;Morocco;Netherlands;16470;16216;right;32
+Khazri;Wahbi;1991-02-08;AS Saint-Étienne;Saint-Étienne;Midfielder;788;25776;Tunisia;France;3782;16276;right;28
+Pavoni;Flippo;1999-08-08;Chievo;Chievo;Goalkeeper;380;499834;Italy;Italy;3221;null;right;20
+Ribeiro Dias;Carlos Miguel;1993-02-26;Metz;Metz;Midfielder;620;135937;Portugal;Portugal;13505;null;right;26
+Fráchtl;Christian;2000-01-28;FC Bayern Mánchen;Bayern Mánchen;Goalkeeper;276;396887;Germany;Germany;2444;null;left;19
+Söyáncá;Caglar;1996-05-23;SC Freiburg;Freiburg;Defender;792;344864;Turkey;Turkey;2453;4687;right;23
+Miličević;Danijel;1986-01-05;FC Metz;Metz;Midfielder;70;37796;Bosnia-Herzegovina;Switzerland;3777;10001;right;33
+Deeney;Troy;1988-06-29;Watford FC;Watford;Forward;388;8903;Jamaica;England;1644;null;right;31
+Seo;Young-Jae;1995-05-23;Hamburger SV;Hamburger SV;Defender;410;349681;Korea Republic;Korea Republic;2467;14857;left;24
+Monreal Eraso;Ignacio;1986-02-26;Arsenal FC;Arsenal;Defender;724;3560;Spain;Spain;1609;1598;left;33
+Luz Sanches;Renato Júnior;1997-08-18;FC Bayern Mánchen;Bayern Mánchen;Midfielder;678;258162;São Tomé e Príncipe;Portugal;2444;9905;right;22
+Lobonț;Bogdan Ionuț;1978-01-18;Roma;Roma;Goalkeeper;642;20426;Romania;Romania;None;null;right;41
+Gontán Gallardo;Sergio;1991-12-27;Málaga Club de Fútbol;Málaga;Midfielder;724;21894;Spain;Spain;683;null;right;28
+Miceli;Alessio;1999-08-31;Lazio;Lazio;Midfielder;380;423597;Italy;Italy;3535;null;right;20
+Chagas Estevão;Dalbert Henrique;1993-09-08;FC Internazionale Milano;Internazionale;Defender;76;298212;Brazil;Brazil;3161;null;left;26
+Agirretxe Arruti;Imanol;1987-02-24;Real Sociedad de Fútbol;Real Sociedad;Forward;724;3681;Spain;Spain;687;null;right;32
+Caligara;Fabrizio;2000-04-12;Cagliari Calcio;Cagliari;Midfielder;380;434142;Italy;Italy;3173;null;left;19
+Busquets Mas;Oriol;1999-01-20;Barcelona;Barcelona;Midfielder;724;344046;Spain;Spain;759;null;right;20
+Lizak;Marcel Julian;1996-07-15;Girona FC;Girona;Goalkeeper;616;508686;Poland;Poland;756;null;;23
+Simón Mendibil;Unai;1997-06-11;Athletic Club Bilbao;Athletic Club;Goalkeeper;724;344059;Spain;Spain;678;1604;right;22
+Ely;Rodrigo;1993-11-03;Deportivo Alavés;Deportivo Alavés;Defender;380;208694;Italy;Brazil;696;null;right;26
+Toulalan;Jérémy;1983-09-10;Bordeaux;Bordeaux;Midfielder;250;3573;France;France;None;null;right;36
+dos Santos Aveiro;Cristiano Ronaldo;1985-02-05;Juventus FC;Juventus;Forward;620;3322;Portugal;Portugal;3159;9905;right;34
+Castillejo Azuaga;Samuel ;1995-01-18;Villarreal Club de Fútbol;Villarreal;Midfielder;724;134174;Spain;Spain;682;null;left;24
+Rivoira;Leonardo;1998-02-03;Torino;Torino;Defender;380;410024;Italy;Italy;null;null;right;21
+Toufiqui;Sabri;1997-03-30;Stade Rennais FC;Rennes;Midfielder;504;288415;Morocco;France;3774;null;;22
+Peli;Lorenzo;2000-01-24;Atalanta;Atalanta;Forward;380;422570;Italy;Italy;3715;27928;right;19
+Borriello;Marco;1982-06-18;SPAL;SPAL;Forward;380;20476;Italy;Italy;None;null;left;37
+Ladinetti;Riccardo;2000-12-20;Cagliari;Cagliari;Midfielder;380;546357;Italy;Italy;3700;null;right;19
+Kießling;Stefan;1984-01-25;Bayer Leverkusen;Bayer Leverkusen;Forward;276;14788;Germany;Germany;None;null;right;35
+Schiavon;Eros;1983-04-24;Società Polisportiva Ars et Labor 2013;SPAL;Midfielder;380;21517;Italy;Italy;3204;null;right;36
+Mooy;Aaron;1990-09-15;Huddersfield Town FC;Huddersfield Town;Midfielder;528;62389;Netherlands;Australia;1673;8493;right;29
+Zhang;Yuning;1997-01-05;SV Werder Bremen;Werder Bremen;Forward;156;364937;China PR;China PR;2443;9211;right;22
+Arrizabalaga Revuelta;Kepa;1994-10-03;Chelsea FC;Chelsea;Goalkeeper;724;3397;Spain;Spain;1610;1598;right;25
+Klánter;Lukas;1996-05-26;1. FC Köln;Köln;Defender;276;272338;Germany;Germany;2463;null;right;23
+Pelmard;Andy;2000-03-12;Nice;Nice;Defender;250;497354;France;France;3902;33157;right;19
+Nkololo;Michaël Jordan;1992-11-09;Stade Malherbe Caen;Caen;Midfielder;180;209211;Congo DR;France;3783;18538;right;27
+Cossu;Andrea;1980-05-03;Cagliari;Cagliari;Midfielder;380;20874;Italy;Italy;None;null;right;39
+Rémy;Loïc;1987-01-02;Getafe Club de Fútbol;Getafe;Forward;474;25577;Martinique;France;698;null;right;32
+Latte Lath;Emmanuel Delan Junior;1999-01-02;Atalanta;Atalanta;Forward;384;448332;Côte d'Ivoire;Côte d'Ivoire;3209;null;right;20
+Camara;Abdoul Razzagui;1990-02-20;En Avant Guingamp;Guingamp;Midfielder;250;25474;France;Guinea;3785;null;left;29
+Raba Antolí;Daniel;1995-10-29;Villarreal Club de Fútbol;Villarreal;Midfielder;724;412897;Spain;Spain;682;null;left;24
+Resurrección Merodio;Jorge;1992-01-08;Club Atlético de Madrid;Atlético Madrid;Midfielder;724;3443;Spain;Spain;679;1598;right;27
+N'Koudou Mbida;Georges-Kevin;1995-02-13;Tottenham Hotspur FC;Tottenham Hotspur;Forward;120;270828;Cameroon;France;1624;null;right;24
+Alcibiade;David;1991-09-26;Nantes;Nantes;Defender;250;28251;France;France;None;null;;28
+Fornals Malla;Pablo;1996-02-22;Villarreal Club de Fútbol;Villarreal;Midfielder;724;399676;Spain;Spain;682;1604;right;23
+de Andrade Bittencourt Pinheiro;Rafael ;1982-03-03;Cagliari Calcio;Cagliari;Goalkeeper;380;21299;Italy;Brazil;3173;null;left;37
+Zanimacchia;Luca;1998-07-19;Genoa;Genoa;Forward;380;447505;Italy;Italy;63044;null;right;21
+Brašanac;Darko;1992-02-12;CD Leganés;Leganés;Midfielder;688;127928;Serbia;Serbia;712;null;right;27
+Dramé;Boukary;1985-07-22;SPAL;SPAL;Defender;686;20639;Senegal;France;None;null;left;34
+Lizoáin Cruz;Raúl;1991-01-27;UD Las Palmas;Las Palmas;Goalkeeper;724;4350;Spain;Spain;714;null;left;28
+Robert;Samuel;1998-01-12;Dijon;Dijon;Forward;250;436254;France;France;4062;null;;21
+Ferreira de Souza;Márcio Rafael;1985-09-07;FC Bayern Mánchen;Bayern Mánchen;Defender;76;14718;Brazil;Brazil;2444;null;right;34
+Suk;Hyun-Jun;1991-06-29;Espérance Sportive Troyes Aube Champagne;Troyes;Forward;410;382;Korea Republic;Korea Republic;3795;null;right;28
+Kulusevski;Dejan;2000-04-25;Atalanta;Atalanta;Forward;807;472363;Macedonia FYR;Sweden;3715;7051;left;19
+Manojlović;Filip;1996-04-25;Getafe Club de Fútbol;Getafe;Goalkeeper;688;363560;Serbia;Serbia;698;32344;right;23
+Zekhnini;Rafik;1998-01-12;Fiorentina;Fiorentina;Forward;578;361214;Norway;Norway;16;null;right;21
+Ercolano;Emanuel;2002-10-15;Sampdoria;Sampdoria;Defender;380;560427;Italy;Italy;22302;null;null;17
+Berchiche Izeta;Yuri;1990-02-10;Paris Saint-Germain FC;PSG;Defender;724;4452;Spain;Spain;3767;null;left;29
+Fiordaliso;Alessandro;1999-03-20;Torino;Torino;Defender;380;416011;Italy;Italy;3230;null;right;20
+Bernauer;Maxime;1998-07-01;Rennes;Rennes;Defender;250;352987;France;France;3927;null;right;21
+Bellanova;Raoul;2000-05-16;Milan;Milan;Defender;380;405598;Italy;Italy;26542;3764;right;19
+Rocha Santos;Kenny;2000-01-03;Saint-Étienne;Saint-Étienne;Midfielder;132;453631;Cape Verde Islands;Cape Verde Islands;3930;19166;right;19
+Avelar;Danilo Fernando;1989-06-09;Amiens SC;Amiens SC;Defender;380;105523;Italy;Brazil;3789;null;left;30
+Rexhbecaj;Elvis;1997-11-01;VfL Wolfsburg;Wolfsburg;Midfielder;276;337903;Germany;Albania;2451;null;left;22
+Pavlovic;Daniel;1988-04-22;FC Crotone;Crotone;Defender;70;49979;Bosnia-Herzegovina;Switzerland;3197;null;left;31
+Bruzzi;Lorenzo;2000-01-31;Bologna;Bologna;Goalkeeper;380;536520;Italy;Italy;63189;null;left;19
+Pires da Fonseca;Rolando Jorge;1985-08-31;Olympique de Marseille;Olympique Marseille;Defender;620;70088;Portugal;Cape Verde Islands;3771;null;right;34
+Adiceam;Raphaël;1990-07-03;Amiens SC;Amiens SC;Goalkeeper;250;29314;France;France;4244;null;;29
+Busquets i Burgos;Sergio;1988-07-16;FC Barcelona;Barcelona;Midfielder;724;3346;Spain;Spain;676;1598;right;31
+Marković;Luka;2000-02-19;Crotone;Crotone;Forward;688;362013;Serbia;Serbia;26540;null;right;19
+Cavaco Jordão;Bruno André;1998-10-12;SS Lazio;Lazio;Midfielder;620;401277;Portugal;Portugal;3162;9911;right;21
+Sidwell;Steven James;1982-12-14;Brighton & Hove Albion;Brighton & Hove Albion;Midfielder;0;11150;England;England;null;null;right;37
+N'Dour;Abdallah;1993-12-20;RC Strasbourg Alsace;Strasbourg;Defender;686;209095;Senegal;Senegal;3779;null;left;26
+Aspas Juncal;Iago;1987-08-01;Real Club Celta de Vigo;Celta de Vigo;Forward;724;3840;Spain;Spain;692;1598;left;32
+Amat Maas;Jordi;1992-03-21;Real Betis Balompié;Real Betis;Defender;724;3788;Spain;Spain;684;null;right;27
+Eramo;Mirko;1989-07-12;Benevento;Benevento;Midfielder;380;22565;Italy;Italy;3404;null;right;30
+Burnic;Dzenis;1998-05-22;VfB Stuttgart 1893;Stuttgart;Midfielder;70;356908;Bosnia-Herzegovina;Germany;2445;3156;left;21
+Muntari;Sulley Ali;1984-08-27;Deportivo La Coruña;Deportivo La Coruña;Midfielder;288;20410;Ghana;Ghana;None;null;left;35
+Lomba Neto;Pedro;2000-03-09;SS Lazio;Lazio;Forward;620;496823;Portugal;Portugal;3162;9911;left;19
+Plattenhardt;Marvin;1992-01-26;Hertha BSC;Hertha BSC;Defender;276;15125;Germany;Germany;2457;3148;left;27
+Berg Guðmunds­­-­­son;Johann ;1990-10-27;Burnley FC;Burnley;Midfielder;352;93;Iceland;Iceland;1646;7839;left;29
+Bedimo Nsamè;Henri;1984-06-04;Olympique de Marseille;Olympique Marseille;Defender;250;25988;France;Cameroon;3771;null;left;35
+Pezzini Leiva;Lucas ;1987-01-09;SS Lazio;Lazio;Midfielder;380;7965;Italy;Brazil;3162;null;right;32
+Lulić;Senad;1986-01-18;SS Lazio;Lazio;Midfielder;756;20561;Switzerland;Bosnia-Herzegovina;3162;10001;right;33
+Areitio Cedrún;Markel;1996-09-07;Eibar;Eibar;Goalkeeper;724;344056;Spain;Spain;936;null;right;23
+Ráfli;Vincent;1988-01-22;Dijon FCO;Dijon;Defender;756;49921;Switzerland;Switzerland;3804;null;right;31
+Amagat Arimany;Eloi;1985-05-21;Girona FC;Girona;Midfielder;724;167104;Spain;Spain;756;null;right;34
+Castellano Betancor;Dani;1987-11-02;UD Las Palmas;Las Palmas;Defender;724;4371;Spain;Spain;714;null;left;32
+Valenčič;Vitja;1999-03-12;Fiorentina;Fiorentina;Midfielder;705;345817;Slovenia;Slovenia;11953;null;right;20
+Hábner;Florian;1991-03-01;Hannover 96;Hannover 96;Defender;276;18581;Germany;Germany;2455;null;right;28
+Rutjens;Oliva Christian;1998-01-05;Benevento;Benevento;Defender;724;485464;Spain;Spain;3465;null;right;21
+Fàbregas i Soler;Francesc;1987-05-04;Chelsea FC;Chelsea;Midfielder;724;3350;Spain;Spain;1610;null;right;32
+Ćavar;Marijan;1998-02-02;Eintracht Frankfurt;Eintracht Frankfurt;Midfielder;191;476054;Croatia;Bosnia-Herzegovina;2462;10007;right;21
+Ciavattini;Stefano;1998-03-30;Roma;Roma;Defender;380;347014;Italy;Italy;3170;null;right;21
+Boialvo Gaspar;Bruno Miguel;1993-04-21;ACF Fiorentina;Fiorentina;Defender;620;222766;Portugal;Portugal;3176;null;right;26
+Gandi;Najib;1994-06-23;Nantes;Nantes;Midfielder;250;229119;France;France;3924;null;;25
+Butić;Karlo;1998-08-21;Torino;Torino;Forward;191;386656;Croatia;Croatia;3182;null;left;21
+Molumby;Jayson;1999-08-06;Brighton & Hove Albion;Brighton & Hove Albion;Midfielder;372;399579;Ireland Republic;Ireland Republic;39806;null;right;20
+Borsellini;Davide;1999-01-04;Udinese Calcio;Udinese;Goalkeeper;380;393566;Italy;Italy;3163;null;left;20
+Bouah;Devid Eugene;2001-08-13;Roma;Roma;Defender;380;532436;Italy;Italy;31889;null;right;18
+Candeloro;Thomas;2000-05-29;Benevento;Benevento;Goalkeeper;756;531179;Switzerland;Switzerland;6418;null;right;19
+Del Prato;Enrico;1999-11-10;Atalanta;Atalanta;Defender;380;422552;Italy;Italy;3715;3764;right;20
+Othon;Quentin;1988-03-27;RC Strasbourg Alsace;Strasbourg;Midfielder;474;26200;Martinique;France;3779;null;left;31
+Rangel Cionek;Thiago;1986-04-21;Società Polisportiva Ars et Labor 2013;SPAL;Defender;616;99661;Poland;Brazil;3204;13869;right;33
+Regis Crespí;Francesc;1996-09-30;Eibar;Eibar;Forward;724;390613;Spain;Spain;936;null;right;23
+Cabaye;Yohan;1986-01-14;Crystal Palace;Crystal Palace;Midfielder;250;7988;France;France;16928;null;right;33
+Scarf;Michael;1999-05-10;Napoli;Napoli;Defender;288;532651;Ghana;Ghana;3217;null;left;20
+Colpani;Andrea;1999-05-11;Atalanta;Atalanta;Midfielder;380;422555;Italy;Italy;3715;3764;left;20
+Ahlinvi;Mattéo;1999-07-02;En Avant Guingamp;Guingamp;Defender;250;501205;France;France;3785;null;left;20
+de Roussel de Préville;Nicolas;1991-01-08;FC Girondins de Bordeaux;Bordeaux;Forward;250;25923;France;France;3772;null;right;28
+Hakšabanović;Sead;1999-05-04;Málaga Club de Fútbol;Málaga;Midfielder;499;361843;Montenegro;Sweden;683;17371;right;20
+Wriedt;Kwasi Okyere;1994-07-10;FC Bayern Mánchen;Bayern Mánchen;Forward;288;223546;Ghana;Germany;2444;null;left;25
+Sneijder;Wesley;1984-06-09;Nice;Nice;Midfielder;528;20531;Netherlands;Netherlands;16444;null;right;35
+Almeida da Cunha;Luís Carlos;1986-11-17;SS Lazio;Lazio;Midfielder;620;7926;Portugal;Cape Verde Islands;3162;null;right;33
+Pantovic;Milos;1996-07-07;Bayern Mánchen;Bayern Mánchen;Forward;688;272285;Serbia;Serbia;2448;null;right;23
+Samperio Bustara;Jairo;1993-07-11;UD Las Palmas;Las Palmas;Midfielder;724;3708;Spain;Spain;714;null;right;26
+Carrique;Thomas;1999-02-26;FC Girondins de Bordeaux;Bordeaux;Defender;250;499295;France;France;3772;null;right;20
+Ielsch;Julien;1983-03-05;Amiens SC;Amiens SC;Defender;250;26055;France;France;3789;null;left;36
+Moyà Rumbo;Miguel Ángel;1984-04-02;Real Sociedad de Fútbol;Real Sociedad;Goalkeeper;724;3994;Spain;Spain;687;null;right;35
+Oprut;Raul Marian;1998-01-04;Genoa;Genoa;Defender;642;503199;Romania;Romania;60557;null;left;21
+Tytoń;Przemysław;1987-01-04;Real Club Deportivo de La Coruña;Deportivo La Coruña;Goalkeeper;616;99;Poland;Poland;677;null;right;32
+Whitehead;Dean;1982-01-12;Huddersfield Town;Huddersfield Town;Midfielder;0;8745;England;England;null;null;right;37
+Djoulou Zohoki;Franck Alain;1999-01-01;Udinese;Udinese;Forward;380;507587;Italy;Côte d'Ivoire;3713;null;right;20
+Bueno Calvo;Alberto ;1988-03-20;Málaga Club de Fútbol;Málaga;Forward;724;3779;Spain;Spain;683;null;right;31
+Toșca;Alin Dorinel;1992-03-14;Benevento Calcio;Benevento;Defender;100;85113;Bulgaria;Romania;3219;11944;left;27
+Burdisso;Nicolás Andrés;1981-04-12;Torino;Torino;Defender;380;20429;Italy;Argentina;None;null;right;38
+Nogueira;Vincent;1988-01-16;RC Strasbourg Alsace;Strasbourg;Midfielder;620;25467;Portugal;France;3779;null;right;31
+Bouet;Jean-Christophe;1983-07-21;Amiens SC;Amiens SC;Goalkeeper;250;26970;France;France;3789;null;right;36
+Dražić;Dejan;1995-09-26;Celta de Vigo;Celta de Vigo;Midfielder;688;282994;Serbia;Serbia;14376;null;right;24
+Lumeka;Levi;1998-09-05;Crystal Palace;Crystal Palace;Forward;180;531655;Congo DR;England;1690;null;right;21
+Flamini;Mathieu;1984-03-07;Getafe;Getafe;Midfielder;250;20406;France;France;None;null;right;35
+Schuster;Julian;1985-04-15;Freiburg;Freiburg;Midfielder;276;14998;Germany;Germany;None;null;right;34
+Tochukwu Nwankwo;Simeon;1992-05-07;FC Crotone;Crotone;Forward;566;72397;Nigeria;Nigeria;3197;16823;right;27
+Caligara;Fabrizio;2000-04-12;Cagliari Calcio;Cagliari;Midfielder;380;434142;Italy;Italy;3173;null;left;19
+Reine-Adelaide;Jeff;1998-01-17;Angers SCO;Angers;Midfielder;250;366542;France;France;3799;4426;right;21
+Charrier;Charly;1986-05-27;Amiens SC;Amiens SC;Midfielder;250;25938;France;France;None;null;right;33
+Delaney;Damien;1981-07-20;Crystal Palace;Crystal Palace;Defender;372;8583;Ireland Republic;Ireland Republic;8153;null;left;38
+Djilobodji;Papiss Mison;1988-12-01;Dijon FCO;Dijon;Defender;686;25524;Senegal;Senegal;3804;null;left;31
+Bárki;Roman;1990-11-14;BV Borussia 09 Dortmund;Borussia Dortmund;Goalkeeper;756;49968;Switzerland;Switzerland;2447;6697;right;29
+Kabasele;Christian;1991-02-24;Watford FC;Watford;Defender;56;68085;Belgium;Congo DR;1644;5629;right;28
+Jouffre;Yann;1984-07-23;Metz;Metz;Midfielder;250;26033;France;France;None;null;left;35
+do Nascimento;Leandro Henrique;1998-10-11;Napoli;Napoli;Forward;76;363994;Brazil;Brazil;5653;null;right;21
+Macalou;Makan;1996-02-07;Caen;Caen;Forward;250;265128;France;France;3865;null;right;23
+Thill;Vincent;2000-02-04;FC Metz;Metz;Midfielder;442;406156;Luxembourg;Luxembourg;3777;14768;left;19
+Mertesacker;Per;1984-09-29;Arsenal;Arsenal;Defender;276;7856;Germany;Germany;null;null;right;35
+Mesa Quevedo;Roque;1989-06-07;Sevilla FC;Sevilla;Midfielder;724;4365;Spain;Spain;680;null;right;30
+Taarabt;Adel;1989-05-24;Genoa CFC;Genoa;Midfielder;250;9080;France;Morocco;3193;null;right;30
+Rudņevs;Artjoms;1988-01-13;Köln;Köln;Forward;643;99425;Russia;Latvia;None;null;left;31
+Guevara Lajo;Ander;1997-07-07;Real Sociedad;Real Sociedad;Midfielder;724;477352;Spain;Spain;723;null;right;22
+Donadello;Andrea;2000-04-28;Udinese;Udinese;Defender;380;531687;Italy;Italy;3724;null;right;19
+Grán;Max;1987-04-05;Wolfsburg;Wolfsburg;Goalkeeper;276;15444;Germany;Germany;None;null;right;32
+Navarro Ceciliano;Marc;1995-07-02;Reial Club Deportiu Espanyol;Espanyol;Defender;724;341751;Spain;Spain;691;null;right;24
+Fernandes;Gélson da Conceição Tavares;1986-09-02;Eintracht Frankfurt;Eintracht Frankfurt;Midfielder;756;20591;Switzerland;Cape Verde Islands;2462;6697;right;33
+Cuéllar Sacristán;Iván;1984-05-25;CD Leganés;Leganés;Goalkeeper;724;3963;Spain;Spain;712;null;left;35
+Carrick;Michael;1981-07-28;Manchester United;Manchester United;Midfielder;0;7928;England;England;null;null;right;38
+Rico Salguero;Diego;1993-02-23;CD Leganés;Leganés;Defender;724;169002;Spain;Spain;712;null;left;26
+Albiol Tortajada;Raúl;1985-09-04;SSC Napoli;Napoli;Defender;724;3300;Spain;Spain;3187;null;right;34
+Confente;Alessandro;1998-06-07;AC Chievo Verona;Chievo;Goalkeeper;380;417230;Italy;Italy;3165;null;right;21
+Cannavaro;Paolo;1981-06-26;Sassuolo;Sassuolo;Defender;380;21162;Italy;Italy;None;null;right;38
+Gándoğan;İlkay;1990-10-24;Manchester City FC;Manchester City;Midfielder;276;14808;Germany;Germany;1625;3148;right;29
+Mallı;Yunus;1992-02-24;VfL Wolfsburg;Wolfsburg;Midfielder;792;15191;Turkey;Germany;2451;4687;right;27
+Bessat;Vincent;1985-11-08;Caen;Caen;Midfielder;250;25532;France;France;None;null;left;34
+Chiricheș;Vlad Iulian;1989-11-14;SSC Napoli;Napoli;Defender;642;83575;Romania;Romania;3187;11944;right;30
+Volpicelli;Giovanni;1999-09-24;Benevento Calcio;Benevento;Midfielder;380;461671;Italy;Italy;3219;null;right;20
+Iturraspe Derteano;Ander;1989-03-08;Athletic Club Bilbao;Athletic Club;Midfielder;724;3414;Spain;Spain;678;null;right;30
+Elia;Salvatore;1999-06-30;Atalanta;Atalanta;Forward;380;418317;Italy;Italy;3252;null;right;20
+Lea Siliki;James Edward;1996-06-12;Stade Rennais FC;Rennes;Midfielder;120;325781;Cameroon;France;3774;null;left;23
+Diéguez Grande;Adrián;1996-02-04;Deportivo Alavés;Deportivo Alavés;Defender;724;364870;Spain;Spain;696;null;left;23
+Bezzera Maciel Júnior;José Paulo;1988-07-25;Barcelona;Barcelona;Midfielder;76;40550;Brazil;Brazil;9174;6380;right;31
+Ferrini;Manuel;1998-06-25;Sassuolo;Sassuolo;Defender;380;432680;Italy;Italy;39972;null;right;21
+Casimiro;Carlos Henrique;1992-02-23;Real Madrid Club de Fútbol;Real Madrid;Midfielder;76;40756;Brazil;Brazil;675;6380;right;27
+Guarnone;Alessandro;1999-03-27;Milan;Milan;Goalkeeper;380;478229;Italy;Italy;3502;null;right;20
+dos Reis Carvalho;Eduardo;1982-09-19;Chelsea;Chelsea;Goalkeeper;620;70106;Portugal;Portugal;24;null;right;37
+Rádiger;Antonio;1993-03-03;Chelsea FC;Chelsea;Defender;694;14748;Sierra Leone;Germany;1610;3148;right;26
+Mora Sánchez;Sergio;1979-08-30;Getafe;Getafe;Midfielder;724;4593;Spain;Spain;None;null;right;40
+Ji;Dong-Won;1991-05-28;FC Augsburg;Augsburg;Forward;410;8537;Korea Republic;Korea Republic;2481;null;right;28
+N'Gosso Massouma;Guy Adolphe;1985-01-11;Amiens SC;Amiens SC;Midfielder;120;26414;Cameroon;Cameroon;None;null;right;34
+Sanmartín Mato;José Luis;1990-03-27;Newcastle United FC;Newcastle United;Forward;724;3327;Spain;Germany;1613;null;right;29
+Iloki;Jules;1992-01-14;Nantes;Nantes;Midfielder;178;217872;Congo;France;null;null;right;27
+Daga;Riccardo;2000-01-13;Cagliari Calcio;Cagliari;Goalkeeper;380;507570;Italy;Italy;3173;null;right;19
+Mutton;Cristian;1999-01-06;Bologna;Bologna;Forward;380;411313;Italy;Italy;26379;null;right;20
+de Roussel de Préville;Nicolas;1991-01-08;FC Girondins de Bordeaux;Bordeaux;Forward;250;25923;France;France;3772;null;right;28
+Souici;Rayan;1998-02-28;Saint-Étienne;Saint-Étienne;Defender;12;342088;Algeria;France;3817;null;right;21
+Alejo Peralta;Iván;1995-02-10;SD Eibar;Eibar;Midfielder;724;279555;Spain;Spain;701;null;right;24
+Valentín Sancho;Gerard;1993-07-28;Real Club Deportivo de La Coruña;Deportivo La Coruña;Defender;724;275497;Spain;Spain;677;null;right;26
+Amrabat;Nordin;1987-03-31;Leganés;Leganés;Forward;504;32968;Morocco;Netherlands;16470;16216;right;32
+Tolói;Rafael;1990-10-10;Atalanta Bergamasca Calcio;Atalanta;Defender;380;41034;Italy;Brazil;3172;null;right;29
+Izco;Mariano Julio;1983-03-13;Crotone;Crotone;Midfielder;380;21078;Italy;Argentina;None;null;right;36
+Lempereur;Dylan;1998-10-24;Metz;Metz;Defender;250;487983;France;France;3919;null;;21
+Ganchinho Guedes;Gonçalo Manuel;1996-11-29;Paris Saint-Germain FC;PSG;Forward;620;237034;Portugal;Portugal;3767;9905;right;23
+Zubeldía Elorza;Igor;1997-03-30;Real Sociedad de Fútbol;Real Sociedad;Midfielder;724;395114;Spain;Spain;687;1604;right;22
+Koo;Ja-Cheol;1989-02-27;FC Augsburg;Augsburg;Midfielder;410;15781;Korea Republic;Korea Republic;2481;14855;right;30
+Herzog;Aaron;1998-01-30;Borussia M'gladbach;Borussia M'gladbach;Midfielder;276;391515;Germany;Germany;2619;null;right;21
+Faussot;Corentin;1998-01-04;Dijon;Dijon;Midfielder;250;394577;France;France;4062;null;;21
+Mesa Quevedo;Roque;1989-06-07;Sevilla FC;Sevilla;Midfielder;724;4365;Spain;Spain;680;null;right;30
+Sitoe;Edson André;1988-09-08;Stade Rennais FC;Rennes;Defender;508;70711;Mozambique;Mozambique;3774;18752;right;31
+Aquilani;Alberto;1984-07-07;Las Palmas;Las Palmas;Midfielder;380;20401;Italy;Italy;None;null;right;35
+Théophile Catherine;Kévin;1989-10-28;AS Saint-Étienne;Saint-Étienne;Defender;474;25643;Martinique;France;3782;null;right;30
+Saltor Grau;Bruno;1980-10-01;Brighton & Hove Albion FC;Brighton & Hove Albion;Defender;724;3278;Spain;Spain;1651;null;right;39
+Subotić;Neven;1988-12-10;AS Saint-Étienne;Saint-Étienne;Defender;840;14801;United States;Serbia;3782;null;right;31
+Pizzignacco;Samuel;2001-09-01;Udinese;Udinese;Goalkeeper;380;531691;Italy;Italy;3724;null;right;18
+Sivis;Maxime;1998-04-01;Angers;Angers;Midfielder;250;426771;France;France;4038;null;;21
+Seri;Luca;1999-12-09;SPAL;SPAL;Goalkeeper;380;546326;Italy;Italy;26442;null;right;20
+Meier;Alexander;1983-01-17;Eintracht Frankfurt;Eintracht Frankfurt;Forward;276;15254;Germany;Germany;None;null;right;36
+Hristov;Petko;1999-03-01;Fiorentina;Fiorentina;Defender;100;372079;Bulgaria;Bulgaria;3182;9404;right;20
+Diekmeier;Dennis;1989-10-20;Hamburger SV;Hamburger SV;Defender;276;14888;Germany;Germany;None;null;right;30
+Elustondo Irribaria;Aritz;1994-03-28;Real Sociedad de Fútbol;Real Sociedad;Defender;724;278288;Spain;Spain;687;null;right;25
+Gaudino;Gianluca;1996-11-11;AC Chievo Verona;Chievo;Midfielder;380;272280;Italy;Germany;3165;null;right;23
+Biondini;Davide;1983-01-24;US Sassuolo Calcio;Sassuolo;Midfielder;380;21282;Italy;Italy;3315;null;right;36
+Britton;Leon;1982-09-16;Swansea City;Swansea City;Midfielder;0;77550;England;England;null;null;right;37
+Capoue;Etienne;1988-07-11;Watford FC;Watford;Midfielder;312;25798;Guadeloupe;France;1644;null;right;31
+Polanski;Eugen;1986-03-17;Hoffenheim;Hoffenheim;Midfielder;276;15193;Germany;Poland;None;null;right;33
+Latella;Francesco;2000-01-27;Crotone;Crotone;Goalkeeper;380;544095;Italy;Italy;3731;null;right;19
+Azevedo Júnior;Hernani;1994-03-27;AS Saint-Étienne;Saint-Étienne;Midfielder;620;134797;Portugal;Brazil;3782;null;right;25
+Sparandeo;Luca;1999-08-18;Benevento Calcio;Benevento;Defender;380;360778;Italy;Italy;3219;null;left;20
+Ravaglia;Federico;1999-11-11;Bologna;Bologna;Goalkeeper;380;471286;Italy;Italy;3282;null;right;20
+Tavares;Fábio Henrique;1993-10-23;AS Monaco FC;Monaco;Midfielder;76;207143;Brazil;Brazil;19830;null;right;26
+N'Gbakoto;Yeni Atito;1992-01-23;En Avant Guingamp;Guingamp;Forward;180;25741;Congo DR;France;3785;18538;right;27
+Kouakou Yao;Christian;1991-03-01;Stade Malherbe Caen;Caen;Forward;384;131321;Côte d'Ivoire;Côte d'Ivoire;3783;null;right;28
+Giresse;Thibault;1981-05-25;Guingamp;Guingamp;Midfielder;250;25941;France;France;None;null;left;38
+Vilá Rosselló;Dídac;1989-06-09;Reial Club Deportiu Espanyol;Espanyol;Defender;724;3798;Spain;Spain;691;null;left;30
+de Andrade;Richarlison;1997-05-10;Everton FC;Everton;Forward;76;377071;Brazil;Brazil;1623;6380;right;22
+Hánemeier;Uwe;1986-01-09;Brighton & Hove Albion;Brighton & Hove Albion;Defender;276;15301;Germany;Germany;2491;null;right;33
+de Jesus Nascimento;Jemerson;1992-08-24;AS Monaco FC;Monaco;Defender;76;263766;Brazil;Brazil;19830;null;right;27
+Mangane;Abdou Kader;1983-03-23;Strasbourg;Strasbourg;Defender;250;25641;France;Senegal;None;null;right;36
+Pavlovic;Daniel;1988-04-22;FC Crotone;Crotone;Defender;70;49979;Bosnia-Herzegovina;Switzerland;3197;null;left;31
+Borello;Giuseppe;1999-04-28;Crotone;Crotone;Midfielder;380;483978;Italy;Italy;3291;null;left;20
+de Souza;Nathan Allan;1996-03-13;Amiens SC;Amiens SC;Midfielder;76;285139;Brazil;Brazil;5653;null;right;23
+Mirallas;Kevin;1987-10-05;Everton;Everton;Midfielder;724;92922;Spain;Belgium;12509;null;right;32
+Larangeira;Danilo;1984-05-10;Udinese Calcio;Udinese;Defender;380;20583;Italy;Brazil;3163;null;right;35
+Nábel;Alexander;1996-09-30;FC Schalke 04;Schalke 04;Goalkeeper;276;333477;Germany;Germany;2449;3155;right;23
+Della Giovanna;Fabio;1997-03-21;SPAL;SPAL;Defender;380;286219;Italy;Italy;3282;null;left;22
+Fáhrich;Chris;1998-01-09;1. FC Köln;Köln;Midfielder;276;448127;Germany;Germany;2463;null;right;21
+Biševac;Milan;1983-08-31;FC Metz;Metz;Defender;250;25423;France;Serbia;3777;null;right;36
+Tanasijević;Strahinja;1997-06-12;AC Chievo Verona;Chievo;Defender;688;400684;Serbia;Serbia;3165;null;right;22
+Cabras;Nicolò;2001-02-11;Cagliari;Cagliari;Goalkeeper;380;545472;Italy;Italy;3700;null;right;18
+Selimovic;Vahid;1997-04-03;FC Metz;Metz;Defender;688;366563;Serbia;Luxembourg;3777;null;right;22
+De La Bella Madureño;Alberto;1985-12-02;Real Sociedad de Fútbol;Real Sociedad;Defender;724;3667;Spain;Spain;687;null;left;34
+Confais;Alois;1996-09-07;Espérance Sportive Troyes Aube Champagne;Troyes;Midfielder;250;249926;France;France;3795;null;right;23
+Montolivo;Riccardo;1985-01-18;AC Milan;Milan;Midfielder;276;20943;Germany;Italy;3157;null;right;34
+Grange;Dorian;1996-05-10;Olympique Lyonnais;Olympique Lyonnais;Goalkeeper;250;235448;France;France;3917;null;right;23
+Agudo Durán;Manuel;1986-10-15;Sevilla FC;Sevilla;Forward;724;70125;Spain;Spain;680;null;right;33
+Torrasi;Emanuele;1999-03-16;Milan;Milan;Midfielder;380;354470;Italy;Italy;26542;27928;right;20
+Mesa Travieso;Alexander;1995-02-05;Levante;Levante;Forward;724;293857;Spain;Spain;707;null;right;24
+Samper Montaña;Sergi;1995-01-20;UD Las Palmas;Las Palmas;Midfielder;724;5907;Spain;Spain;714;null;right;24
+Máller;Sven ;1996-02-16;1. FC Köln;Köln;Goalkeeper;276;228624;Germany;Germany;2463;null;right;23
+Planas Antolínez;Carles;1991-03-04;Girona FC;Girona;Defender;724;4789;Spain;Spain;756;null;left;28
+Sahin-Radlinger;Samuel;1992-11-07;Hannover 96;Hannover 96;Goalkeeper;40;15031;Austria;Austria;7095;null;right;27
+Evra;Patrice;1981-05-15;West Ham United;West Ham United;Defender;250;7915;France;Senegal;null;null;left;38
+Molina Vidal;Jorge;1982-04-22;Getafe Club de Fútbol;Getafe;Forward;724;3605;Spain;Spain;698;null;right;37
+Pinto;Vincenzo;2000-10-31;Benevento;Benevento;Forward;380;486945;Italy;Italy;24101;null;right;19
+Expósito Jaén;Eduardo;1996-08-01;Real Club Deportivo de La Coruña;Deportivo La Coruña;Midfielder;724;499843;Spain;Spain;677;null;right;23
+Štefanec;Šimon;1998-09-05;Hellas Verona;Hellas Verona;Midfielder;703;352717;Slovakia;Slovakia;3195;null;right;21
+Kasmirski;Filipe Luis;1985-08-09;Club Atlético de Madrid;Atlético Madrid;Defender;380;3434;Italy;Brazil;679;6380;left;34
+Wollscheid;Philipp;1989-03-06;Metz;Metz;Defender;276;15126;Germany;Germany;None;null;right;30
+Gagliano;Luca;2000-07-14;Cagliari;Cagliari;Forward;380;546356;Italy;Italy;3700;null;left;19
+Laner;Simon;1984-01-28;Hellas Verona;Hellas Verona;Midfielder;380;21228;Italy;Italy;None;null;right;35
+de Marcos Arana;Óscar;1989-04-14;Athletic Club Bilbao;Athletic Club;Defender;724;3421;Spain;Spain;678;null;right;30
+Kanoute;Mamadou Yaye;1993-10-07;Benevento;Benevento;Forward;380;23124;Italy;Senegal;3198;null;right;26
+Melbourne;Max;1998-10-24;West Bromwich Albion;West Bromwich Albion;Defender;0;447252;England;England;8519;null;;21
+Goudiaby;Lemouya;1997-01-09;FC Metz;Metz;Midfielder;686;470517;Senegal;France;3777;null;right;22
+Efouba Ayissi;Théodore;1997-05-05;Metz;Metz;Defender;250;394008;France;Cameroon;None;null;right;22
+Amalfitano;Morgan;1985-03-20;Rennes;Rennes;Midfielder;250;25562;France;France;None;null;right;34
+Aréola;Alphonse;1993-02-27;Paris Saint-Germain FC;PSG;Goalkeeper;608;25418;Philippines;France;3767;4418;right;26
+Moisander;Niklas;1985-09-29;SV Werder Bremen;Werder Bremen;Defender;246;77;Finland;Finland;2443;4849;left;34
+Sále;Niklas;1995-09-03;FC Bayern Mánchen;Bayern Mánchen;Defender;276;134383;Germany;Germany;2444;3148;right;24
+Mboumbouni;Dylan;1996-02-20;Olympique Lyonnais;Olympique Lyonnais;Defender;140;256933;Central African Republic;France;3917;19610;right;23
+Duffy;Shane;1992-01-01;Brighton & Hove Albion FC;Brighton & Hove Albion;Defender;372;8242;Ireland Republic;Northern Ireland;1651;8274;right;27
+Pareja;Nicolás Martín;1984-01-19;Sevilla FC;Sevilla;Defender;380;101649;Italy;Argentina;680;null;right;35
+Cavalieri;Diego;1982-12-01;Crystal Palace;Crystal Palace;Goalkeeper;380;41154;Italy;Brazil;null;null;left;37
+Rossi;Giuseppe;1987-02-01;Genoa;Genoa;Forward;380;3548;Italy;United States;None;null;left;32
+Marchisio;Claudio;1986-01-19;Juventus;Juventus;Midfielder;380;20470;Italy;Italy;None;3757;right;33
+Weidenfeller;Roman;1980-08-06;Borussia Dortmund;Borussia Dortmund;Goalkeeper;276;14794;Germany;Germany;None;null;left;39
+Viscovo;Aniello;1999-06-21;FC Crotone;Crotone;Goalkeeper;380;392395;Italy;Italy;3197;null;right;20
+Kurtič;Jasmin;1989-01-10;Società Polisportiva Ars et Labor 2013;SPAL;Midfielder;705;21620;Slovenia;Slovenia;3204;12046;right;30
+Peugnet;Vincent;1998-02-05;Metz;Metz;Defender;250;454268;France;France;3919;null;;21
+Benítez Caraballo;Francesc Aday;1987-12-16;Girona FC;Girona;Defender;724;6210;Spain;Spain;756;null;right;32
+Máller;Florian;1997-11-13;1. FSV Mainz 05;Mainz 05;Goalkeeper;276;337647;Germany;Germany;2460;null;left;22
+Ki;Sung-Yeung;1989-01-24;Newcastle United FC;Newcastle United;Midfielder;410;61962;Korea Republic;Korea Republic;1613;14855;right;30
+Moyà Rumbo;Miguel Ángel;1984-04-02;Real Sociedad de Fútbol;Real Sociedad;Goalkeeper;724;3994;Spain;Spain;687;null;right;35
+M'baye;Ibrahima;1994-11-19;Bologna FC 1909;Bologna;Defender;686;22377;Senegal;Senegal;3166;null;right;25
+Milić;Hrvoje;1989-05-10;Napoli;Napoli;Defender;191;69874;Croatia;Croatia;None;null;left;30
+Duro Perales;Hugo;1999-11-10;Getafe Club de Fútbol;Getafe;Forward;724;545811;Spain;Spain;698;null;left;20
+Pollet;Valère;1997-06-27;Lille OSC Métropole;Lille;Midfielder;250;436250;France;France;3776;null;;22
+Sándermann;Marlon;1998-05-16;Hannover 96;Hannover 96;Goalkeeper;276;366197;Germany;Germany;2455;null;right;21
+Gope-Fenepej;George;1988-10-23;Amiens SC;Amiens SC;Forward;540;132972;New Caledonia;New Caledonia;3789;null;right;31
+Ribelin;Anthony;1996-04-08;Rennes;Rennes;Midfielder;250;302908;France;France;3899;null;right;23
+Merino Zuloaga;Sabin;1992-01-04;Athletic Club Bilbao;Athletic Club;Forward;724;167119;Spain;Spain;678;null;right;27
+Mavraj;Mërgim;1986-06-09;Hamburger SV;Hamburger SV;Defender;8;15449;Albania;Germany;None;null;left;33
+Poveda Romera;Darío;1997-03-13;Villarreal;Villarreal;Forward;724;400564;Spain;Spain;734;null;right;22
+Esposito;Salvatore;2000-10-07;SPAL;SPAL;Midfielder;380;535716;Italy;Italy;26442;null;right;19
+Varrault;Cédric;1980-01-30;Dijon;Dijon;Defender;250;26374;France;France;None;null;right;39
+Hutvágner;Gergely;2000-07-01;Sampdoria;Sampdoria;Goalkeeper;348;507578;Hungary;Hungary;3710;null;left;19
+Brancolini;Federico;2001-07-14;Fiorentina;Fiorentina;Goalkeeper;380;456492;Italy;Italy;3702;null;right;18
+Palladino;Raffaele;1984-04-17;Genoa;Genoa;Forward;380;20506;Italy;Italy;null;null;right;35
+Astori;Davide;1987-01-07;Fiorentina;Fiorentina;Defender;380;20866;Italy;Italy;None;null;left;32
+Aramu;Mattia;1995-05-14;Torino;Torino;Forward;380;134440;Italy;Italy;3169;null;left;24
+Guimaraes Bilher;Everton Luiz;1988-05-24;Società Polisportiva Ars et Labor 2013;SPAL;Midfielder;76;45579;Brazil;Brazil;3204;null;right;31
+One Esteve;Aldo;1996-01-05;Deportivo La Coruña;Deportivo La Coruña;Defender;120;247150;Cameroon;Spain;859;null;left;23
+de Abreu;Gabriel Armando;1990-11-26;Valencia Club de Fútbol;Valencia;Defender;76;41363;Brazil;Brazil;674;null;right;29
+Ganchinho Guedes;Gonçalo Manuel;1996-11-29;Paris Saint-Germain FC;PSG;Forward;620;237034;Portugal;Portugal;3767;9905;right;23
+Starke;Tom;1981-03-18;Bayern Mánchen;Bayern Mánchen;Goalkeeper;276;15797;Germany;Germany;None;null;right;38
+Boisgard;Quentin;1997-03-17;Toulouse FC;Toulouse;Midfielder;250;374118;France;France;3780;null;right;22
+N'Koulou;Nicolas;1990-03-27;Torino FC;Torino;Defender;120;25558;Cameroon;Cameroon;3185;null;right;29
+Coppola;Ferdinando;1978-06-10;Hellas Verona;Hellas Verona;Goalkeeper;380;21091;Italy;Italy;None;null;right;41
+Burgstaller;Guido;1989-04-29;FC Schalke 04;Schalke 04;Forward;40;64995;Austria;Austria;2449;9109;right;30
+Gasparetto;Daniele;1988-04-06;SPAL;SPAL;Defender;380;21500;Italy;Italy;3182;null;right;31
+de Jesus;Gabriel Fernando;1997-04-03;Manchester City FC;Manchester City;Forward;76;340386;Brazil;Brazil;1625;6380;right;22
+Callejón Bueno;José María;1987-02-11;SSC Napoli;Napoli;Forward;724;3313;Spain;Spain;3187;null;right;32
+Benger;Marcel;1998-07-02;Borussia VfL Mönchengladbach;Borussia M'gladbach;Midfielder;276;372316;Germany;Germany;2454;null;right;21
+Fournier;Lilian;1998-05-18;Metz;Metz;Midfielder;250;426704;France;France;3919;null;right;21
+Al Tameemi;Ali Adnan Kadhim;1993-12-19;Udinese Calcio;Udinese;Defender;368;131184;Iraq;Iraq;3163;17759;left;26
+Touré;Gnégnéri Yaya;1983-05-13;Manchester City;Manchester City;Midfielder;0;8324;England;Côte d'Ivoire;null;null;right;36
+Jakupovic;Eldin;1984-10-02;Leicester City FC;Leicester City;Goalkeeper;756;93084;Switzerland;Bosnia-Herzegovina;1631;null;right;35
+Khalid;Driss;1999-02-07;Toulouse;Toulouse;Forward;504;437057;Morocco;France;3933;null;right;20
+Braga Rebocho;Pedro Miguel;1995-01-23;En Avant Guingamp;Guingamp;Defender;620;135901;Portugal;Portugal;3785;null;left;24
+Frello Filho;Jorge Luiz;1991-12-20;SSC Napoli;Napoli;Midfielder;380;21315;Italy;Brazil;3187;3757;right;28
+N'Koudou Mbida;Georges-Kevin;1995-02-13;Tottenham Hotspur FC;Tottenham Hotspur;Forward;120;270828;Cameroon;France;1624;null;right;24
+Subotić;Neven;1988-12-10;AS Saint-Étienne;Saint-Étienne;Defender;840;14801;United States;Serbia;3782;null;right;31
+Kusič;Filip;1996-06-03;Köln;Köln;Defender;276;382289;Germany;Germany;2468;null;right;23
+Salihović;Sejad;1984-10-08;Hamburger SV;Hamburger SV;Midfielder;70;15812;Bosnia-Herzegovina;Bosnia-Herzegovina;None;null;left;35
+Vercoutre;Rémy;1980-06-26;Caen;Caen;Goalkeeper;250;25384;France;France;None;null;right;39
+Luz Sanches;Renato Júnior;1997-08-18;FC Bayern Mánchen;Bayern Mánchen;Midfielder;678;258162;São Tomé e Príncipe;Portugal;2444;9905;right;22
+Nunes do Nascimento;Robert Kenedy;1996-02-08;Newcastle United FC;Newcastle United;Midfielder;76;254898;Brazil;Brazil;1613;null;left;23
+Foster;Ben;1983-04-03;Watford FC;Watford;Goalkeeper;0;8358;England;England;1644;null;left;36
+Castro Martín;Rubén;1981-06-27;Real Betis Balompié;Real Betis;Forward;724;3604;Spain;Spain;684;null;right;38
+Moreira Marinho;David Luiz;1987-04-22;Chelsea FC;Chelsea;Defender;620;7892;Portugal;Brazil;1610;null;right;32
+Valero Iglesias;Borja;1985-01-12;FC Internazionale Milano;Internazionale;Midfielder;724;3543;Spain;Spain;3161;null;right;34
+Herrerín Buisán;Iago;1988-01-25;Athletic Club Bilbao;Athletic Club;Goalkeeper;724;4476;Spain;Spain;678;null;right;31
+Compper;Marvin;1985-06-14;RB Leipzig;RB Leipzig;Defender;250;15800;France;Germany;8508;null;left;34
+Tessiore;Andrea;1999-10-01;Sampdoria;Sampdoria;Midfielder;380;492463;Italy;Italy;3231;null;right;20
+Rosa;Fernando Luiz;1985-05-04;Manchester City FC;Manchester City;Midfielder;76;105339;Brazil;Brazil;1625;6380;right;34
+Konate;Pa Momodou;1994-04-25;Società Polisportiva Ars et Labor 2013;SPAL;Defender;324;50807;Guinea;Sweden;3204;null;left;25
+Marques Loureiro;Allan;1991-01-08;SSC Napoli;Napoli;Midfielder;620;40726;Portugal;Brazil;3187;null;right;28
+Zulj;Robert;1992-02-05;TSG 1899 Hoffenheim;Hoffenheim;Midfielder;191;65207;Croatia;Austria;2482;null;right;27
+Navarro i Corbacho;Fernando;1982-06-25;Deportivo La Coruña;Deportivo La Coruña;Defender;724;3465;Spain;Spain;None;null;left;37
+Maziz;Youssef;1998-06-24;Metz;Metz;Midfielder;504;394009;Morocco;France;3854;null;right;21
+Berič;Robert;1991-06-17;AS Saint-Étienne;Saint-Étienne;Forward;705;85438;Slovenia;Slovenia;3782;12046;right;28
+Román Triguero;Roberto;1985-07-11;CD Leganés;Leganés;Defender;724;4326;Spain;Spain;712;null;right;34
+Bonnefoi;Landry;1983-09-20;Strasbourg;Strasbourg;Goalkeeper;250;26046;France;France;None;null;right;36
+Toșca;Alin Dorinel;1992-03-14;Benevento Calcio;Benevento;Defender;100;85113;Bulgaria;Romania;3219;11944;left;27
+Mallo Novegil;Hugo;1991-06-22;Real Club Celta de Vigo;Celta de Vigo;Defender;724;3827;Spain;Spain;692;null;right;28
+Rakip;Erdal;1996-02-13;Crystal Palace;Crystal Palace;Midfielder;807;258141;Macedonia FYR;Sweden;9707;7054;right;23
+Ndong;Didier ;1994-06-17;Watford;Watford;Midfielder;266;242492;Gabon;Gabon;null;null;right;25
+Vargić;Ivan;1987-03-15;SS Lazio;Lazio;Goalkeeper;191;69417;Croatia;Croatia;3162;null;right;32
+Aarons;Rolando;1995-11-16;Hellas Verona FC;Hellas Verona;Midfielder;0;337225;England;Jamaica;3194;null;left;24
+Rempp;Bastien;1998-11-11;Strasbourg;Strasbourg;Goalkeeper;250;482153;France;France;3934;null;;21
+Guedes Filho;Marcelo Antônio;1987-05-20;Olympique Lyonnais;Olympique Lyonnais;Defender;76;102;Brazil;Brazil;3766;null;right;32
+Femenía Far;Francisco;1991-02-02;Watford FC;Watford;Defender;724;3351;Spain;Spain;1644;null;right;28
+Alcântara do Nascimento;Rafael;1993-02-12;FC Internazionale Milano;Internazionale;Midfielder;724;3344;Spain;Brazil;3161;null;left;26
+Brignani;Fabrizio;1998-01-13;Bologna;Bologna;Defender;380;392383;Italy;Italy;3207;null;right;21
+Fállkrug;Niclas;1993-02-09;Hannover 96;Hannover 96;Forward;276;14705;Germany;Germany;2455;null;right;26
+Johnson;Glen;1984-08-23;Stoke City;Stoke City;Defender;0;7957;England;England;null;null;right;35
+Sessègnon;Stéphane;1984-06-01;Montpellier;Montpellier;Midfielder;204;8533;Benin;Benin;4494;18884;right;35
+Nunes Jesus;Juan Guilherme;1991-06-10;AS Roma;Roma;Defender;76;20518;Brazil;Brazil;3158;null;left;28
+Schárrle;André;1990-11-06;BV Borussia 09 Dortmund;Borussia Dortmund;Forward;276;14789;Germany;Germany;2447;null;right;29
+Samperio Bustara;Jairo;1993-07-11;UD Las Palmas;Las Palmas;Midfielder;724;3708;Spain;Spain;714;null;right;26
+Marcucci;Andrea;1999-02-07;Roma;Roma;Midfielder;380;347019;Italy;Italy;31889;3764;right;20
+Marson;Leonardo;1998-01-05;Sassuolo;Sassuolo;Goalkeeper;380;392384;Italy;Italy;3304;null;left;21
+Kurtič;Jasmin;1989-01-10;Società Polisportiva Ars et Labor 2013;SPAL;Midfielder;705;21620;Slovenia;Slovenia;3204;12046;right;30
+Veljkovic;Milos;1995-09-26;SV Werder Bremen;Werder Bremen;Defender;688;11095;Serbia;Switzerland;2443;17322;right;24
+Drmic;Josip;1992-08-08;Borussia VfL Mönchengladbach;Borussia M'gladbach;Forward;191;50023;Croatia;Switzerland;2454;6697;right;27
+Kert Molberg;Alexander;1999-02-26;Cagliari;Cagliari;Defender;208;540613;Denmark;Denmark;39813;7714;right;20
+Papastathopoulos;Sokratis;1988-06-09;BV Borussia 09 Dortmund;Borussia Dortmund;Defender;300;14687;Greece;Greece;2447;12678;right;31
+Nunes do Nascimento;Robert Kenedy;1996-02-08;Newcastle United FC;Newcastle United;Midfielder;76;254898;Brazil;Brazil;1613;null;left;23
+De Luca;Manuel;1998-07-17;Torino;Torino;Forward;380;471300;Italy;Italy;3244;null;right;21
+Nunes Vezo;Rúben Miguel;1994-04-25;Valencia Club de Fútbol;Valencia;Defender;132;211853;Cape Verde Islands;Portugal;674;null;right;25
+Castellano Betancor;Javi;1987-11-02;UD Las Palmas;Las Palmas;Midfielder;724;4361;Spain;Spain;714;null;right;32
+Tejero Sacristán;Álvaro;1996-07-20;Real Madrid;Real Madrid;Defender;724;344104;Spain;Spain;685;null;right;23
+Pléa;Alassane;1993-03-10;O.G.C. Nice Côte d'Azur;Nice;Forward;466;25410;Mali;France;3775;null;right;26
+Rosi;Aleandro;1987-05-17;Genoa;Genoa;Defender;380;20434;Italy;Italy;None;null;right;32
+Kačar;Gojko;1987-01-26;Augsburg;Augsburg;Midfielder;688;14900;Serbia;Serbia;None;null;right;32
+Del Favero;Mattia;1998-06-05;Juventus;Juventus;Goalkeeper;380;375395;Italy;Italy;63044;null;right;21
+Bergara Larrañaga;Markel;1986-05-05;Getafe Club de Fútbol;Getafe;Midfielder;724;3674;Spain;Spain;698;null;right;33
+Ndreu;Luis;1999-05-20;Udinese;Udinese;Midfielder;8;540634;Albania;Albania;3724;null;right;20
+Remeseiro Salgueiro;David;1994-07-06;Levante UD;Levante;Midfielder;724;247220;Spain;Spain;695;null;right;25
+Kwon;Chang-Hoon;1994-06-30;Dijon FCO;Dijon;Midfielder;410;256084;Korea Republic;Korea Republic;3804;null;left;25
+Martí Salvador;Roger;1991-01-03;Levante UD;Levante;Forward;724;3937;Spain;Spain;695;null;right;28
+Caiazza;Aldo;1999-03-20;Udinese;Udinese;Defender;380;471252;Italy;Italy;31268;null;right;20
+Varešanović;Mak;1998-08-28;Udinese;Udinese;Midfielder;70;373469;Bosnia-Herzegovina;Turkey;null;null;right;21
+Juncà Reñé;David;1993-11-16;SD Eibar;Eibar;Defender;724;4780;Spain;Spain;701;null;left;26
+Riccardi;Alessio;2001-04-03;Roma;Roma;Midfielder;380;529551;Italy;Italy;31889;3761;right;18
+Evra;Patrice;1981-05-15;Olympique Marseille;Olympique Marseille;Defender;250;7915;France;Senegal;null;null;left;38
+Hegazy;Ahmed;1991-01-25;West Bromwich Albion FC;West Bromwich Albion;Defender;818;119951;Egypt;Egypt;1627;16129;right;28
+N'Jie;Clinton Mua;1993-08-15;Olympique de Marseille;Olympique Marseille;Forward;120;28123;Cameroon;Cameroon;3771;null;right;26
+Vérité;Benjamin;1999-04-21;Lille OSC Métropole;Lille;Midfielder;250;499200;France;France;3776;null;;20
+Alcântara do Nascimento;Thiago;1991-04-11;FC Bayern Mánchen;Bayern Mánchen;Midfielder;76;3345;Brazil;Spain;2444;1598;right;28
+Máller;Thomas;1989-09-13;FC Bayern Mánchen;Bayern Mánchen;Forward;276;14732;Germany;Germany;2444;3148;right;30
+Saborit Teixidor;Enric;1992-04-27;Athletic Club Bilbao;Athletic Club;Defender;724;3408;Spain;Spain;678;null;left;27
+Prieto Argarate;Xabier;1983-08-29;Real Sociedad;Real Sociedad;Midfielder;724;3678;Spain;Spain;None;null;right;36
+Aarons;Rolando;1995-11-16;Hellas Verona FC;Hellas Verona;Midfielder;0;337225;England;Jamaica;3194;null;left;24
+Le Joncour;Florian;1995-02-03;Stade Malherbe Caen;Caen;Defender;250;328021;France;France;3783;null;left;24
+Ranieri Guimarães Cordeiro;Sandro ;1989-03-15;Benevento Calcio;Benevento;Midfielder;620;8291;Portugal;Brazil;3219;null;right;30
