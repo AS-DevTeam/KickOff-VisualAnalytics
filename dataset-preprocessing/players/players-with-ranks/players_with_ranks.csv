@@ -1,0 +1,3441 @@
+firstName,lastName,wiId,averageScore,minutesPlayed,role
+Marvin,Bakalorz,14802,18.510000000000005,2043,Midfielder
+Frank,Tsadjout,422086,0,0,Forward
+José Antonio,García Rabasco,4243,0,0,Midfielder
+Joan,Jordán Moreno,247207,20.32,2417,Midfielder
+Álvaro José,Jiménez Guerrero,278383,12.06,533,Midfielder
+Javier Alejandro,Mascherano,3355,11.579999999999998,900,Defender
+Julio César,Villalba Gaona,363648,0,0,Forward
+Moussa,Konaté,97582,37.59,2481,Forward
+Hakan Kadir,Balta,32642,1.07,270,Defender
+Luke,McCullough,239982,0,0,Defender
+Bryan,Ruiz González,11155,0.06999999999999999,270,Midfielder
+Juan,Bernat Velasco,3281,7.7,892,Defender
+Ramadan,Sobhi,332605,17.44,1260,Midfielder
+Rayhaan Rahim Amari,Tulloch,447267,0,0,Forward
+Kwame,Yeboah,253456,0,0,Forward
+Milan,Gajić,237267,0.48,360,Defender
+Thomas,Monconduit,25492,18.42,2991,Midfielder
+Andrea,Barzagli,20458,25.05,1888,Defender
+Ragnar,Sigurðsson,55983,10.84,676,Defender
+Ramazan,Özcan,16411,0,0,Goalkeeper
+Roberto,Román Triguero,4326,0.16999999999999998,593,Defender
+François,Bellugou,25937,7.180000000000001,2210,Defender
+Leonardo,Loria,443962,0,0,Goalkeeper
+Sergio,Álvarez Conde,3821,0,0,Goalkeeper
+Maxime,Leverbe,298021,0,0,Defender
+Kenneth Josiah,Omeruo,12,2.14,180,Defender
+Pablo,Ínsua Blanco,6950,0,26,Defender
+Mathías,Olivera Miramontes,375771,1.31,101,Defender
+Felipe,Dias da Silva dal Belo,20928,30.19,2567,Defender
+Nicolás Ezequiel,Gorosito,105024,0,0,Defender
+Douglas ,Costa de Souza,105334,80.19,1866,Midfielder
+Max,Melbourne,447252,0,0,Defender
+Zakaria,Bakkali,239843,9.989999999999998,879,Forward
+Tom,Starke,15797,0,0,Goalkeeper
+Alejandro,Dos Santos Ferreira,471984,0,0,Goalkeeper
+Jacob,Murphy,293686,15.17,1119,Midfielder
+Miguel Ángel,Garrido Cifuentes,5327,0,107,Defender
+Abdul Rahman,Baba,216077,0.69,33,Defender
+Sebastian,Langkamp,15771,19.79,1347,Defender
+Anaitz,Arbilla Zabala,4805,24.29,2392,Defender
+Nya,Kirby,497988,0,0,Midfielder
+Kouakou Hervé,Koffi,408052,0,0,Goalkeeper
+Valentin,Rosier,393214,32.1,2775,Defender
+Muhannad,Asiri Abu Radiah,122749,0,0,Forward
+Marcus Christer,Rohdén,51151,12.27,1624,Midfielder
+Mahdi,Camara,426712,0,0,Midfielder
+Lys,Mousset,245813,7.39,551,Forward
+Théo,Pellenard,27958,6.580000000000001,1404,Defender
+Eloi,Amagat Arimany,167104,0,8,Midfielder
+Aiden,McGeady,101666,1.22,39,Midfielder
+M'Baye Babacar,Niang,25898,39.20000000000001,1774,Forward
+Angelo,Obinze Ogbonna,21100,32.84,2970,Defender
+Héctor,Hernández Ortega,6925,0,0,Defender
+Suat,Serdar,302600,22.029999999999998,1698,Midfielder
+Gabriel Moisés,Antunes da Silva,21550,10.06,2074,Defender
+Manuel Alejandro,García Sánchez,7585,18.690000000000005,2432,Midfielder
+Tim,Kleindienst,228765,22.150000000000002,1113,Forward
+Matteo,Darmian,21095,2.1899999999999995,550,Defender
+Neven,Subotić,14801,23.450000000000003,1710,Defender
+Brad,Jones,7947,0,0,Goalkeeper
+Malcom Filipe,Silva de Oliveira,300485,48.88,2860,Forward
+Benjamin,Bourigeaud,228981,26.61,3106,Midfielder
+Papakouli,Diop,3704,4.37,1183,Midfielder
+Facundo Julián,Píriz González,116345,5.3100000000000005,796,Midfielder
+Pietro,Pellegri,481329,2.6599999999999997,277,Forward
+Devid Eugene,Bouah,532436,0,0,Defender
+Kevin,Kampl,16110,21.78,2047,Midfielder
+Rafael,Alcântara do Nascimento,3344,32.5,1046,Midfielder
+Vincent,Pajot,25650,15.440000000000001,1315,Midfielder
+Marcel,Heller,15695,8.999999999999998,1299,Midfielder
+Manuel,Trigueros Muñoz,3542,23.789999999999996,2714,Midfielder
+Mário Rui,Silva Duarte,22107,14.950000000000003,2101,Defender
+André-Frank,Zambo Anguissa,366401,30.179999999999996,2435,Midfielder
+Jayson,Molumby,399579,0,0,Midfielder
+Patrick ,van Aanholt,454,18.89,2169,Defender
+Marcin,Kamiński,99410,10.17,1073,Defender
+Sergio Germán,Romero,20606,0,0,Goalkeeper
+Andrej,Kramarić,69411,62.24000000000001,2552,Forward
+Scott,McTominay,397174,2.0399999999999996,613,Midfielder
+Yussuf,Yurary Poulsen,56274,33.9,1924,Forward
+Carl,Stewart,487048,0,0,Midfielder
+Gojko,Kačar,14900,3.58,226,Midfielder
+Emiliano,Moretti,21279,17.14,1781,Defender
+David Luiz,Moreira Marinho,7892,11.5,842,Defender
+Luca,Ceppitelli,21639,26.560000000000006,2224,Defender
+Manuel,Gulde,19720,22.73,1530,Defender
+Albin,Ekdal,20876,21.56,1691,Midfielder
+Pierre-Daniel,Nguinda Ndiffon,331916,0,0,Defender
+Federico,Palacios Martinez,224484,0,0,Forward
+Najib,Gandi,229119,0.5,71,Midfielder
+Pau,López Sabata,247206,0,0,Goalkeeper
+Dennis,Smarsch,433009,0,0,Goalkeeper
+Nathan,Ferguson,447248,0,0,Defender
+José Luis,Gayá Peña,4892,15.689999999999998,2905,Defender
+Bartolomeu Jacinto,Quissanga,208865,18.850000000000005,1397,Defender
+Pa Momodou,Konate,50807,0,0,Defender
+Marco,Benassi,22380,45.169999999999995,2795,Midfielder
+Aleksandar,Kolarov,8306,26.769999999999992,3331,Defender
+David ,Meyler,8531,0,0,Midfielder
+Francesco,Migliore,22559,0.44,323,Defender
+Pedro Tanausú,Domínguez Placeres,4969,13.870000000000001,1552,Midfielder
+Gabriel Martín,Peñalba,29642,4.090000000000001,572,Midfielder
+Harry,Souttar,367326,0,0,Defender
+Jérémy,Sorbon,25883,32.15,2610,Defender
+Hamari,Traoré,228963,17.270000000000003,2640,Defender
+Daniel,Raba Antolí,412897,18.439999999999998,1139,Midfielder
+Bernardo,Mota Veiga de Carvalho e Silva,265673,42.92,1741,Midfielder
+Adrien,Hunou,229124,10.620000000000001,1439,Midfielder
+Dodi,Lukebakio,291528,0,16,Midfielder
+Willem,Geubbels,497355,0.15,25,Forward
+Jannik,Huth,224622,0,0,Goalkeeper
+Josh,Risdon,61367,0.04,270,Defender
+Alfred Benjamin,Gomis,21098,0,0,Goalkeeper
+Leighton,Baines,8239,7.35,1910,Defender
+Francesco,Acerbi,20635,50.59000000000001,3420,Defender
+Dylan,Lempereur,487983,0.37,136,Defender
+Eugenio,Lamanna,21636,0,0,Goalkeeper
+Valentino,Lazaro,208652,16.240000000000002,1859,Midfielder
+Andrew ,Nabbout,238055,0.26,139,Forward
+Johan Andrés,Mojica Palacio,91702,18.57,2520,Defender
+Chima,Okoroji,330446,0,0,Defender
+Leonardo,Carrilho Baptistão,7623,52.7,2668,Forward
+Andreas Evald,Cornelius,135150,17.509999999999998,1068,Forward
+Jay,Rodriguez,8958,34.92,2822,Forward
+Enzo Alan,Zidane Fernández,279541,0,71,Midfielder
+Rubén,Duarte Sánchez,225022,8.629999999999999,2149,Defender
+Mauro Emanuel,Icardi Rivero ,206314,70.77000000000001,2971,Forward
+Shane,Ferguson,7979,0.08,66,Midfielder
+Olivier,Boscagli,296888,0,0,Defender
+Lukas,Hinterseer,65124,0,0,Forward
+Patrick,Burner,328488,9.089999999999998,883,Defender
+Roger Beyker,Martínez Tobinson,267134,2.8200000000000003,225,Forward
+Valentin Enrique,Pimentel Armuelles,361511,0,0,Midfielder
+Lucas,Digne,25701,14.93,689,Defender
+Ben Lhassine,Kone,530642,0,0,Midfielder
+Moses,Makasi,379207,0,0,Midfielder
+Danny ,Vieira da Costa,14772,14.89,1185,Defender
+Valter,Birsa,21291,13.23,2487,Midfielder
+Héctor Miguel,Herrera López,112459,2.69,360,Midfielder
+Bořek,Dočkal,54375,0,71,Midfielder
+Fabián,Ruiz Peña,346195,66.49999999999999,2662,Midfielder
+Enzo Nicolás,Pérez,86234,0.98,195,Midfielder
+Glenn ,Whelan,8744,0.36,180,Midfielder
+Simone,Calvano,20403,2.52,629,Midfielder
+Łukasz,Teodorczyk,99479,0.31,29,Forward
+Alassane,Pléa,25410,75.39,3041,Forward
+Maciej,Rybus,99391,2.34,180,Defender
+Jordan,Pickford,10131,0,0,Goalkeeper
+Ádám,Lang,76201,2.37,594,Defender
+Xian,Emmers,412915,0,0,Midfielder
+Piotr,Zieliński,99902,42.509999999999984,1970,Midfielder
+Emmanuel,Imorou,70171,0,33,Defender
+Ferland,Mendy,276979,32.27,2123,Defender
+Fabian,Johnson,15804,3.25,435,Midfielder
+Aymeric ,Laporte,134502,39.31,2517,Defender
+Íñigo,Lekue Martínez,230862,13.370000000000001,2073,Defender
+Jonathan,Leko,399517,0,0,Forward
+Mariano Julio,Izco,21078,1.18,150,Midfielder
+Ergys,Kaçe,93608,0,28,Midfielder
+Ivan,Rakitić,3476,64.99000000000001,3855,Midfielder
+Wojciech ,Szczęsny,7849,0,0,Goalkeeper
+Dimitry,Bertaud,366528,0,0,Goalkeeper
+Antonio Manuel,Luna Rodríguez,3464,9.24,2021,Defender
+Niklas ,Lomb,18938,0,0,Goalkeeper
+José María,Giménez de Vargas,227894,31.550000000000004,2028,Defender
+Tristan,Dingomé,149062,3.19,1195,Midfielder
+Daniel,Sturridge,7907,18.11,695,Forward
+Carlos Arturo,Bacca Ahumada,37831,66.21000000000001,2601,Forward
+Anthony,Mandrea,287521,0,0,Goalkeeper
+Dénes,Dibusz,75331,0,0,Goalkeeper
+Hakim,Ziyech,221039,1.7000000000000002,265,Midfielder
+Gilles,Sunu,26044,2.33,585,Forward
+Samuel Yves,Umtiti,25397,51.14000000000001,3029,Defender
+Dimitri,Liénard,28990,9.9,2605,Midfielder
+Stephan Kofi,Ambrosius,391603,0.54,46,Defender
+Carlos Alberto,Sánchez Moreno,26518,11.1,1644,Midfielder
+Ionuț Cristian,Săpunaru,70090,1.94,270,Defender
+Hicham,Mahou,437011,0.02,40,Midfielder
+Danilo Luiz,da Silva,70083,21.65,1426,Defender
+Marcello,Gazzola,22152,1.04,743,Defender
+Vincent,Thill,406156,0,26,Midfielder
+Daniel,Amartey,217078,2.56,505,Midfielder
+Fabrizio,Caligara,434142,0,18,Midfielder
+Karim,Bellarabi,14786,23.35,1121,Midfielder
+Jon,Guridi Aldalur,279566,0.09,36,Midfielder
+Stefan,Posch,282799,7.44,757,Defender
+Björn,Bergmann Sigurðarson,54495,0.11,38,Forward
+Karim,Benzema,3321,73.51,2124,Forward
+Jose Carlos,Sanchez Gonzalez,476095,0,0,Midfielder
+Daichi,Kamada,365880,0.5700000000000001,145,Midfielder
+Abdoulaye,Diallo,25633,0,0,Goalkeeper
+Dominic,Calvert-Lewin,293687,44.60000000000001,1857,Forward
+Hervé,Bazile,26069,1.6499999999999997,871,Forward
+Marko,Dmitrović,140046,0,0,Goalkeeper
+Timothy,Castagne,263803,15.299999999999999,1492,Defender
+Jimmy,Giraudon,29291,20.969999999999995,2089,Defender
+Brais,Méndez Portela,302550,16.2,952,Midfielder
+Bruno Miguel,Boialvo Gaspar,222766,11.900000000000002,772,Defender
+Alexander,Nábel,333477,0,0,Goalkeeper
+Francisco Javier ,García Fernández,70120,24.97,2403,Midfielder
+Leon,Bailey Butler,388267,42.57999999999999,2220,Forward
+László,Kleinheisler,74943,5.16,169,Midfielder
+Alejandro,Pozo Pozo,396513,0,0,Midfielder
+Ivan,Santini,15004,36.96,2777,Forward
+David Ángel,Abraham,49856,38.47999999999999,2296,Defender
+Gian-Luca,Waldschmidt,258254,15.139999999999997,806,Forward
+Nemanja,Nikolić,74958,0,24,Forward
+Jean-François,Gillet,20667,0,0,Goalkeeper
+Duván Esteban,Zapata Banguera,86243,45.919999999999995,2113,Forward
+Davide,Di Gennaro,20972,0,0,Midfielder
+Jordan,Amavi,214628,38.04,2188,Defender
+Ali,Al Bulayhi,398219,0,90,Defender
+Daley,Blind,38,1.27,347,Defender
+Nicola,Rigoni,21148,3.64,897,Midfielder
+Papiss Mison,Djilobodji,25524,32.98,2700,Defender
+Lewis,Dunk,9097,44.22,3420,Defender
+Leandro,Chichizola,86319,0,0,Goalkeeper
+Leonardo,Spinazzola,190167,9.43,1505,Midfielder
+Marco,Verratti,21383,24.7,1744,Midfielder
+Norberto,Murara Neto,20922,0,0,Goalkeeper
+David,Olatukunbo Alaba,14724,21.66,1787,Defender
+Leandro Daniel,Cabrera Sasía,3885,5.68,1059,Defender
+Cédric,Varrault,26374,14.12,885,Defender
+Abdoul Razzagui,Camara,25474,13.51,893,Midfielder
+Matías Nahuel,Leiva Esquivel,254188,1.9,250,Midfielder
+Erik,Durm,18706,0,0,Defender
+Seybou,Koita,274345,2.31,183,Forward
+Daniel,Wass,26652,29.950000000000003,2932,Midfielder
+Sébastien,Salles Lamonge,271888,0,0,Midfielder
+Alexandre,Olliero,366573,0,0,Goalkeeper
+Matías Agustín,Silvestre,20811,39.61999999999999,3060,Defender
+Steven,Defour,70092,17.020000000000003,2012,Midfielder
+Aron Einar,Gunnarsson,77521,3.88,679,Midfielder
+Alexandre,Letellier,26245,0,0,Goalkeeper
+Léo,Dubois,242446,11.530000000000001,3028,Defender
+Vincenzo,Pinto,486945,0,0,Forward
+Christopher,Jullien,144884,44.56,2607,Defender
+Adrien,Rabiot,209117,57.09000000000001,2366,Midfielder
+Philipp,Bargfrede,14692,15.620000000000003,1857,Midfielder
+Federico,Mattiello,146590,14.100000000000001,2217,Defender
+Fouad,Chafik,29748,9.34,1599,Defender
+Javier,Manquillo Gaitán,3436,9.219999999999997,1759,Defender
+Sergej,Milinković-Savić,265865,70.82,3118,Midfielder
+José,Holebas,92899,4.48,2387,Defender
+Ledian,Memushaj,22323,9.899999999999999,1442,Midfielder
+Nicholas,Pierini,415348,0.1,39,Forward
+Chris,Wood,9206,38.1,1619,Forward
+Théodore,Efouba Ayissi,394008,0,0,Defender
+Carles,Gil de Pareja Vicent,4879,8.39,473,Midfielder
+Lars,Stindl,15051,57.309999999999995,2732,Forward
+Nils,Petersen,14734,27.250000000000004,2248,Forward
+Eder,Citadin Martins,20626,14.549999999999999,1054,Forward
+Trevoh,Chalobah,346131,0,0,Defender
+Guillaume,Gillet,37734,0,15,Midfielder
+Riechedly,Bazoer,1729,4.640000000000001,573,Midfielder
+Rob,Elliot,7974,0,0,Goalkeeper
+Borja,Mayoral Moya,344120,21.01,321,Forward
+Marcelo,Brozović,69968,60.06999999999999,2679,Midfielder
+Dwight,McNeil,532949,0,0,Midfielder
+Isaac,Hayden,134294,13.08,1351,Midfielder
+Liam,Rosenior,9622,0,162,Defender
+Caleb,Stanko,145030,2.07,186,Midfielder
+Ervin,Zukanović,38532,26.439999999999998,2790,Defender
+Ibrahima,M'baye,22377,12.319999999999999,1777,Defender
+Kerem,Demirbay,221333,6.920000000000001,1211,Midfielder
+Davy,Pröpper,466,29.65,3136,Midfielder
+Marcel,Halstenberg,18579,11.709999999999999,1180,Defender
+Kári,Árnason,62221,9.0,586,Defender
+Olivier,Verdon,342194,0,0,Defender
+Keagan,Dolly,244335,17.21,867,Forward
+Fayçal,Fajr,25888,10.82,2414,Midfielder
+Tom,Rogić,61407,2.81,226,Midfielder
+José Aurelio,Carvallo Alonso,114567,0,0,Goalkeeper
+Jesús,Gámez Duarte,3557,0,97,Defender
+Federico,Ravaglia,471286,0,0,Goalkeeper
+Killian,Jakob,391449,2.31,141,Defender
+Dan,Gosling,7989,11.129999999999999,1924,Midfielder
+Moritz,Nicolas,327077,0,0,Goalkeeper
+Aaron,Ramsey,7870,78.45,2296,Midfielder
+Sherif,Ekramy Ahmed,120151,0,0,Goalkeeper
+Pape ,N'Diaye Souaré,25703,0.18,8,Defender
+Aritz,Castro Pérez,410869,0,0,Goalkeeper
+Ramiro,Guerra Pereyra,282445,0,63,Midfielder
+Syam,Ben Youssef,10014,0.62,131,Defender
+Fágner,Conserva Lemos,40707,0.36,360,Defender
+Firmin Ndombe,Mubele,264989,29.34,1560,Forward
+Abdoulaye,Doucouré,28292,54.36,3325,Midfielder
+Federico,Ricci,250956,8.96,1129,Forward
+Granit,Xhaka,49876,58.14,4016,Midfielder
+Christoph,Janker,15095,0.08,17,Defender
+Alfreð,Finnbogason,37948,46.06999999999999,2163,Forward
+José Manuel,García Naranjo,265807,2.42,534,Forward
+Harry ,Maguire,8653,77.35000000000001,4064,Defender
+José Ángel,Valdés Díaz,20436,16.939999999999998,2431,Defender
+Fabian Lukas,Schär,50102,57.39000000000003,2880,Defender
+Kai,Havertz,425925,48.910000000000004,2141,Midfielder
+Matthew,Lowton,8643,17.86,2294,Defender
+Adama,Niane,219350,33.050000000000004,2143,Forward
+Mamadou Jean-Luc,Diarra Dompé ,248632,0.01,28,Midfielder
+Raúl Mario,Ruidíaz Misitich,89571,0,0,Forward
+Lorenzo,Bruzzi,536520,0,0,Goalkeeper
+Anthony,Knockaert,25950,20.880000000000003,2411,Midfielder
+Mikel,Merino Zazón,339789,14.08,1329,Midfielder
+Khadim,N'Diaye,133897,0,0,Goalkeeper
+Augusto Matías,Fernández,86623,0.12000000000000001,82,Midfielder
+Christian,Bolaños Navarro,55988,0,66,Midfielder
+Jack,Stephens,8136,26.38,1980,Defender
+Andrés Eduardo,Fernández Moreno,3486,0,0,Goalkeeper
+Phil,Jones,7918,30.869999999999997,2155,Defender
+Lucas,Tousart,342743,17.76,3139,Midfielder
+Gabriel,Boschilia,255320,1.49,67,Midfielder
+Driss,Khalid,437057,0.13,28,Forward
+Ulisses Alexandre,Garcia Lopes,329202,0.8099999999999999,90,Defender
+Mohammad Ibrahim,Al Sahlawi,122671,0.02,97,Forward
+Norbert,Gyömbér,104937,1.38,84,Defender
+Pavel,Kadeřábek,82487,19.299999999999997,2468,Defender
+Josef,Šural,82359,0.02,42,Forward
+Christophe,Kerbrat,25943,38.69000000000001,3321,Defender
+Mikel,Vesga Arruti,286963,9.219999999999999,806,Midfielder
+Alfonso,Pedraza Sag,359847,32.66000000000001,2442,Midfielder
+Memphis,Depay,118,74.28,2553,Forward
+Andrey,Semenov,102629,0,0,Defender
+Moussa Sidi Yaya,Dembélé,11152,20.819999999999997,2104,Midfielder
+Yasir Gharsan,Al Shahrani,122940,2.62,270,Defender
+Łukasz,Piszczek,14798,29.53,2733,Defender
+Jonathan,Rodríguez Menéndez,6684,0.29,213,Midfielder
+Florian,Lejeune,3523,38.45,2104,Defender
+Nicolò,Cabras,545472,0,0,Goalkeeper
+Marten,de Roon,625,31.739999999999995,2616,Midfielder
+Benjamin,Vérité,499200,0,0,Midfielder
+Gianluca,Gaudino,272280,0,14,Midfielder
+Gonzalo Gerardo,Higuaín,3323,70.72000000000001,2908,Forward
+Ibrahim,Sangaré,375001,10.38,1586,Midfielder
+Kenny,Rocha Santos,453631,0,0,Midfielder
+José Martín,Cáceres Silva,20460,15.620000000000001,2058,Defender
+Stefan,Ilsanker,65027,16.31,1445,Midfielder
+Loïc,Badiashile Mukinayi,353821,0,0,Goalkeeper
+David,García Santana,4355,10.749999999999998,854,Defender
+Rodney,Wallace Burns,59126,0,0,Midfielder
+Martin,Kelly,7958,10.579999999999998,1196,Defender
+Collin,Quaner,16436,32.82,1263,Forward
+Gerrit,Holtmann,224896,13.190000000000001,881,Midfielder
+Wendell,Nascimento Borges,40657,16.14,2172,Defender
+Yann,Jouffre,26033,0.13999999999999999,277,Midfielder
+Guido,Guerrieri,241675,0,0,Goalkeeper
+Felipe Nicolás,Avenatti Dovillabichus,149848,1.8900000000000001,409,Forward
+Gabriel,Fernández Arenas,3441,4.809999999999999,2338,Midfielder
+Yoann ,Gourcuff,25406,8.859999999999998,414,Midfielder
+José,Alonso Lara,472489,0.37,9,Midfielder
+Lorenzo,Callegari,347198,0,0,Midfielder
+Eiji,Kawashima,37896,0,0,Goalkeeper
+Jordan,Marié,30427,7.12,1877,Midfielder
+Oribe,Peralta Morones,112710,0,0,Forward
+Christopher,Martins Pereira,216614,0.33,69,Midfielder
+Rafael,Tolói,41034,39.24999999999999,2473,Defender
+Steven,Zuber,49997,23.37,1697,Midfielder
+Federico,Bernardeschi,246061,36.88,884,Midfielder
+Ville Matti,Steinmann,221376,5.7700000000000005,599,Midfielder
+Míchel,Macedo Rocha Machado,4238,7.42,2120,Defender
+Francisco Román,Alarcón Suárez,3563,60.37999999999999,2158,Midfielder
+Prince,Oniangué,26539,12.520000000000001,1114,Midfielder
+Ederson,Santana de Moraes,71654,0,0,Goalkeeper
+Rachid,Ghezzal,28117,19.650000000000002,980,Midfielder
+Luiz Gustavo,Dias,14722,54.87999999999998,3047,Midfielder
+Douglas,dos Santos Justino de Melo,143566,13.889999999999999,2378,Defender
+Josha Mamadou,Karaboue Vagnomann,503185,0,0,Defender
+Rafik,Zekhnini,361214,0,0,Forward
+Brighton,Labeau,331913,0,13,Forward
+Sebastián Carlos,Cristóforo Pepe,116170,2.22,266,Midfielder
+Laurent,Depoitre,38377,17.570000000000004,1787,Forward
+Manuel,De Luca,471300,0,0,Forward
+Théo,Barbet,543527,0,0,Defender
+Takashi,Inui,14836,44.800000000000004,2926,Midfielder
+Adrian,Mariappa,8889,15.93,2209,Defender
+Shaquell,Moore,259524,2.56,407,Defender
+Camilo Andrés,Vargas Gil,91039,0,0,Goalkeeper
+Bryan,Cristante,20404,46.5,2833,Midfielder
+Francesc,Fàbregas i Soler,3350,24.71,2637,Midfielder
+Filipe Luis,Kasmirski,3434,20.400000000000002,1827,Defender
+Naomichi,Ueda,137661,0,0,Defender
+Gianluca,Lapadula,115933,12.509999999999998,1461,Forward
+Julien,Ielsch,26055,1.03,602,Defender
+Julian,Draxler,14862,57.410000000000004,2197,Midfielder
+Leonel,Moreira Ledezma,125510,0,0,Goalkeeper
+Lovre,Kalinić,69353,0,0,Goalkeeper
+Marc,Janko,70100,0.37,109,Forward
+Karl-Johan,Johnsson,50771,0,0,Goalkeeper
+Brandon,Thomas Llamas,247162,7.369999999999999,350,Forward
+Julian,Schuster,14998,5.4,1305,Midfielder
+Gideon,Jung,241966,23.36,2594,Defender
+Jonás ,Ramalho Chimeno,3407,22.749999999999996,2297,Defender
+Deian,Boldor,137143,1.37,90,Defender
+Sam,McQueen,297733,0.86,127,Midfielder
+Martín,Montoya Torralbo,3339,22.44,2152,Defender
+Mario,Gómez García,14731,47.12,2654,Forward
+Florent,Hadergjonaj,282550,7.48,1672,Defender
+Diego,Hernández Barriuso ,520163,1.52,112,Midfielder
+Jermain ,Defoe,8296,11.87,899,Forward
+Reece,Oxford,340476,2.2800000000000002,464,Defender
+Andreas,Isaksson,97,0,0,Goalkeeper
+Georges Constant,Mandjeck,25503,8.08,972,Midfielder
+Raphael,Framberger,224965,1.02,696,Defender
+Johan Danon,Djourou-Gbadjere,7850,8.700000000000001,480,Defender
+Robin,Olsen,50798,0,0,Goalkeeper
+Victor,Nilsson Lindelöf,71703,18.750000000000004,1911,Defender
+Cédric,Yamberé,215036,36.19,2835,Defender
+Mike-Steven,Bähre,224877,0,0,Midfielder
+Yerry Fernando,Mina González,256634,16.99,660,Defender
+Karim,Achahbar,260001,0,0,Forward
+Mathieu,Deplagne,25990,19.41,2437,Defender
+Florian,Grillitsch,135561,26.919999999999998,1892,Midfielder
+Benjamin,Pavard,340646,38.910000000000004,3600,Defender
+Riccardo,Piscitelli,134475,0,0,Goalkeeper
+Jonathan,Rivierez,26138,8.33,2058,Defender
+Baïssama,Sankoh,25947,10.09,1515,Defender
+Jan,Vertonghen,48,60.149999999999984,4104,Defender
+Tomás Eduardo,Rincón Hernández,14903,16.269999999999992,3008,Midfielder
+Emerson,Palmieri dos Santos,40787,8.200000000000001,286,Defender
+Salomon Junior,Sambia,335763,22.19,1533,Midfielder
+Ruben,Droehnle,372909,0,0,Defender
+Ignacio,Gil de Pareja Vicent,293862,7.82,948,Forward
+Gerard,Valentín Sancho,275497,1.32,152,Defender
+Kenan,Karaman,165431,4.9,813,Forward
+Jonathan,Bamba,276944,49.49,2570,Forward
+Philipp,Tschauner,16010,0,0,Goalkeeper
+Sergio,González Testón,279548,0,0,Defender
+Lorenzo,De Silvestri,20927,33.87,2962,Defender
+Raúl,Lizoáin Cruz,4350,0,0,Goalkeeper
+Mikel,Balenziaga Oruesagasti,3750,8.790000000000001,1555,Defender
+Luca,Mora,22864,0.5700000000000001,934,Midfielder
+Ramy,Bensebaini,334720,28.84,2342,Defender
+Nikola,Vlašić,284476,2.34,572,Midfielder
+George,Gope-Fenepej,132972,0.11,38,Forward
+Mame Biram,Diouf,15054,37.559999999999995,2633,Forward
+Henri,Saivet,25604,1.9800000000000002,83,Midfielder
+Dujon,Sterling,346135,0,0,Defender
+Florian,Niederlechner,15503,8.67,701,Forward
+Pedro,Lomba Neto,496823,0,0,Forward
+Noë,Dussenne,37959,0,82,Defender
+Sergio,Postigo Redondo,3496,19.78,2415,Defender
+Jonathan,Tinhan,26006,0,58,Forward
+Nacer,Chadli,261,7.780000000000001,577,Midfielder
+Matheus,Pereira da Silva,363991,0,0,Midfielder
+Makan,Macalou,265128,0,0,Forward
+Yuto,Nagatomo,20517,7.970000000000001,1137,Defender
+Jason,Denayer,278872,0.8500000000000001,90,Defender
+Weston ,McKennie,471348,5.24,1235,Midfielder
+Nemanja,Matić,70122,38.82,3389,Midfielder
+Danijel,Subašić,135747,0,0,Goalkeeper
+Davide,Zappacosta,22889,10.6,1172,Defender
+Séamus,Coleman,8240,14.349999999999996,1396,Defender
+Daryl,Murphy,8603,1.46,135,Forward
+Marvin,Compper,15800,1.69,90,Defender
+Davide,Borsellini,393566,0,0,Goalkeeper
+Andrea,Consigli,20832,0,0,Goalkeeper
+Bakary,Sako,25865,7.180000000000001,433,Midfielder
+Danijel,Miličević,37796,7.9399999999999995,709,Midfielder
+Matt,Ritchie,9227,21.72,2809,Midfielder
+Yannis,Clementia,367041,0,0,Goalkeeper
+Anwar,El Ghazi,286553,47.169999999999995,1636,Forward
+Mario,Hermoso Canseco,279533,21.219999999999995,1980,Defender
+Rubén Iván,Martínez Andrade,3554,0,0,Goalkeeper
+Marc,Muniesa Martínez,3340,13.0,1129,Defender
+Pio Francesco,Russo,535738,0,0,Midfielder
+Serge,Aurier,25785,12.86,1449,Defender
+Ogenyi Eddy,Onazi,139548,0,0,Midfielder
+Tashan,Oakley-Boothe,447965,0,0,Midfielder
+Héctor,Bellerín Moruno,167145,29.020000000000007,3051,Defender
+Viktor,Claesson,51144,6.08,434,Midfielder
+Rubén,Blanco Veiga,3822,0,0,Goalkeeper
+Trent,Alexander-Arnold,346101,4.36,1654,Defender
+Faustino Marcos Alberto,Rojo,101652,17.21,868,Defender
+Yannick,Ferreira Carrasco,134769,30.64,1341,Forward
+Habibou Mouhamadou,Diallo,294697,0,0,Forward
+Ramin,Rezaeian,79098,0.02,270,Defender
+William,de Asevedo Furtado,343685,6.0600000000000005,1611,Defender
+Rafał,Gikiewicz,99749,0,0,Goalkeeper
+Erick Javier,Davis Grajales,116364,0.97,180,Defender
+Michael Amir,Murillo Bermudez,361498,0,180,Defender
+Marco,Reus,15024,22.650000000000002,1146,Forward
+Pirmin,Schwegler,15256,3.63,2327,Midfielder
+Morgan,Poaty,343116,0,172,Defender
+Winston ,Reid,8553,16.37,1454,Defender
+Kevin,Danso,366217,13.62,1109,Defender
+Mohammed Khalil,Al Owais,248328,0,0,Goalkeeper
+Gnégnéri Yaya,Touré,8324,8.75,220,Midfielder
+Andrea,Masiello,20841,34.470000000000006,2686,Defender
+James,McCarthy,8624,1.45,502,Midfielder
+Lorenzo,Crisetig,20526,2.8000000000000003,560,Midfielder
+Jonathan,Castro Otto,4424,17.97,3201,Defender
+Tomáš,Hubočan,101555,2.2600000000000002,270,Defender
+Claudio Miguel,Pizarro Bossio,14707,10.61,556,Forward
+Jaroslav,Drobný,14882,0,0,Goalkeeper
+Chris,Philipps,138577,3.1400000000000006,852,Midfielder
+Zouhair,Feddal,3791,13.440000000000001,1257,Defender
+Naïm,Sliti,26100,46.42,2481,Midfielder
+Fabián Ariel,Orellana Valenzuela,3843,13.119999999999997,1203,Midfielder
+Pylyp,Budkivskyi,138457,0,0,Forward
+Siriki,Sanogo,564512,0.33,37,Forward
+Adrien ,Tameze,28230,24.89,1640,Midfielder
+Simon,Falette,26021,18.27,2326,Defender
+Marco,Höger,14863,11.64,1671,Midfielder
+Michael,Krohn-Dehli,56025,7.830000000000001,1258,Midfielder
+Rafael,Pereira da Silva,7920,18.7,1805,Defender
+Bogdan Sorin,Stancu,33235,3.32,264,Forward
+Francis Odinaka,Uzoho,285491,0,0,Goalkeeper
+Mike,Maignan,134496,0,0,Goalkeeper
+Yohann,Pelé,25781,0,0,Goalkeeper
+Volkan,Şen,32566,0,105,Midfielder
+Juan Marcos,Foyth,456053,0,0,Defender
+Fabio,Della Giovanna,286219,0,0,Defender
+Alberto ,Bueno Calvo,3779,3.3099999999999996,182,Forward
+Cheikhou,Kouyaté,37725,28.829999999999995,2920,Midfielder
+David,de Gea Quintana,7910,0,0,Goalkeeper
+André Martín,Carrillo Díaz,70156,18.47,1784,Midfielder
+Alessandro,Matri,20478,12.42,845,Forward
+Josip,Drmic,50023,13.280000000000003,552,Forward
+Bruno Miguel,Borges Fernandes,243588,0,88,Midfielder
+Sergio,Sánchez Ortega,3562,0,102,Defender
+Mateo,Kovačić,69404,23.630000000000003,1178,Midfielder
+Ben,Hamer,8066,0,0,Goalkeeper
+Zinho,Vanheusden,399493,0,0,Defender
+Gnaly Maxwell,Cornet,228946,46.64,1238,Forward
+Chancel,Mbemba Mangulu,37726,4.52,666,Defender
+Roberto,Soriano,20623,11.239999999999998,1116,Midfielder
+Luca,Pellegrini,397239,0,0,Defender
+Aleksandar,Prijović,50411,0,0,Forward
+Boubakary,Soumaré,397033,4.9399999999999995,478,Midfielder
+Luka,Modrić,8287,45.32,2941,Midfielder
+Sebastian,Larsson,8529,0.33,567,Midfielder
+Pedro,López Galisteo,6577,0,0,Goalkeeper
+Maxime,Dupé,25519,0,0,Goalkeeper
+Randal,Kolo Muani,437490,0,0,Forward
+Daniel,Molina Orta,293856,0,0,Midfielder
+Karlo,Butić,386656,0,0,Forward
+Gaetano,Letizia,24838,9.9,2167,Defender
+Carlos,Martínez Díez,3672,0,0,Defender
+Ademola,Lookman,406682,19.34,717,Midfielder
+Thomas,Edwards,447812,0,483,Defender
+Paulo André,Rodrigues de Oliveira,70507,27.55,2214,Defender
+Marko,Grujić,237268,0.15,6,Midfielder
+Lorenzo,Tonelli,21006,7.630000000000001,350,Defender
+Hrvoje,Milić,69874,0,0,Defender
+Jason,Eyenga-Lokilo,520317,0,0,Forward
+Ron-Robert,Zieler,15032,0,0,Goalkeeper
+Éver Maximiliano David,Banega,3280,27.16,2618,Midfielder
+Moritz,Bauer,49971,1.5,1314,Defender
+Joshua,Sims,302520,6.950000000000001,159,Midfielder
+Antonio,Mirante,20483,0,0,Goalkeeper
+Alex Raúl,Rodríguez Ledezma,167241,0,0,Goalkeeper
+Idrissa Gana,Gueye,25706,26.840000000000003,3049,Midfielder
+Marlon,Frey,257337,0,0,Midfielder
+Papa Alioune,N'Diaye,207164,18.529999999999998,1221,Midfielder
+Gabriele,Marchegiani,343915,0,0,Goalkeeper
+Ben,Johnson,447963,0,0,Defender
+Simone,Pontisso,364641,0.27999999999999997,10,Midfielder
+Jérémie,Porsan-Clemente,280116,0,90,Forward
+Danilo Luís,Hélio Pereira,20496,2.07,213,Midfielder
+Sergi,Roberto Carnicer,3347,49.25999999999999,2297,Defender
+Federico Santiago,Valverde Dipetta,364005,10.499999999999998,1164,Midfielder
+Jon Ander,Serantes Simon,6363,0,0,Goalkeeper
+Walter Daniel,Benítez,86745,0,0,Goalkeeper
+Dylan,Bronn,295747,2.12,114,Defender
+Pol Mikel,Lirola Kosok,354123,5.470000000000001,2023,Defender
+Nathan,Trott,447762,0,0,Goalkeeper
+Sergio,Busquets i Burgos,3346,53.93,3350,Midfielder
+Burim,Kukeli,50264,0,164,Midfielder
+Alexander,Stolz,15512,0,0,Goalkeeper
+Mandela,Egbo,286823,0,0,Defender
+Dion,Henry,353927,0,0,Goalkeeper
+Riyad,Mahrez,26150,62.54000000000002,2957,Midfielder
+Samuel,Moutoussamy,299154,2.35,428,Midfielder
+Sergio,Mora Sánchez,4593,2.11,757,Midfielder
+Federico,Fernández,21164,34.519999999999996,2677,Defender
+Alexandre,Mendy,274970,14.219999999999999,794,Forward
+Marco,Tumminello,347026,11.61,177,Forward
+Alessio,Cerci,20947,19.319999999999997,1635,Forward
+Paul,Verhaegh,15775,13.71,2619,Defender
+Dante Bonfim,da Costa Santos,15010,34.99,2970,Defender
+Michael,Scarf,532651,0,0,Defender
+Nemanja,Maksimović,265864,5.0,516,Midfielder
+Glen,Johnson,7957,2.7500000000000004,543,Defender
+Bacary,Sagna,7858,14.67,1615,Defender
+Aaron,Hunt,14706,7.390000000000001,2165,Midfielder
+Jay,Fulton,62344,0,16,Midfielder
+Salih,Özcan,356903,19.710000000000004,1671,Midfielder
+Genki,Haraguchi,94650,6.49,455,Midfielder
+Massimo ,Luongo,8286,0,0,Midfielder
+Jorge,Franco Alviz,226005,7.6,1026,Midfielder
+André,Ayew Pelé,25572,28.27,1832,Forward
+Robert,Ibáñez Castro,4880,0,0,Midfielder
+Ebenezer,Ofori,266532,0,9,Midfielder
+Markel,Areitio Cedrún,344056,0,0,Goalkeeper
+Giacomo,Figliuzzi,530879,0,0,Goalkeeper
+Onyinye Wilfred,Ndidi,265366,31.950000000000006,3201,Midfielder
+David Simón,Rodríguez Santana,4936,4.29,719,Defender
+Giacomo,Boccafoglia,503517,0,0,Defender
+Jonas,Lössl,56038,0,0,Goalkeeper
+Takashi,Usami,14730,1.35,68,Forward
+Wesley,Hoolahan,8346,6.87,181,Midfielder
+Aleksandr,Erokhin,101953,0,66,Midfielder
+Andrea,Raggi,20677,9.35,1602,Defender
+Quentin,Cornette,243931,16.39,434,Forward
+Wallace,Fortuna dos Santos,260250,8.94,997,Defender
+Daniel Nii,Tackie Mensah Welbeck,7945,34.18000000000001,1149,Forward
+Marco Davide,Faraoni,20516,15.36,1744,Defender
+Nicolás,Tagliafico,86722,1.41,350,Defender
+Yūya,Ōsako,94831,39.529999999999994,2212,Forward
+Giovanni Pablo,Simeone,269152,64.64000000000001,3008,Forward
+Yohan,Cabaye,7988,18.24,2472,Midfielder
+David Alberto,Guzmán Pérez,125260,0.12,247,Midfielder
+Ahmed,Benali,10113,3.3999999999999995,797,Midfielder
+Marko,Rog ,284315,7.260000000000002,310,Midfielder
+Edgar Miguel,Ié,70959,25.82,3147,Defender
+Ander,Capa Rodríguez,4094,9.47,2245,Defender
+Christian,Gánter,216074,12.509999999999998,3060,Defender
+Svante,Ingelsson,347593,0.9800000000000001,323,Midfielder
+Fernando Luiz,Rosa,105339,70.30000000000001,3026,Midfielder
+Edvinas,Gertmonas,240507,0,0,Goalkeeper
+Duje,Ćaleta-Car,230626,1.5,90,Defender
+Benjamin,Hábner,15719,41.69,2319,Defender
+Beñat,Etxebarria Urkiaga,3595,1.4100000000000001,1105,Midfielder
+Freddie,Ladapo,13745,0,16,Forward
+Terence,Kongolo,132,7.830000000000001,1306,Defender
+Rúben Afonso,Borges Semedo,70956,2.59,228,Defender
+Maxime,Lestienne,37836,4.82,653,Midfielder
+Igor,Lewczuk,99633,1.2,406,Defender
+Alfred John Momar,N'Diaye,32793,1.7500000000000002,252,Midfielder
+Loïc,Puyo,26068,0.13,158,Midfielder
+Seyed Majid,Hosseini,285538,0.47000000000000003,180,Defender
+Marcus,Rashford,397178,51.09999999999999,1967,Forward
+Joe,Allen,77548,38.29,3658,Midfielder
+João Pedro,Cavaco Cancelo,135903,6.69,1924,Defender
+Chris,Löwe,14796,1.3,1592,Defender
+Imoh,Ezekiel,38094,4.279999999999999,453,Forward
+Davy,Klaassen,56,1.54,244,Midfielder
+Simon,Mignolet,8514,0,0,Goalkeeper
+Kevin,Rimane,26603,0,0,Defender
+Yong,Lee,107529,0,270,Defender
+Jérémy,Morel,25557,30.210000000000004,2915,Defender
+Heung-Min,Son,14911,79.14000000000001,2569,Forward
+Mitchell,Weiser,15276,8.32,1984,Midfielder
+Mark,Noble,8561,15.32,2404,Midfielder
+Séga,Coulibaly,233855,0,90,Defender
+Moussa,Sissoko,25804,27.400000000000002,1736,Midfielder
+Christopher Paolo César,Hurtado Huertas,114624,0,27,Midfielder
+Guillermo,Varela Olivera,116166,0.61,180,Defender
+Cristiano,Biraghi,21842,11.93,2984,Defender
+Marlon,Sándermann,366197,0,0,Goalkeeper
+Allan,Marques Loureiro,40726,41.42,2856,Midfielder
+Anthony,Walongwa,217867,0.86,90,Defender
+Rúnar Alex,Rúnarsson,135174,0,0,Goalkeeper
+Renato,Steffen,217052,7.03,635,Midfielder
+Nélson,Cabral Semedo,222770,13.94,1489,Defender
+Thomas,Kessler,15235,0,0,Goalkeeper
+Yves,Bissouma,413582,17.900000000000002,1544,Midfielder
+Andrea,Costa,20609,9.440000000000001,1378,Defender
+Joshua,Kimmich,224593,56.21000000000001,2992,Defender
+Radja,Nainggolan,20879,66.69,3006,Midfielder
+Marco,Russ,14923,18.46,1127,Defender
+Marcel,Báchel,22099,8.01,1691,Midfielder
+Dong-Won,Ji,8537,0,0,Forward
+Eduardo Antonio,Salvio,3445,0.65,146,Midfielder
+Rajiv,van La Parra,173,24.489999999999995,2125,Midfielder
+Vukašin,Jovanović,258263,14.81,1440,Defender
+Amath,Diedhiou Ndiaye,344140,24.85,2885,Forward
+Daniel Filipe,Martins Carriço,70140,3.9099999999999997,450,Defender
+Jonathan Renato,Barbosa,48318,10.940000000000003,622,Forward
+Bouna,Sarr,25743,16.16,1775,Midfielder
+Luca Zinedine,Zidane,352985,0,0,Goalkeeper
+Ádám,Szalai,15200,24.680000000000003,1081,Forward
+Adama,Diakhaby,276978,13.58,802,Forward
+Aleksandar,Tonev,99423,1.18,374,Forward
+Julián Omar,Ramos Suárez,5195,8.229999999999999,1454,Midfielder
+Alejandro,Berenguer Remiro,339791,17.169999999999998,1031,Forward
+Mark ,Milligan,61425,4.489999999999999,270,Midfielder
+Amr Medhat,Warda,388928,0,146,Midfielder
+Pablo,Martinez,29616,30.240000000000006,2116,Defender
+Maarten,Stekelenburg,20428,0,0,Goalkeeper
+Gabriel Andrei,Torje,20596,0,131,Midfielder
+Sergio Leonel,Agáero del Castillo,8325,94.85,2122,Forward
+Andreas,Granqvist,21275,12.129999999999999,720,Defender
+Ante,Rebić,69616,38.31999999999999,2308,Forward
+Kyle,Walker,8277,50.72999999999999,3598,Defender
+Alessandro,Fiordaliso,416011,0,0,Defender
+Alfie,Mawson,246866,54.11,3420,Defender
+Gregoire ,Defrel,23149,6.749999999999999,461,Forward
+Kévin Manuel,Rodrigues,209012,10.239999999999998,1632,Defender
+Darko,Lazović,127534,7.739999999999999,1229,Midfielder
+Mateo Pablo,Musacchio,3526,15.47,1199,Defender
+Nicolas,N'Koulou,25558,45.749999999999986,3259,Defender
+Ryota,Oshima,94922,0,0,Midfielder
+Kyle,Naughton,8336,16.739999999999995,3031,Defender
+Gonzalo,Escalante,212644,15.129999999999999,1528,Midfielder
+Filip,Kusič,382289,0,0,Defender
+Thomas,Bolis,399181,0,0,Midfielder
+Conor,McLaughlin,8797,0,90,Defender
+Yanis,Ammour,499977,0,0,Forward
+Christian,Pulisic,391530,51.46999999999999,2311,Midfielder
+Ernest,Seka,29588,19.3,2215,Defender
+Jaume Vicent,Costa Jordá,3534,7.02,2563,Defender
+Yeltsin Ignacio,Tejeda Valverde,125268,0,0,Midfielder
+Maximiliano,Gómez González,395636,63.17,3110,Forward
+Marco,Storari,20457,0,0,Goalkeeper
+Giorgian Daniel,De Arrascaeta Benedetti,213364,0.33,86,Midfielder
+Raul Marian,Oprut,503199,0,0,Defender
+Leonardo,Bonucci,20459,34.77,3630,Defender
+Dzenis,Burnic,356908,0.5700000000000001,291,Midfielder
+Edinaldo,Gomes Pereira,41124,8.95,920,Defender
+Sven,Bender,14803,40.05000000000001,2331,Defender
+Emre,Can,18550,43.76000000000001,2161,Midfielder
+Yannis,Salibur,26604,22.939999999999998,1527,Midfielder
+Kévin,Théophile Catherine,25643,12.749999999999998,2160,Defender
+Marek,Hamšík,21171,63.51000000000001,2749,Midfielder
+César,Azpilicueta Tanco,25553,52.34000000000001,3339,Defender
+Thomas,Mangani,26120,6.420000000000001,3027,Midfielder
+Nicolas David,Andrade ,21298,0,0,Goalkeeper
+Riccardo,Ladinetti,546357,0,0,Midfielder
+Marco,Andreolli,20636,18.65,1808,Defender
+Cyril,Théréau,20663,34.65999999999999,1299,Forward
+Francisco,Casilla Cortés,3785,0,0,Goalkeeper
+Hörður,Björgvin Magnússon,135207,0.29,270,Defender
+Issiaga,Sylla,203113,21.57,1582,Defender
+Andriy,Yarmolenko,105622,28.59,1297,Forward
+Aythami,Artiles Oliva,3372,3.6199999999999997,180,Defender
+Simone,Scuffet,239288,0,0,Goalkeeper
+Haukur Heiðar,Hauksson,57644,0,0,Defender
+Roman,Zobnin,103682,6.64,510,Midfielder
+Taison,Barcellos Freda,105802,0,0,Midfielder
+Giacomo,Poluzzi,24725,0,0,Goalkeeper
+Manuel,Lombardoni,535708,0,0,Defender
+Paolo,Cannavaro,21162,15.32,1440,Defender
+José Ángel,Gómez Campaña,3470,28.410000000000004,2734,Midfielder
+Lukáš,Pokorný,268659,0,0,Defender
+Saeid,Ezatolahi Afagh,241647,2.56,166,Midfielder
+Érick Gabriel,Gutiérrez Galaviz,284267,0,0,Midfielder
+René,Adler,14766,0,0,Goalkeeper
+Sam,Hughes,393955,0,0,Midfielder
+José Luis,García del Pozo,3568,2.6599999999999997,1850,Midfielder
+Jamie,Murphy,62091,0.8400000000000001,156,Midfielder
+Jonathan,Williams,8421,0.45999999999999996,122,Midfielder
+Antonio,Martínez López,291231,0,0,Forward
+Erwin,Mulder,128,0,0,Goalkeeper
+Callum,Wilson,11669,35.44,1998,Forward
+Waldemar,Anton,272434,29.39000000000001,2260,Defender
+Thomas,Touré,27959,5.75,112,Forward
+Gergely,Hutvágner,507578,0,0,Goalkeeper
+Yassine,El Ghanassy,37714,9.389999999999999,631,Midfielder
+José María,Callejón Bueno,3313,62.529999999999994,3247,Forward
+Juan José,Narváez Solarte,91122,1.28,297,Midfielder
+Renato Júnior,Luz Sanches,258162,3.1799999999999997,1106,Midfielder
+Kevin,N'Doram,331923,7.93,716,Midfielder
+Jonathan,Tah,228768,36.400000000000006,2426,Defender
+Mark,Uth,15292,64.69,2159,Forward
+Abdou,Diallo,235450,24.97,2416,Defender
+José Luis,Rodriguez,401861,1.22,243,Midfielder
+Rekeem,Harper,447254,0,0,Midfielder
+Ozan,Tufan,223071,4.040000000000001,270,Midfielder
+Volkan,Babacan,32923,0,0,Goalkeeper
+Marcelo Antônio,Guedes Filho,102,60.980000000000004,3147,Defender
+Kurt Happy,Zouma,25854,49.87000000000001,2887,Defender
+Robin,Koch,336829,26.170000000000005,1895,Defender
+Philippe,Coutinho Correia,3802,112.14,2854,Forward
+Lucas,Vázquez Iglesias,4498,46.190000000000005,1766,Forward
+Presnel,Kimpembe,231138,33.17,2564,Defender
+Mohamed Naser,Elsayed Elneny,120339,11.600000000000001,1114,Midfielder
+Wílmar Enrique,Barrios Terán,246928,2.71,269,Midfielder
+Jakub,Jankto,354547,37.89,2653,Midfielder
+Kwasi Okyere,Wriedt,223546,0,22,Forward
+Aaron ,Lennon,8284,16.55,1916,Midfielder
+Alexander,Meyer,19004,0,0,Goalkeeper
+Mohammed,Kanno,284147,1.54,15,Midfielder
+Manuel,Lazzari,226200,17.790000000000003,3119,Midfielder
+Burak,Yılmaz,32572,1.0,205,Forward
+Calum,Chambers,171283,11.089999999999998,850,Defender
+Steve,Cook,9277,39.48,2753,Defender
+Dan-Axel,Zagadou,397028,4.59,677,Defender
+Charlie,Daniels,9285,35.0,3006,Defender
+Over,Mandanda,393230,0,0,Goalkeeper
+Ambroise,Oyongo Bitolo,125076,1.55,203,Defender
+Nicolò,Zaniolo,487020,0,0,Midfielder
+Yann,Sommer,49855,0,0,Goalkeeper
+Ciaran,Clark,8004,25.82,1925,Defender
+Sami,Khedira,3318,44.81,2362,Midfielder
+João Mário,Naval da Costa Eduardo ,70965,28.669999999999995,2397,Midfielder
+Pedro,Bigas Rigo,3644,9.599999999999998,895,Defender
+Martin,Braithwaite,55968,25.09,1131,Forward
+Christian ,Dannemann Eriksen,54,62.90999999999999,3616,Midfielder
+Jonathan Cristian,Silva,137298,0,110,Defender
+Lorenzo,Peli,422570,0,0,Forward
+Borja,Valero Iglesias,3543,28.26,2552,Midfielder
+Iván,Villar Martínez,286974,0,0,Goalkeeper
+Ethan,Ampadu,423162,0.44999999999999996,10,Defender
+Cristiano Ronaldo,dos Santos Aveiro,3322,133.48,3257,Forward
+Rodrigo,Moreno Machado,70129,71.52,2713,Forward
+Mattia,Vitale,339192,0,90,Midfielder
+Ignacio,Camacho Barnola,3566,12.559999999999999,953,Midfielder
+Arturo Erasmo,Vidal Pardo,20475,45.75,1453,Midfielder
+Pontus,Wernbloom,101604,0,0,Midfielder
+Jhon Andrés,Córdoba Copete,91519,13.25,923,Forward
+Paulo Dino,Gazzaniga,8992,0,0,Goalkeeper
+Adrien Sebastian,Perruchet Silva,70403,7.239999999999999,1240,Midfielder
+Sergio,León Limones,5268,36.14000000000001,1928,Forward
+Enis,Bardhi,280383,14.750000000000002,1552,Midfielder
+Maxime,Bernauer,352987,0,0,Defender
+José de Jesús,Corona Rodríguez,112542,0,0,Goalkeeper
+Ruben,Aguilar,28335,15.659999999999998,2457,Defender
+Bruno,Saltor Grau,3278,4.6899999999999995,2017,Defender
+Owain Fôn,Williams,11228,0,0,Goalkeeper
+Saidy,Janko,278867,6.620000000000001,1413,Defender
+Florent,Mollet,30437,22.789999999999996,1414,Midfielder
+Raffaele,Palladino,20506,2.54,230,Forward
+Julien,Féret,25647,8.710000000000003,3062,Midfielder
+Romain,Hamouma,25889,15.700000000000003,1839,Forward
+Matthias,Lehmann,15253,9.3,1517,Midfielder
+Jan,Zimmermann,16287,0,0,Goalkeeper
+Sofiane,Boufal,215983,20.74,1212,Midfielder
+Dario,Dainelli,20638,16.88,1478,Defender
+Jannes-Kilian,Horn,284524,4.5600000000000005,812,Defender
+Ján,Mucha,8238,0,0,Goalkeeper
+Thomas,Vermaelen,7860,16.68,1504,Defender
+Jérémy,Pied,25415,4.9799999999999995,180,Defender
+Iñaki,Williams Arthuer,247141,63.05,2840,Forward
+Maximiliano Gastón,López,20422,20.58,1673,Forward
+Marc,Stendera,173213,0.6,375,Midfielder
+Younousse,Sankharé,26389,32.18,1828,Midfielder
+Carlos Alberto,Vela Garrido,3685,12.590000000000002,687,Forward
+Ismaïla,Sarr,448079,46.68,2124,Midfielder
+Fraser,Forster,61941,0,0,Goalkeeper
+Lars Lukas,Mai,433100,1.35,180,Defender
+Andrea,Seculin,21840,0,0,Goalkeeper
+Antonio,Rukavina,15214,3.36,1353,Defender
+Benjamin,Lecomte,26016,0,0,Goalkeeper
+Pedro ,Mba Obiang Avomo,20620,8.970000000000002,1561,Midfielder
+Francesc Aday,Benítez Caraballo,6210,10.18,1819,Defender
+Bram,Nuytinck,394,30.03000000000001,2362,Defender
+Yunus,Mallı,15191,40.059999999999995,2262,Midfielder
+Jens Stryger,Larsen,56026,30.240000000000006,2796,Defender
+Jean-Eric Maxim,Choupo-Moting,15198,46.62,2238,Forward
+Medhi Amine,El Mouttaqi Benatia,20579,32.71000000000001,1934,Defender
+Amir,Abedzadeh,60144,0,0,Goalkeeper
+Carlos Joaquín,Correa,207001,22.79,1196,Midfielder
+Sergio Duvan,Córdova Lezama,354997,6.959999999999999,521,Forward
+Alex,Cordaz,21494,0,0,Goalkeeper
+Rafał,Kurzawa,225324,0,79,Midfielder
+Oussama,Haddadi,120717,14.700000000000003,2563,Defender
+Léo,Lacroix,134951,7.780000000000001,798,Defender
+Yevhen,Seleznyov,105344,0.6,96,Forward
+Marius Valerică,Găman,83970,0,0,Defender
+Eddy Anthony,Salcedo Mora,520774,2.54,31,Forward
+Oliver,Burke,346071,11.200000000000001,322,Midfielder
+Jamie,Vardy,12829,49.88999999999999,3567,Forward
+Simon,Zoller,15543,6.99,966,Forward
+Marc,Albrighton,8013,22.849999999999998,2560,Midfielder
+Stefano,Sensi,246063,5.390000000000001,1021,Midfielder
+Samuel,Sahin-Radlinger,15031,0,0,Goalkeeper
+Gregor,Kobel,328190,0,0,Goalkeeper
+Anton,Miranchuk,288708,0,0,Midfielder
+Thorgan,Hazard,25622,46.290000000000006,3041,Forward
+Giovani,dos Santos Ramírez,8297,0,13,Forward
+Alex,Oxlade-Chamberlain,7868,44.60000000000001,1699,Midfielder
+Daniel,Giménez Hernández,4319,0,0,Goalkeeper
+Federico,Marchetti,20541,0,0,Goalkeeper
+Lucas Nicolás,Alario,86489,46.550000000000004,1601,Forward
+Andrea,Bertolacci,20749,9.65,2951,Midfielder
+Gaëtan ,Laborde,27955,13.55,949,Forward
+Martin,Cranie,8761,1.76,180,Defender
+Luis Jan Piers,Advíncula Castrillón,114709,2.52,270,Defender
+Alberto,Paloschi,20661,11.33,2090,Forward
+Arnaud,Souquet,26633,20.73,2416,Defender
+Yohan,Benalouane,21333,2.77,139,Defender
+Tom,Smith,11078,8.899999999999999,1906,Defender
+Fakhreddine,Ben Youssef,209354,2.9199999999999995,270,Forward
+Cenk,Tosun,32636,10.8,1048,Forward
+Miguel Ángel,Moyà Rumbo,3994,0,0,Goalkeeper
+Yoel,Rodríguez Oterino,3823,0,0,Goalkeeper
+Wesley,Lautoa,26024,5.2,601,Defender
+Lewis Harry,Holtby,14864,13.030000000000003,1196,Midfielder
+Jesús,Navas González,3474,13.829999999999998,1755,Midfielder
+Alex,McCarthy,8580,0,0,Goalkeeper
+Miguel Ângelo,da Silva Rocha,273819,12.790000000000001,1409,Midfielder
+Arkadiusz,Milik,99452,34.74,1010,Forward
+Sergio,Pellissier,20662,3.46,425,Forward
+Alessandro,Confente,417230,0,0,Goalkeeper
+Molla,Wagué,25885,8.24,497,Defender
+Jordi,Alba Ramos,3269,57.32999999999999,3485,Defender
+Benik,Afobe,134351,5.43,469,Forward
+Younès,Belhanda,25998,3.6500000000000004,228,Midfielder
+Pontus,Jansson,50806,1.49,95,Defender
+Mathew,Leckie,15020,23.699999999999996,2119,Forward
+Aziz Eraltay,Behich,61651,0,270,Defender
+Milad,Mohammadi,333803,0.33,55,Defender
+Daniel,Rebollo Franco,552486,0,0,Goalkeeper
+Paulo Bruno,Exequiel Dybala,89186,75.32000000000001,2381,Forward
+Aleandro,Rosi,20434,5.49,1708,Defender
+Mitchell,Langerak,14793,0,0,Goalkeeper
+Tom,Mickel,14883,0,0,Goalkeeper
+Martin,Škrtel,7960,6.18,360,Defender
+Daniel,Baier,15777,16.470000000000002,2547,Midfielder
+Rominigue,Kouamé N'Guessan,413597,6.03,193,Defender
+Phil,Jagielka,8245,27.390000000000004,2053,Defender
+Luis Antonio,Valencia Mosquera,7938,16.67,2747,Defender
+Christopher,Schindler,15215,40.35,3299,Defender
+Ihlas,Bebou,224801,37.830000000000005,2142,Forward
+Maxime,Poundjé,26945,10.03,1703,Defender
+Aritz,Elustondo Irribaria,278288,28.860000000000007,1598,Defender
+Diego,Cavalieri,41154,0,0,Goalkeeper
+Miguel,Torres Gómez,4003,5.38,673,Defender
+Sam,Vokes,9127,18.940000000000005,1136,Forward
+Andrew,Hjulsager,135113,0,8,Midfielder
+Jesús,Vallejo Lázaro,282441,7.9399999999999995,630,Defender
+Yoan,Cardinale,214609,0,0,Goalkeeper
+Pablo,Maffeo Becerra,263105,10.409999999999998,2650,Defender
+Jorge Luiz,Frello Filho,21315,21.23,2651,Midfielder
+Alexander,Esswein,15141,10.47,595,Midfielder
+Marco,Pissardo,511119,0,0,Goalkeeper
+Caiuby Francisco,da Silva,16432,51.54,2860,Midfielder
+Steven,Davis,61988,12.05,1879,Midfielder
+Imad,Faraj,471771,2.62,148,Midfielder
+Ailton,Ferreira Silva,284580,0.54,95,Defender
+Iñigo,Córdoba Kerejeta,344075,14.219999999999999,1443,Midfielder
+Johan Alberto,Venegas Ulloa,125452,0,150,Midfielder
+Josh,Cullen,365707,0,0,Midfielder
+Jérémy,Gelin,301013,16.51,2222,Defender
+Young-Jae,Seo,349681,0,0,Defender
+Hyun-Jun,Suk,382,12.68,1158,Forward
+Yeray,Álvarez López,230857,5.65,674,Defender
+Nathan,Redmond,8116,26.1,1935,Midfielder
+Ían,Pino Soler,462312,0,0,Defender
+Guido Hernán,Pizarro,86828,22.35,1752,Midfielder
+Raúl,Albentosa Redal,7302,19.13,1747,Defender
+Enrico,Brignola,454457,25.379999999999995,1353,Forward
+Jessy,Deminguet,437636,9.71,531,Midfielder
+Yury,Gazinskiy,102157,1.46,267,Midfielder
+Šime,Vrsaljko,69409,22.09,2349,Defender
+Boštjan,Cesar,20637,4.71,528,Defender
+Jesús Joaquín,Fernández Sáez de la Torre,11063,62.850000000000016,2839,Forward
+Adam,Legzdins,8963,0,0,Goalkeeper
+Harold Oshkaly,Cummings Segura,116293,0.32,44,Defender
+Giampaolo,Pazzini,20536,8.160000000000002,1330,Forward
+Bernardo,Fernandes da Silva Junior,296341,13.459999999999999,1341,Defender
+Mauro Javier,Dos Santos,86716,8.820000000000002,979,Defender
+Lucas ,Hernández Pi,279545,16.81,2776,Defender
+Evgen,Khacheridi,105595,5.39,270,Defender
+Raúl,García Escudero,3503,46.28,2634,Midfielder
+Samuel,Gustafson,252473,0.22999999999999998,73,Midfielder
+Daniele,Rugani,134427,33.11000000000001,1936,Defender
+Killian,Sanson,372627,0,0,Midfielder
+Borja,González Tomás,3875,8.93,898,Forward
+Felipe Salvador,Caicedo Corozo,101635,17.39,648,Forward
+Selçuk,İnan,32656,0,250,Midfielder
+Anton Ciprian,Tătărușanu,83574,0,0,Goalkeeper
+Diego,da Silva Farias,23314,37.940000000000005,1603,Forward
+Yuning,Zhang,364937,0,0,Forward
+Daniel Alejandro,Torres Rojas,91064,7.32,1208,Midfielder
+Ousmane,Dembélé,286390,50.90999999999999,1094,Forward
+Juan,Torres Ruiz,3468,38.34,1800,Defender
+Konstantinos,Mitroglou,93331,22.02,762,Forward
+Strahinja,Tanasijević,400684,0,0,Defender
+Jean Michaël,Seri,131959,37.49,2622,Midfielder
+Víctor,Moya Martínez,400558,0.1,78,Midfielder
+Mohamed Youcef,Belaïli,119448,0,0,Forward
+Cristian,Molinaro,14745,6.84,1562,Defender
+Daniel,Pudil,21351,0,90,Defender
+Holger,Badstuber,14715,34.06000000000001,2163,Defender
+Rafael,Cabral Barbosa,40774,0,0,Goalkeeper
+Christian,Clemens,15278,4.14,623,Midfielder
+Nikolas,Nartey,471968,0,0,Defender
+Thibault,Giresse,25941,0.13999999999999999,8,Midfielder
+Bartosz,Bereszyński,99833,6.25,2645,Defender
+Federico,Di Francesco,259292,11.540000000000001,1571,Forward
+Amato,Ciciretti,134484,6.97,809,Forward
+Michael,Kingsley Dogo,403264,0,0,Midfielder
+Nicolas,Basin,396628,0.1,311,Defender
+Yannick,Gerhardt,228639,11.15,1215,Defender
+Saîf-Eddine,Khaoui,275243,17.759999999999998,2036,Midfielder
+Mamadou,Sakho,25430,18.82,1598,Defender
+Alexis,Ruano Delgado,3466,21.009999999999998,2167,Defender
+Kosuke,Nakamura,137653,0,0,Goalkeeper
+Loris,Karius,15175,0,0,Goalkeeper
+Claudio Andrés,Bravo Muñoz,3662,0,0,Goalkeeper
+Nordi,Mukiele Mulere,341973,22.66,2791,Defender
+Bryan,Pelé,29641,18.6,1577,Midfielder
+Francesco,Cassata,302798,0.26,447,Midfielder
+Michael,Zetterer,224709,0,0,Goalkeeper
+James,Chester,9615,5.66,540,Defender
+Zdravko,Kuzmanović,14757,2.7,514,Midfielder
+Corentin,Faussot,394577,0,0,Midfielder
+Douglas Luiz,Soares de Paulo,443324,6.79,283,Midfielder
+Yann,M'Vila,25649,11.329999999999998,1482,Midfielder
+Nicolás Andrés,Burdisso,20429,23.270000000000003,2069,Defender
+Abdul Khaled,Akiola Adénon,25957,40.71,2915,Defender
+Jean-Kévin,Augustin,279780,45.260000000000005,1217,Forward
+Thomas,Heurtaux,25878,8.81,1417,Defender
+Iker,Casillas Fernández,3297,0,0,Goalkeeper
+Prince-Désir,Gouano,26134,30.919999999999998,2783,Defender
+Dániel,Böde,75137,1.63,24,Forward
+Rúrik,Gíslason,56146,0.26,117,Forward
+Jimmy,Durmaz,50812,13.209999999999999,1040,Midfielder
+Sanjin,Prcić,25470,17.630000000000003,1569,Midfielder
+Hugo,Ayala Castro,112777,1.48,180,Defender
+Patric,Klandt,16154,0,0,Goalkeeper
+Stevan,Jovetić,20948,17.44,752,Forward
+Jacopo,Sala,14904,6.38,1001,Defender
+Ashley,Barnes,9123,22.770000000000003,2124,Forward
+Frederik,Rønnow,56454,0,0,Goalkeeper
+Artjoms,Rudņevs,99425,0,0,Forward
+Miguel Gianpierre,Araujo Blanco,114908,0,0,Defender
+Sehrou,Guirassy,263490,16.899999999999995,834,Forward
+Ezequiel Marcelo,Garay,70112,24.620000000000005,2031,Defender
+Andrea,Conti,134419,0.35000000000000003,158,Defender
+Alexis,Blin,253333,22.03,1870,Midfielder
+Juan,Cruz Diaz Espósito,568583,0,0,Forward
+Romain,Genevois,26528,16.96,1813,Defender
+N'Golo,Kanté,31528,41.95,3835,Midfielder
+João Pedro Geraldino,dos Santos Galvão,116171,12.27,1662,Midfielder
+Diego,Contento,14717,5.44,98,Defender
+Vitor Hugo,Franchescoli de Souza,44510,20.040000000000003,1181,Defender
+Jadon,Sancho,447223,29.329999999999995,657,Midfielder
+Alexander,Kert Molberg,540613,0,0,Defender
+Antonio,Barragán Fernández,3270,30.06,2361,Defender
+Bartłomiej,Drągowski,265431,0,0,Goalkeeper
+Sofyan,Amrabat,285590,0,17,Midfielder
+Stefan,Simič,137048,11.28,540,Defender
+Keylor,Navas Gamboa,3915,0,0,Goalkeeper
+Anthony,Maisonnial,340108,0,0,Goalkeeper
+Mattia,De Sciglio,20395,5.63,1292,Defender
+Jason,Puncheon,8142,1.54,550,Midfielder
+Marco,Terrazzino,15533,19.03,1488,Forward
+Esteban Félix,Granero Molina,3317,3.7600000000000002,1211,Midfielder
+Daniel,Carvajal Ramos,4501,19.080000000000002,2480,Defender
+Moussa,Diaby,419204,0.31,63,Forward
+Daniel,Alves da Silva,3334,24.769999999999996,2096,Defender
+Sverrir Ingi,Ingason,57347,4.79,159,Defender
+Lucas Ariel,Ocampos,86338,53.43,2037,Forward
+Dale,Stephens,8086,24.03,3240,Midfielder
+Daniel Tawiah,Opare,38079,3.29,1419,Defender
+Sergio ,Asenjo Andrés,3428,0,0,Goalkeeper
+Álvaro Borja,Morata Martín,3324,78.83999999999999,2357,Forward
+André Miguel,Valente Silva,135927,14.019999999999996,977,Forward
+Armando,Izzo,22883,14.550000000000002,1388,Defender
+Mario,Mandžukić,14943,68.22,3271,Forward
+Gélson da Conceição Tavares,Fernandes,20591,3.58,1027,Midfielder
+Kamil,Glik,21097,67.60999999999999,3850,Defender
+Morgan,Schneiderlin,8143,8.68,2107,Midfielder
+Ibrahim,Afellay,3343,0.66,150,Midfielder
+Vincent,Koziello,279734,10.999999999999998,1578,Midfielder
+Nicolas,Benezet,26956,23.080000000000002,1641,Midfielder
+Achraf,Lazaar,218971,6.14,478,Defender
+Javier,Martínez Aginaga,3416,25.959999999999994,1611,Midfielder
+Charlie,Taylor,9164,0.77,949,Defender
+Valentin,Rongier,260002,20.199999999999996,2327,Midfielder
+Demarai,Gray,283142,18.24,1665,Midfielder
+Mariano,Díaz Mejía,5167,62.749999999999986,2499,Forward
+Reece,Burke,293823,0,0,Defender
+Jakob,Jantscher,65084,0,12,Midfielder
+Mehdi Jean,Tahrat,28364,3.73,440,Defender
+Diego,López Rodríguez,3519,0,0,Goalkeeper
+Mujaid,Sadick Aliu,516397,0.31,105,Defender
+Benjamin,Leroy,253312,0,0,Goalkeeper
+Nicolai,Jørgensen,15080,6.49,212,Forward
+Marc-Oliver,Kempf,146569,9.089999999999998,902,Defender
+Bernd,Leno,14768,0,0,Goalkeeper
+Levi,Lumeka,531655,0,25,Forward
+Imanol,Sarriegi Isasa,279570,0,30,Midfielder
+Dimitri,Petratos,61492,0,0,Midfielder
+Raoul,Bellanova,405598,0,0,Defender
+Luca,Garritano,238832,2.43,169,Midfielder
+Ezequiel,Muñoz,20808,22.330000000000002,1379,Defender
+Néstor Fernando,Muslera Micol,32641,0,0,Goalkeeper
+Danilo,Cataldi,256478,20.540000000000003,2313,Midfielder
+Moussa,Wagué,375348,0,180,Defender
+Abdou Kader,Mangane,25641,18.83,1710,Defender
+Markel,Bergara Larrañaga,3674,23.770000000000003,1470,Midfielder
+Charalampos,Lykogiannis,92900,3.52,687,Defender
+Mahmoud,Dahoud,272363,30.889999999999993,1129,Midfielder
+Patrick,Cutrone,351010,25.09,1474,Forward
+Tarek,Hamed,437417,0.7799999999999999,230,Midfielder
+Paul,Pogba,7936,91.81,3302,Midfielder
+Timo,Stavitski,399576,1.1199999999999999,397,Midfielder
+Stéphane,Bahoken,25673,20.810000000000002,1642,Forward
+Daniel,Bessa,22381,22.430000000000003,1817,Midfielder
+Daniel,Pacheco Lobato,4343,0.66,155,Midfielder
+Jonjoe,Kenny,286825,9.45,1588,Defender
+Paul-Georges,Ntep de Madiba,25514,9.6,673,Midfielder
+Konstantin,Rausch,15039,3.6999999999999997,927,Defender
+Anthony,Caci,426714,0,0,Midfielder
+Layton,Ndukwu,353240,0,0,Forward
+Riccardo,Daga,507570,0,0,Goalkeeper
+Kasper,Schmeichel,8480,0,0,Goalkeeper
+Anthony,Martial,134513,57.63000000000002,1642,Forward
+Hattan,Bahbir,122615,2.12,156,Midfielder
+Robert,Berič,85438,19.92,1044,Forward
+Yoric,Ravet,25871,2.89,560,Midfielder
+Nathan Allan,de Souza,285139,0,0,Midfielder
+Kenner,Gutiérrez Cerdas,125287,0,0,Defender
+Sandro ,Ranieri Guimarães Cordeiro,8291,12.14,1154,Midfielder
+César Alejandro,Falletti dos Santos,149846,5.08,308,Midfielder
+Ruben,Loftus-Cheek,235555,37.830000000000005,2148,Midfielder
+Radamel Falcao,García Zárate,3450,53.99,2507,Forward
+Alessandro ,Florenzi,22566,25.330000000000002,2729,Midfielder
+Alisson Ramsés,Becker,214220,0,0,Goalkeeper
+Gastón Alexis,Silva Perdomo,116259,0,0,Defender
+Gabriel,Appelt Pires,43051,28.09,2393,Midfielder
+Fernando,Llorente Torres,3424,4.25,182,Forward
+Omar,Mascarell González,4509,3.6900000000000004,770,Midfielder
+Rayan,Souici,342088,0,0,Defender
+Ermedin,Demirović,352328,7.7299999999999995,180,Forward
+Shkëlzen Taib,Gashi,50072,1.05,8,Midfielder
+Brad,Smith,11061,0,0,Defender
+Leonardo,Miramar Rocha,484931,0,0,Forward
+Cássio Roberto,Ramos,40536,0,0,Goalkeeper
+Gerson,Santos da Silva,340019,11.27,883,Midfielder
+Júlio,Tavares,27354,39.33,2056,Forward
+Charly,Charrier,25938,0,104,Midfielder
+Michael,Obafemi,447538,0,0,Forward
+Takuma,Asano,254649,6.88,699,Forward
+Ashley,Williams,77546,32.68000000000001,2374,Defender
+Henri,Bedimo Nsamè,25988,0.19,30,Defender
+Simone,Edera,354552,10.950000000000001,264,Forward
+Jerónimo,Figueroa Cabrera,4362,4.569999999999999,670,Midfielder
+Manuel Jesús,Vázquez Florido,4052,0,0,Forward
+Edin,Džeko,8327,90.78999999999999,3019,Forward
+Rogério,Oliveira da Silva,403449,2.0900000000000003,894,Defender
+Sergi,Darder Moll,3803,22.199999999999996,3049,Midfielder
+Germán Alejandro,Pezzella,86328,36.209999999999994,2981,Defender
+Kazaiah,Sterling,368352,0,0,Forward
+Préjuce Niguimbé,Nakoulma,99453,16.84,1151,Forward
+Imanol,García Lugea,450650,0,0,Midfielder
+Ignacio,Monreal Eraso,3560,39.199999999999996,2243,Defender
+Dmitri,Kombarov,101663,0,90,Defender
+Aleksandar,Dragović,49859,6.819999999999999,982,Defender
+Orel,Mangala,349099,6.319999999999999,736,Midfielder
+Martin,Dúbravka,104851,0,0,Goalkeeper
+Dylan,Bahamboula,331918,1.48,14,Midfielder
+Cengiz,Ünder,350032,25.85,1202,Forward
+Jordi,Amat Maas,3788,28.409999999999997,2108,Defender
+Scotty,Sadzoute,506850,0,0,Forward
+Francisco Guillermo,Ochoa Magaña,25816,0,0,Goalkeeper
+Kristoffer,Nordfeldt,149151,0,0,Goalkeeper
+Jack,Simpson,415747,0.65,72,Defender
+Florian,Mayer,391551,0.22999999999999998,18,Defender
+Tyrone,Mings,239411,3.2100000000000004,201,Defender
+Benoît,Assou-Ekotto,8268,0.06,1126,Defender
+José Heriberto,Izquierdo Mena,91381,40.09,2029,Forward
+Domenico,Coppola,423147,0,0,Goalkeeper
+Nicolò,Barella,286223,15.959999999999999,2966,Midfielder
+Karim,Rekik,8309,28.76,2304,Defender
+Andoni,Zubiaurre Dorronsoro,424431,0,0,Goalkeeper
+Aaron ,Hughes,11135,1.0,270,Defender
+Jonas,Hector,18669,11.339999999999998,2496,Defender
+Christian,Kouakou Yao,131321,14.549999999999999,830,Forward
+Kwadwo,Asamoah,20588,7.719999999999999,1571,Midfielder
+Mamadou Yaye,Kanoute,23124,0.060000000000000005,32,Forward
+Daniel,Kolář,82520,0,0,Midfielder
+Jack,Cork,8125,23.15,3420,Midfielder
+Francisco,Femenía Far,3351,12.14,1706,Defender
+Emil,Hallfreðsson,21314,6.080000000000001,954,Midfielder
+Mauro Daniel,Goicoechea Furia,116393,0,0,Goalkeeper
+Martín Maximiliano,Mantovani,5653,12.6,1010,Defender
+Sauli,Väisänen,170738,2.5800000000000005,543,Defender
+James ,Ward-Prowse,8144,11.469999999999999,1709,Midfielder
+Charles,Traoré,393284,24.06,2998,Defender
+Dominik,Reimann,272373,0,0,Goalkeeper
+Pablo,Sarabia García,4015,45.32000000000001,2406,Midfielder
+Rafael Jesús,Navarro Mazuelos,247212,2.0999999999999996,133,Defender
+Fabrizio,Brignani,392383,0,0,Defender
+Aleix,Vidal Parreu,4256,13.11,437,Midfielder
+Chris,Brunt,8370,9.65,1916,Midfielder
+Niclas,Fállkrug,14705,53.05,2370,Forward
+Bingourou,Kamara,301635,0,0,Goalkeeper
+Loïck,Landre,25428,0,0,Defender
+Musa,Barrow,491409,20.700000000000003,437,Forward
+Chris,Gunter,8831,4.51,540,Defender
+Jordon ,Ibe,9739,30.11000000000001,2000,Midfielder
+Merveille Valthy Streeker,Ndockyt,376474,0.01,53,Midfielder
+Claud,Adjapong,417231,4.9399999999999995,1281,Defender
+Mihály,Korhut,74968,0.33999999999999997,90,Defender
+Chris,Smalling,7922,50.32000000000002,2880,Defender
+Mattia,Valoti,20414,19.38,1570,Midfielder
+Oleksandr,Zinchenko,241564,9.229999999999999,622,Midfielder
+Anders,Lindegaard,7912,0,0,Goalkeeper
+Lucas Rodrigo,Biglia,37732,16.189999999999998,2096,Midfielder
+Tomás,Pina Isla,3650,14.879999999999999,2391,Midfielder
+Jaime,Sierra Mateos,396539,0,22,Midfielder
+Andrija,Živković,140085,0,15,Midfielder
+Issa,Cissokho,25534,8.05,1629,Defender
+Johannes,Geis,15455,2.81,652,Midfielder
+Gabriel Iván,Mercado,86220,28.580000000000005,2395,Defender
+Birk,Risa,366193,0,63,Defender
+Jordan,Hugill,280157,0.01,20,Forward
+Gianluigi,Donnarumma,350999,0,0,Goalkeeper
+Felix,Götze,391442,0,0,Defender
+Asier,Riesgo Unamuno,3488,0,0,Goalkeeper
+José Manuel ,Reina Páez,7949,0,0,Goalkeeper
+Borja,García Freire,4278,34.4,2814,Midfielder
+Héctor Junior,Firpo Adames,364850,19.830000000000002,1190,Defender
+Ryan,Shawcross,8731,42.76,2372,Defender
+Sergio Ezequiel,Araújo,86200,0.33999999999999997,25,Forward
+Pedro Filipe,Teodósio Mendes,3308,28.549999999999997,2848,Defender
+Ashley ,Young,7939,20.14,2903,Defender
+Stuart,Taylor,8304,0,0,Goalkeeper
+Adrien,Bongiovanni,422514,0,0,Forward
+Houssem,Aouar,397046,73.4,2431,Midfielder
+Gareth Frank,Bale,8278,69.21999999999998,2334,Forward
+Unai,Núñez Gestoso,344068,35.46,2942,Defender
+Davide,Frattesi,423151,0,0,Midfielder
+Ragnar,Klavan,74,20.350000000000005,1440,Defender
+Wilfried,Zaha,8422,56.11999999999999,2550,Midfielder
+Simeon,Tochukwu Nwankwo,72397,17.380000000000003,1194,Forward
+Birkir,Bjarnason,38084,2.31,720,Midfielder
+Cristian,Tello Herrera,3358,28.35,1669,Forward
+Jonny,Evans,7914,34.56000000000001,2599,Defender
+Davide,Biraschi,206318,13.490000000000002,1792,Defender
+İsmail,Köybaşı,32580,0.0,90,Defender
+Gonzalo,Villar del Fraile,357981,0,0,Midfielder
+Gabriel Armando,de Abreu,41363,35.17,2610,Defender
+Marco,D'Alessandro,21322,18.380000000000003,1034,Forward
+Giuseppe,Pezzella,388398,1.48,898,Defender
+Simone,Verdi,21123,21.73,2831,Forward
+Iago,Falqué Silva,8148,51.67,2841,Forward
+José Luis,Morales Nogales,225089,56.60999999999999,3080,Midfielder
+Andrea,Barberis,20815,5.3100000000000005,3036,Midfielder
+Filip,Bradarić,231713,0.31,25,Midfielder
+Thomas,Carrique,499295,0,90,Defender
+Diego,da Silva Costa,4338,38.88,1389,Forward
+Oliva Christian,Rutjens,485464,0,0,Defender
+Benjamin,Corgnet,26381,18.87,1366,Midfielder
+Konstantinos,Manolas,92966,35.849999999999994,2321,Defender
+Jesús Daniel,Gallardo Vasconcelos,336178,1.67,335,Midfielder
+Gabriel,Salazar Rojo,344122,0,0,Forward
+Nicola,Sansone,22578,14.219999999999999,603,Forward
+Oswaldo Augusto,Vizcarrondo Araújo,112377,20.459999999999997,1714,Defender
+Ingvar,Jónsson,57799,0,0,Goalkeeper
+Ludovic,Butelle,26869,0,0,Goalkeeper
+Edinson Roberto,Cavani Gómez,21174,96.53999999999999,2898,Forward
+Charles Mariano,Aránguiz Sandoval,89559,17.09,2306,Midfielder
+Diego Javier,Llorente Ríos,225996,29.730000000000008,2330,Defender
+Carlos,Fernández Luna,278324,2.8899999999999997,139,Forward
+Jarosław,Jach,330271,0,0,Defender
+Paddy,McNair,136704,0,46,Defender
+Krzysztof,Mączyński,99446,1.9900000000000002,353,Midfielder
+Ricardo,Andrade Quaresma Bernardo,32597,7.529999999999999,398,Forward
+Ludovic,Blas,340920,37.10999999999999,1788,Midfielder
+Adam,Jakubech,282033,0,0,Goalkeeper
+Rubén Salvador,Pérez Del Mármol,4013,9.15,2520,Midfielder
+Marcello,Trotta,11156,39.43000000000001,2259,Forward
+Alec,Georgen,344743,0,0,Defender
+Gaël,Kakuta,26384,15.479999999999999,3091,Midfielder
+Ismaël,Traoré,26086,29.049999999999997,2857,Defender
+Patrik,Schick,234359,16.88,957,Forward
+Abdiel,Arroyo Molinar,131602,0,0,Forward
+Eren,Derdiyok,14787,0.8999999999999999,50,Forward
+Karamoko,Cissé,21235,0,0,Forward
+Valentín,Vada,276920,5.03,846,Midfielder
+Michy,Batshuayi Tunga,38093,37.69,1258,Forward
+François,Kamano,334552,53.14,2009,Forward
+Sergio,Gómez Martín,472696,0,0,Midfielder
+Alberto,Redondo Guijarro,406460,0,90,Defender
+Rick,van Drongelen,365441,10.63,1427,Defender
+Admir,Mehmedi,105619,19.14,1276,Forward
+Giuseppe,Cuomo,456565,0,0,Defender
+Gaëtan,Poussin,404214,0,0,Goalkeeper
+Khalid,Boutaïb,29625,3.2300000000000004,140,Forward
+Gianluca,Di Chiara,21578,2.2699999999999996,995,Defender
+John Stiven,Mendoza Valencia,90880,12.24,1035,Forward
+David,Vaughan,8534,0,0,Midfielder
+Mattia,Bani,215869,11.48,1319,Defender
+Etrit,Berisha,50849,0,0,Goalkeeper
+Alessandro,Deiola,263591,2.4699999999999998,425,Midfielder
+Oier,Olazábal Paredes,3330,0,0,Goalkeeper
+Izet,Hajrović,49992,0.9299999999999999,180,Midfielder
+Ayoze,Pérez Gutiérrez,230883,52.54,2493,Forward
+Christian,Gentner,14754,20.620000000000005,2414,Midfielder
+Jackson,Irvine,62743,0.12,36,Midfielder
+Attila,Fiola,75131,2.21,90,Defender
+Haris,Seferović,20766,7.28,399,Forward
+Alessandro,Guarnone,478229,0,0,Goalkeeper
+Wataru,Endo,95349,0,0,Defender
+Bartosz,Kapustka,269189,3.8,432,Midfielder
+Ishak,Belfodil,20692,36.17999999999999,1341,Forward
+Roberto Firmino,Barbosa de Oliveira,15808,70.17000000000002,2860,Forward
+Antonio Aldo,Caracciolo,22093,25.81000000000001,2836,Defender
+James Michael,Collins,8005,19.83,1114,Defender
+Domenico,Maietta,21306,3.11,469,Defender
+Marco Ezio,Fossati,23427,1.73,1095,Midfielder
+Jordan,Ikoko,28528,19.09,2419,Defender
+Shawn,Parker,18728,0,31,Forward
+Marcos ,Aoás Corrêa ,40539,34.660000000000004,2263,Defender
+Matthias,Zimmermann,15015,0.24,68,Midfielder
+Kenny,Tete,1712,19.36,1600,Defender
+Danilo,D'Ambrosio,21094,22.990000000000002,2988,Defender
+Renato Júnior,Luz Sanches,258162,3.1799999999999997,1106,Midfielder
+Daniel,Caligiuri,14989,15.079999999999998,2917,Midfielder
+Ralf,Fährmann,14847,0,0,Goalkeeper
+Denis,Cheryshev,4513,25.020000000000003,1208,Midfielder
+Michael,Carrick,7928,2.63,109,Midfielder
+Nicolás,Sessa,263615,0,0,Midfielder
+Miguel Luís,Pinto Veloso,21288,4.61,1747,Midfielder
+Wahbi,Khazri,25776,30.330000000000002,2215,Midfielder
+Yasser Abdullah,Al Mosailem,122562,0,0,Goalkeeper
+Marlon,Santos da Silva Barbosa,266286,23.09,1950,Defender
+Óscar,de Marcos Arana,3421,11.509999999999998,1660,Defender
+Gerzino,Nyamsi,372547,1.7099999999999997,270,Defender
+Nicolae Claudiu,Stanciu,83753,0.4,162,Midfielder
+Marc,Pugh,9293,7.15,979,Midfielder
+Viktor,Kovalenko,241566,0.26,157,Midfielder
+Isaac ,Ajayi Success,285509,7.709999999999999,493,Forward
+Sergio,Floccari,20503,11.030000000000001,850,Forward
+Stephan,El Shaarawy,20418,57.54999999999999,2157,Forward
+Alexandru Iulian,Maxim,83836,2.52,959,Midfielder
+Ólafur Ingi,Skúlason,38241,0,0,Midfielder
+Nabil,El Zhar,3934,25.949999999999996,1963,Midfielder
+Jaime Manuel,Penedo Cano,125774,0,0,Goalkeeper
+Marco,Parolo,21350,35.27,3006,Midfielder
+Solly,March,247248,18.95,1817,Midfielder
+Felix,Klaus,15456,22.85,1994,Midfielder
+Claudio,Beauvue,26167,13.190000000000001,1618,Forward
+Diego,González Polanco,247169,12.149999999999999,1434,Defender
+Davide,Santon,7982,8.819999999999999,824,Defender
+Neymar,da Silva Santos Junior,40810,115.98000000000002,2250,Forward
+Yassine,Bounou,120631,0,0,Goalkeeper
+Jérémy,Toulalan,3573,26.380000000000003,1890,Midfielder
+Lukas,Rupp,15942,17.94,1164,Midfielder
+Emanuel,Vignato,485014,0,0,Forward
+Will,Grigg,9145,0,0,Forward
+Nanitamo Jonathan,Ikoné,344744,15.939999999999998,1001,Forward
+Thomas,Didillon,229110,0,0,Goalkeeper
+Zlatko,Junuzović,14696,18.77,1695,Midfielder
+Phillipp,Klement,19118,0,0,Midfielder
+Ryad,Boudebouz,25461,26.199999999999996,1353,Midfielder
+Patrick,Herrmann,15018,12.89,1099,Midfielder
+Isaiah,Brown,255935,1.08,281,Forward
+Nick,Pope,12242,0,0,Goalkeeper
+Robbie,Brady,9623,9.88,1639,Midfielder
+Jesper,Verlaat,275115,0,0,Defender
+Youssef,Maziz,394009,0,0,Midfielder
+Alessio,Donnarumma,485463,0,0,Midfielder
+Beni,Baningime,447379,0.22,175,Midfielder
+Landry Nany,Dimata,285727,9.85,881,Forward
+Manuel Rolando,Iturra Urrutia,3866,5.51,1584,Midfielder
+Hiroki,Sakai,94695,27.640000000000004,2883,Defender
+Renato ,Soares de Oliveira Augusto,14785,1.7300000000000002,51,Midfielder
+Iván,Cuéllar Sacristán,3963,0,0,Goalkeeper
+Sadio,Mané,25747,62.40000000000001,2535,Forward
+Yevhen,Konoplyanka,105378,32.92,1802,Midfielder
+Pape Sane,Mbodji,404333,0,0,Midfielder
+Kouadio Yves,Dabila,372904,7.8100000000000005,937,Defender
+Alessandro,Gamberini,20929,21.160000000000004,1817,Defender
+Vincent,Bessat,25532,1.77,1564,Midfielder
+Jonathan ,Walters,8752,0.24,114,Forward
+Andreas,Christensen,135103,33.5,2395,Defender
+Mathieu,Michel,26938,0,0,Goalkeeper
+Mário Figueira,Fernandes,41123,7.5,472,Defender
+Thomas,Lemar,28922,18.89,2472,Midfielder
+Paweł,Bochniewicz,240039,0,0,Defender
+Joe,Lolley,274488,4.580000000000001,216,Midfielder
+Yoel,Armougom,493412,0,116,Defender
+Jens,Grahl,15924,0,0,Goalkeeper
+Gerard,Gumbau Garriga,263091,9.799999999999999,1428,Midfielder
+Bruno,Petković,252589,21.67,1233,Forward
+Thiago,Maia Alencar,257750,15.130000000000003,2508,Midfielder
+Cheick,Doukouré,26032,3.17,984,Midfielder
+Andoni,Gorosabel Espinosa,279560,0.24,76,Defender
+Alessio,Riccardi,529551,0,0,Midfielder
+Josip,Brekalo,284469,17.550000000000004,1595,Midfielder
+Jean-Christophe,Bouet,26970,0,0,Goalkeeper
+Nadiem,Amiri,263614,31.17,1744,Midfielder
+Javier,Hernández Balcázar,7941,28.609999999999996,1838,Forward
+Nilson Evair,Loyola Morales,325910,0,0,Defender
+Ahmed,Hegazy,119951,44.97,3657,Defender
+José,Mauri,239294,1.51,12,Midfielder
+Víctor,Machín Pérez,4375,25.720000000000002,1308,Midfielder
+Kevin,Volland,15231,35.84,2597,Forward
+Abdullah Ibrahim,Otayf,139393,7.390000000000001,244,Midfielder
+Johann ,Berg Guðmunds­­-­­son,93,38.239999999999995,3424,Midfielder
+Declan,Rice,379209,11.369999999999997,1395,Defender
+Jorge Marco,de Oliveira Moraes,300784,17.820000000000004,1922,Defender
+Rob,Holding,370224,8.469999999999999,803,Defender
+Giuseppe,Borello,483978,0,0,Midfielder
+Sven,Ulreich,14736,0,0,Goalkeeper
+Dominik,Franke,373384,0,0,Defender
+Bongani,Zungu,244357,12.45,2086,Midfielder
+Edimilson,Fernandes,265318,7.73,847,Midfielder
+Raúl,Fernández-Cavada Mateos,3398,0,0,Goalkeeper
+Kelechi Promise,Iheanacho,285508,24.81,919,Forward
+Alejandro,Arribas Garrido,4329,2.2900000000000005,270,Defender
+Tammy,Abraham,343951,27.169999999999998,1696,Forward
+James,McClean,8530,8.07,1602,Midfielder
+Jorge,Molina Vidal,3605,47.12,2796,Forward
+Harvey,Barnes,448708,0.06999999999999999,5,Midfielder
+Emil,Berggreen,230687,7.180000000000001,627,Forward
+Nico,Elvedi,236528,40.910000000000004,2916,Defender
+Marius,Wolf,224680,33.50000000000001,2369,Midfielder
+Juan Cruz,Agáero Núñez,405974,0,0,Midfielder
+Stéphane,Darbion,93044,17.36,1708,Midfielder
+Gabriel Alejandro,Paletta,20490,0,0,Defender
+Danny,Blum,16609,1.28,27,Midfielder
+Guilherme,dos Santos Torres,40614,14.360000000000001,2645,Midfielder
+Sekou,Baradji,26378,0,0,Midfielder
+Julian,Schieber,14764,0.09,32,Forward
+Amadou,Diawara,374013,14.280000000000001,646,Midfielder
+Patrik,Hrošovský,144713,0,150,Midfielder
+Trent,Sainsbury,61395,3.05,270,Defender
+Jakob,Haugaard,56429,0,0,Goalkeeper
+Erdal,Rakip,258141,0,0,Midfielder
+Rodrigo,Ely,208694,46.51,2690,Defender
+Stefano,Okaka Chuka,20505,10.45,438,Forward
+Valon,Behrami,20938,15.450000000000005,2066,Midfielder
+Edson Omar,Álvarez Velázquez,448210,1.2399999999999998,267,Defender
+Milan,Škriniar,138408,60.91000000000001,3510,Defender
+Domagoj,Vida,69396,18.310000000000002,930,Defender
+Callum,Hudson-Odoi,450826,0.97,25,Midfielder
+Stephen ,Ireland,8017,0,125,Midfielder
+Tomáš,Koubek,82690,0,0,Goalkeeper
+Mesut,Özil,3319,72.07000000000001,2912,Midfielder
+Aurélien,Tchouaméni,480145,0,0,Midfielder
+Pedro Jesús,Aquino Sánchez,139078,1.32,137,Midfielder
+Frederik August,Albrecht Schram,240906,0,0,Goalkeeper
+Nicolas,Pallois,26276,39.169999999999995,2468,Defender
+Sead,Hakšabanović,361843,0,0,Midfielder
+Lyanco Evangelista,Silveira Neves Vojnović ,377757,4.199999999999999,317,Defender
+Michael,Olunga,266885,7.21,379,Forward
+Kolbeinn,Sigþórsson,66,5.63,429,Forward
+Kepa,Arrizabalaga Revuelta,3397,0,0,Goalkeeper
+Victor,Moses,8625,31.179999999999996,2384,Midfielder
+Milan,Škoda,83082,2.94,57,Forward
+Jonas,Hofmann,18591,13.38,993,Midfielder
+Jonathan,Schmid,14997,4.460000000000001,1445,Midfielder
+Dídac,Vilá Rosselló,3798,2.78,693,Defender
+Andrija,Balić,300669,4.3999999999999995,1064,Midfielder
+Andrea,Belotti,21234,61.58,2680,Forward
+Fidel,Escobar Mendieta,273683,1.77,270,Defender
+Marcus,Browne,379203,0,0,Midfielder
+Mohamed,Gouaida,221443,0.27999999999999997,59,Midfielder
+Aitor,Ruibal García,357992,0.19,4,Forward
+Cristian,Gamboa Luna,55977,4.38,258,Defender
+Ahmed,Musa,101606,3.4199999999999995,210,Forward
+Adem,Ljajić,20941,29.810000000000002,2336,Forward
+Jan,Morávek,15782,2.73,713,Midfielder
+Bakaye,Dibassy,214710,20.340000000000003,2779,Defender
+Esteban,Rolón,399673,1.6800000000000002,418,Midfielder
+Damián Nicolás,Suárez Suárez,3974,18.62,2926,Defender
+Marco,Silvestri,21573,0,0,Goalkeeper
+Marc,Bartra Aregall,3335,61.18,2227,Defender
+Vedad,Ibišević,14762,32.94,1432,Forward
+Mattia,Caldara,288663,26.789999999999996,2160,Defender
+Matthias,Ostrzolek,15772,4.5600000000000005,2381,Defender
+Dennis,Praet,37739,32.98,2665,Midfielder
+Renato Fabrizio,Tapia Cortijo,139075,0.38,150,Midfielder
+Shkodran,Mustafi,20612,38.63,2377,Defender
+David,Costas Cordal,275296,0,0,Defender
+Ben,Mee,8944,39.290000000000006,2610,Defender
+Niccolò,Giannetti,21959,1.39,281,Forward
+Erik,Johansson,51343,1.72,225,Defender
+Cameron,Carter-Vickers,357712,0,0,Defender
+Konrad,Laimer,282804,10.75,1332,Midfielder
+Niklas,Moisander,77,29.910000000000004,2250,Defender
+Jon,Gorenc-Stankovič,234139,0,0,Defender
+Víctor Yoshimar,Yotún Flores,114723,0,182,Midfielder
+Justin,Hoogma,414667,0,0,Defender
+Mamadou,Samassa,25930,0,0,Goalkeeper
+Frank,Evina,471947,0,112,Forward
+Kieran ,Gibbs,7853,8.67,2831,Defender
+Koen,Casteels,15795,0,0,Goalkeeper
+Alexandre,Oukidja,26676,0,0,Goalkeeper
+Pere,Pons Riera,230895,14.639999999999997,2553,Midfielder
+Florin,Andone,6165,35.47,1644,Forward
+Giancarlo,González Castro,125286,21.089999999999996,2127,Defender
+Alberto,Grassi,134435,32.330000000000005,2245,Midfielder
+Yussif Raman,Chibsah,220341,10.26,1052,Midfielder
+Filippo,Costa,134420,4.9399999999999995,1466,Defender
+Lebo,Mothiba,366546,16.9,1190,Forward
+Motaz Ali Hassan,Hawsawi,139391,0.37,90,Defender
+Tom,Ince,9419,33.1,2456,Midfielder
+Daniel,Vivian Moreno,525104,0,0,Defender
+Matteo,Politano,208696,54.05000000000001,2830,Forward
+Glenn,Murray,8416,21.279999999999998,2178,Forward
+Mahmoud,Hamdy,296484,0,0,Defender
+Édison Michael,Flores Peralta,114762,1.8900000000000001,242,Midfielder
+Benjamin,Jeannot,26124,18.07,1371,Forward
+Massadio,Haïdara,26109,0,0,Defender
+Dominic,Solanke,286831,21.92,562,Forward
+Hernán Daniel,Santana Trujillo,4366,2.93,350,Midfielder
+Baptiste,Reynet,26365,0,0,Goalkeeper
+David,Ospina Ramírez,25662,0,0,Goalkeeper
+Martin,Olsson,8192,13.19,3449,Defender
+Michal,Tomič,406142,0,0,Defender
+Vladimir,Granat,101682,0.08,74,Defender
+Pau,Francisco Torres,400549,0,50,Defender
+Bojan,Krkíc Pérez,20450,6.399999999999999,491,Forward
+Harisson,Manzala,229198,33.26,1836,Midfielder
+Marwan,Mohsen,120225,1.37,208,Forward
+Joel Nathaniel,Campbell Samuels,26038,11.209999999999999,301,Forward
+Luciano,Narsingh,179,9.2,610,Midfielder
+Aritz,Aduriz Zubeldia,3290,39.269999999999996,2272,Forward
+Mathieu,Gorgelin,26971,0,0,Goalkeeper
+Sandro ,Ramírez Castillo,5911,15.889999999999999,980,Forward
+Mak,Varešanović,373469,0,0,Midfielder
+Dwight,Gayle,12536,36.48,1891,Forward
+Jeremy,Toljan,149389,18.089999999999996,1380,Defender
+Joe,Hart,8301,0,0,Goalkeeper
+Tanguy,Ndombèlé Alvaro,294695,54.120000000000005,2600,Midfielder
+Miroslav,Stoch,32539,0,0,Midfielder
+Mattia,Del Favero,375395,0,0,Goalkeeper
+Damir,Ceter Valencia,335634,0.6699999999999999,193,Forward
+Layvin,Kurzawa,134540,6.65,1705,Defender
+Rafael Alexandre,Fernandes Ferreira da Silva,222676,0,0,Midfielder
+Quentin,Beunardeau,28055,0,0,Goalkeeper
+Ibai,Gómez Pérez,3423,25.15,2312,Midfielder
+Vincent,Nogueira,25467,0.5499999999999999,61,Midfielder
+Oliver,Kragl,16922,0.3,89,Midfielder
+Kévin,Monnet-Paquet,26042,26.05,1770,Forward
+Brian Oladapo,Idowu,209792,0.13,226,Defender
+Mirko,Eramo,22565,0,0,Midfielder
+Steve,von Bergen,21342,0,0,Defender
+Meritan,Shabani,391439,0,56,Midfielder
+Manuel,Pucciarelli,24964,12.160000000000002,1349,Forward
+Juan Miguel,Jiménez López,3576,33.68000000000001,1441,Forward
+Luka,Jović,258264,25.25,915,Forward
+Vlad Iulian,Chiricheș,83575,13.58,853,Defender
+Massimo,Coda,24269,28.990000000000006,1371,Forward
+David,Rodríguez Lombán,4180,15.109999999999998,977,Defender
+Aleksandar,Ignjovski,14695,0,0,Defender
+Santiago,Mina Lorenzo,250885,31.519999999999985,1545,Forward
+José Vicente,Gómez Umpiérrez,4363,9.99,1519,Midfielder
+Mykyta,Shevchenko,105715,0,0,Goalkeeper
+Andoni,López Saratxo,344065,0.19,90,Defender
+Jan,Bednarek,240032,10.74,654,Defender
+Jeff,Hendrick,8980,24.5,2681,Midfielder
+Berkay,Özcan,345707,19.34,999,Midfielder
+Florian,Baak,425921,0,0,Defender
+Javier Ignacio,Aquino Carmona,112556,0,0,Midfielder
+Farouk,Ben Mustapha,120784,0,0,Goalkeeper
+Gianluigi,Buffon,20455,0,0,Goalkeeper
+Christian Robert,Santos Kwasniewski,38436,5.390000000000001,451,Forward
+Jérémy,Cordoval,26433,6.17,918,Defender
+Lorenzo Jesús,Morón García,364820,20.66,1063,Forward
+Joe,Gomez,257899,12.320000000000002,1900,Defender
+Emanuel,Cecchini,266312,1.06,22,Midfielder
+Opa,Nguette,28965,17.630000000000003,1019,Forward
+Christian,Fuchs,14853,6.649999999999999,2185,Defender
+Ben,Foster,8358,0,0,Goalkeeper
+Samuel,Pizzignacco,531691,0,0,Goalkeeper
+Jesús Manuel,Corona Ruíz,112522,0,34,Forward
+Samuel,García Sánchez,275293,4.76,400,Midfielder
+Enzo,Crivelli,275032,12.200000000000001,1738,Forward
+Jacek,Góralski,100140,0.31,180,Midfielder
+Philip,Billing,303357,5.43,762,Midfielder
+Diego,Perotti,3475,44.12999999999999,1605,Forward
+Federico,Ricca Rostagnol,278007,5.53,1111,Defender
+Oscar,Lewicki,51398,0.58,86,Midfielder
+Óscar,Rodríguez Arnaiz,352789,0,0,Midfielder
+Diego Roberto,Godín Leal,3433,46.769999999999996,3003,Defender
+Carles,Planas Antolínez,4789,5.01,190,Defender
+Nordin,Amrabat,32968,32.24999999999999,2088,Forward
+Mansour Althaqfi,Al Harbi,122568,0,0,Defender
+Kevin-Prince,Boateng,20402,30.049999999999997,2362,Midfielder
+Giovanni,Volpicelli,461671,0,0,Midfielder
+Isaac,Kiese Thelin,51262,0.35,36,Forward
+Sebastien,De Maio,20707,23.699999999999996,2041,Defender
+Mirco,Antenucci,21114,43.23,2556,Forward
+Maxime,Gonalons,25405,19.499999999999996,1092,Midfielder
+Kyle,Jameson,491343,0,0,Defender
+Kalidou,Koulibaly,25726,52.22,3330,Defender
+Steven,Fortès,270306,1.17,154,Defender
+Maximiliano Martín,Olivera De Andrea,116225,0.08,409,Defender
+Franck,Tabanou,25805,8.059999999999999,1033,Midfielder
+Javier,Jiménez García,364844,0,0,Defender
+Jacob,Bruun Larsen,347366,0.33999999999999997,92,Forward
+Luiz,de Araújo Guimarães Neto,250134,34.88,2006,Forward
+Pedro,Alcalá Guirado,4232,6.78,690,Defender
+Yann Aurel,Bisseck,520617,2.0,134,Defender
+Axel ,Witsel,70123,11.760000000000002,990,Midfielder
+Juan Francisco,Torres Belén,3447,3.63,1668,Defender
+Andrea,Poli,20529,16.049999999999997,2558,Midfielder
+Enzo,Loiodice,566942,1.0999999999999999,162,Midfielder
+Albano Benjamín,Bizzarri,20540,0,0,Goalkeeper
+Fabio,Quagliarella,20479,67.43000000000002,2732,Forward
+Carlos Alberto,Cáceda Oyaguez,114736,0,0,Goalkeeper
+Fabian,Giefer,14767,0,0,Goalkeeper
+Migjen Xhevat,Basha,21104,1.35,83,Midfielder
+Robert,Lewandowski,14817,79.38999999999999,2939,Forward
+Raúl Marcelo,Bobadilla,49907,9.540000000000001,421,Forward
+Bernardo José,Espinosa Zúñiga,3692,43.15999999999999,2868,Defender
+Ronaël,Pierre-Gabriel,396616,9.589999999999998,1210,Defender
+Ferdinando,Coppola,21091,0,0,Goalkeeper
+Enock,Kwateng,286381,0,90,Defender
+Leandro,Castán da Silva,40538,10.850000000000001,1141,Defender
+Gorka,Iraizoz Moreno,3399,0,0,Goalkeeper
+Allan,Saint-Maximin,276211,52.05,2284,Forward
+Walace,Souza Silva,327009,19.1,1325,Midfielder
+José Salomón,Rondón Giménez,3577,35.58,2774,Forward
+Ian Rey,Smith Quiros,373441,0,0,Defender
+Davinson,Sánchez Mina,257762,35.279999999999994,2961,Defender
+Achraf,Hakimi Mouh,396475,6.3,1028,Defender
+Gustavo Raúl,Gómez Portillo,113927,0,0,Defender
+Federico Nicolás,Cartabia,230897,21.139999999999997,1328,Midfielder
+Daniel,Ginczek,14845,24.279999999999998,1523,Forward
+Aleksey,Miranchuk,262048,0,60,Midfielder
+Franck Alain,Djoulou Zohoki,507587,0,0,Forward
+Neil,Taylor,77544,3.85,540,Defender
+Iago,Aspas Juncal,3840,92.6,2996,Forward
+Thiago,Alcântara do Nascimento,3345,25.129999999999995,1356,Midfielder
+Aïssa,Mandi,26307,39.15,3060,Defender
+Jiří,Pavlenka,253822,0,0,Goalkeeper
+Eduardo,dos Reis Carvalho,70106,0,0,Goalkeeper
+Benedikt,Höwedes,14855,4.81,670,Defender
+Shani,Tarashaj,134911,0,0,Forward
+Marek,Suchý,101654,0,0,Defender
+Timothy,Chandler,15139,27.950000000000003,1893,Defender
+Hernán Darío,Toledo,393881,7.76,607,Forward
+Julian,Pollersbeck,241957,0,0,Goalkeeper
+Lucas,Pérez Martínez,105541,31.819999999999997,2791,Forward
+Sebastian,Jung,15244,0,78,Defender
+Jake,Livermore,8285,20.01,2654,Midfielder
+Alberto Junior,Rodríguez Valdelomar,70144,0.83,136,Defender
+Serge ,Gnabry,134397,52.06000000000001,1515,Midfielder
+Andy Jorman,Polo Andrade,114764,0,0,Midfielder
+Bakary Adama,Soumaoro,25710,10.81,1194,Defender
+Mërgim,Mavraj,15449,26.759999999999994,1749,Defender
+Elias,Kachunga,16122,16.52,1338,Forward
+Jordan,Ayew,25571,37.08,2941,Forward
+Alberto,De La Bella Madureño,3667,6.34,1529,Defender
+Édgar Osvaldo,Barreto Cáceres,20816,8.170000000000002,1999,Midfielder
+Aaron,Wan-Bissaka,486252,3.1299999999999994,628,Defender
+Hamza,Choudhury,419784,5.59,369,Midfielder
+Santy,Ngom,28073,5.639999999999999,455,Forward
+Darren ,Fletcher,7932,6.070000000000001,2223,Midfielder
+Šimon,Štefanec,352717,0,0,Midfielder
+Pedro,López Muñoz,3920,3.15,1597,Defender
+Lucas ,Nahuel Castro,86301,37.120000000000005,1989,Midfielder
+Richarlison,de Andrade,377071,53.290000000000006,2820,Forward
+Lorenzo,Venuti,284960,18.14,2358,Defender
+Tomi,Jurić,69978,0.02,68,Forward
+Sebastian,Prödl,14688,17.61,1702,Defender
+Joel,Robles Blázquez,4320,0,0,Goalkeeper
+Corentin,Tolisso,209091,45.480000000000004,1759,Midfielder
+Jordan,Williams,399509,0,0,Defender
+Cristian Daniel,Ansaldi,101742,21.1,1875,Defender
+Pasquale,Schiattarella,20911,21.47,1975,Midfielder
+Shinji,Kagawa,14816,25.15,1378,Midfielder
+Víctor,Laguardia Cisneros,4358,23.459999999999997,1530,Defender
+Cristhian Ricardo,Stuani Curbelo,3714,44.15,2796,Forward
+Michele,Cerofolini,490626,0,0,Goalkeeper
+Jean Eudès,Aholou,141172,30.65,3011,Midfielder
+Sadiq,Umar,350992,0.19,226,Forward
+Aniello,Viscovo,392395,0,0,Goalkeeper
+Henrikh,Mkhitaryan,105338,50.88,1725,Midfielder
+Aaron,Cresswell,8582,31.069999999999997,3074,Defender
+Corry,Evans,9620,0.32,264,Midfielder
+Armand,Laurienté,437238,0,0,Forward
+Joël Andre,Job Matip,14870,27.959999999999997,1980,Defender
+Javier,Fuego Martínez,4332,10.570000000000004,1864,Midfielder
+Robert Kenedy,Nunes do Nascimento,254898,12.290000000000001,1030,Midfielder
+Danny,Ings,8955,3.52,237,Forward
+Nicolás Hernán,Otamendi,70086,68.81,3329,Defender
+Ondrej,Duda,218896,9.85,893,Midfielder
+Jamal,Lascelles,8833,48.43,2928,Defender
+Ben,Chilwell,350976,11.35,1875,Defender
+Rémy,Descamps,279772,0,0,Goalkeeper
+Rodrigo,Hernández Cascante,364860,52.429999999999986,3228,Midfielder
+Hakan,Çalhanoğlu,15524,27.13,2305,Midfielder
+Patrice,Evra,7915,6.760000000000001,1239,Defender
+Duško,Tošić,127530,1.8800000000000001,173,Defender
+Armindo,Tué Na Bangna,70975,41.18999999999999,1588,Forward
+Matteo,Bianchetti,20512,0,123,Defender
+Ricardo Gabriel,Álvarez,20523,3.6500000000000004,257,Midfielder
+Michele,Cremonesi,21725,2.6999999999999997,383,Defender
+Georges-Kevin,N'Koudou Mbida,270828,0.42,220,Forward
+Rándall,Azofeifa Corrales,32706,0,0,Midfielder
+Alexander,Isak,399599,1.01,103,Forward
+Håvard,Nordtveit,15012,13.169999999999998,942,Midfielder
+Kevin,Long,10108,26.370000000000005,1440,Defender
+James Edward,Lea Siliki,325781,21.06,1802,Midfielder
+Cenk,Gönen,32574,0,0,Goalkeeper
+Willian José,da Silva,40770,55.38999999999999,2778,Forward
+Charles ,Días Barbosa de Oliveira,385273,21.990000000000006,1545,Forward
+John Anthony,Brooks,18974,13.23,729,Defender
+Samuel,Souprayen,26373,7.359999999999999,1605,Defender
+Luca,Sparandeo,360778,0,33,Defender
+Riccardo,Orsolini,373768,4.31,453,Forward
+Eden,Hazard,25707,136.15,3391,Forward
+José Manuel,Arnáiz Díaz,339857,0,0,Forward
+Dejan,Dražić,282994,0,0,Midfielder
+Alejandro Damián,González Hernández,116160,0,0,Defender
+Erik,Morán Arribas,167118,0,212,Midfielder
+Andreaw Rayan,Gravillon,412914,1.2799999999999998,82,Defender
+Bamidele,Alli,13484,80.11000000000001,3629,Midfielder
+Anthony,Lopes,25382,0,0,Goalkeeper
+Ainsley,Maitland-Niles,279717,4.0,905,Midfielder
+Daniele,Dessena,20875,1.18,561,Midfielder
+Leonardo Gabriel,Suárez,256854,0.13,28,Midfielder
+Gabriele,Angella,22677,14.150000000000004,891,Defender
+Eugen,Polanski,15193,7.199999999999999,239,Midfielder
+Oscar Fabián,Murillo Murillo,91002,1.6199999999999999,90,Defender
+Serigne Modou Kara,Mbodji,54315,0,0,Defender
+Emmanuel,Bourgaud,29590,2.79,529,Midfielder
+David,Edwards,8436,1.28,108,Midfielder
+Yoann,Andreu,25846,10.13,2070,Defender
+Rémy,Cabella,25999,61.529999999999994,2317,Midfielder
+James ,Tarkowski,9433,38.379999999999995,2790,Defender
+Ohis Felix,Uduokhai,337682,21.369999999999997,1562,Defender
+Cristian Gabriel,Rodríguez Barrotti,70095,5.0,165,Midfielder
+Manuel,Morlanes Ariño,352788,0,0,Midfielder
+Oliver,Baumann,14979,0,0,Goalkeeper
+Omar Ibrahim Omar Othman,Hawsawi,122651,1.02,90,Defender
+Federico,Peluso,20842,13.73,2552,Defender
+Bekim,Balaj,64078,0,31,Forward
+Alexander,Hack,221172,19.729999999999997,1287,Defender
+Denis,Suárez Fernández,8323,14.52,568,Midfielder
+Wesley,Saïd,149054,35.760000000000005,1808,Forward
+Fabio,González Estupiñan,519496,2.75,65,Midfielder
+Romain,Amalfitano,26311,13.639999999999999,2703,Midfielder
+Jorge,Andújar Moreno,3460,6.36,1300,Defender
+Mickaël,Le Bihan,26093,0.22999999999999998,78,Forward
+Dawid,Kownacki,240042,21.47,850,Forward
+Ludovic,Baal,25625,2.45,1162,Defender
+Juan,Soriano Oropesa,302547,0,0,Goalkeeper
+Senad,Lulić,20561,30.17999999999999,2447,Midfielder
+Carles,Aleñà Castillo,282442,0,0,Midfielder
+Sergio,Enrich Ametller,4048,17.220000000000002,1319,Forward
+Joel,Chukwuma Obi,20525,18.48,1241,Midfielder
+Lorenzo,Pellegrini,328333,32.970000000000006,1826,Midfielder
+Guido,Burgstaller,64995,39.45,2326,Forward
+Walter Iván,Montoya,253551,0.9299999999999999,77,Midfielder
+Eddie,Nketiah,346158,0,0,Forward
+Clément,Grenier,25407,2.87,1214,Midfielder
+Kévin Lucien,Zohi,493415,0,0,Forward
+Carlos,Martín Vigaray,250899,1.6100000000000003,896,Defender
+Aiden,O'Neill,447043,0,0,Midfielder
+Yassine ,Meriah,331763,2.01,270,Defender
+Brian Leonel,Fernández,207002,2.6,85,Forward
+Jordan,Torunarigha,275121,10.05,649,Defender
+Martin,Harnik,14760,30.94,2051,Forward
+Stefan,Savić,8311,30.219999999999995,2299,Defender
+Uwe,Hánemeier,15301,0.29,17,Defender
+Neven,Subotić,14801,23.450000000000003,1710,Defender
+Vladimír,Weiss,3813,2.31,279,Forward
+Julian,Korb,16884,8.659999999999998,2343,Defender
+Rui Pedro,dos Santos Patrício,70134,0,0,Goalkeeper
+Robin,Knoche,14917,30.86,2104,Defender
+Arona,Sané,279556,1.6099999999999999,64,Midfielder
+Luis Carlos,Correia Pinto,70451,13.290000000000003,2622,Defender
+Javier Matías,Pastore,25440,46.26,1345,Midfielder
+Jorge,Ruiz Ojeda,278316,0,0,Goalkeeper
+Jagoš,Vuković,192,25.670000000000005,1334,Defender
+Jamie,Ward,8989,3.84,222,Midfielder
+Mariusz,Stępiński,99511,8.030000000000001,669,Forward
+Afriyie,Acquah,20812,7.48,936,Midfielder
+Bilal,Hadraoui,525231,0,0,Midfielder
+Joris,Kayembe Ditu ,278913,2.11,89,Midfielder
+Domingos,Quina,399653,0,0,Midfielder
+Víctor,Camarasa Ferrando,247219,15.340000000000003,1250,Midfielder
+Patrice,Evra,7915,6.760000000000001,1239,Defender
+Valentin,Stocker,49873,3.36,37,Midfielder
+Carlos Joel,Salcedo Hernández,255387,22.98,1967,Defender
+Mauro Wilney,Arambarri Rosa,286448,15.999999999999998,2199,Midfielder
+Salem Mohammed,Al Dawsari,122832,7.180000000000001,303,Midfielder
+Cristiano,Lombardi,255670,16.38,1115,Forward
+Igor,Akinfeev,101576,0,0,Goalkeeper
+Marco,Friedl,391441,3.32,634,Defender
+Iván,Rodríguez del Pozo,352748,0,20,Defender
+David,Pavelka,82644,0.22999999999999998,56,Midfielder
+Vitorino,Hilton da Silva,25993,30.599999999999998,2430,Defender
+Danny,Ward,136509,0,0,Goalkeeper
+Miloš,Jojić,127685,16.76,1461,Midfielder
+Leandro Henrique,do Nascimento,363994,0,0,Forward
+Fabian,Frei,49869,8.1,820,Midfielder
+Kieran,Trippier,8945,6.5,2486,Defender
+Milan,Badelj,69400,28.470000000000002,2860,Midfielder
+Marcel,Risse,15194,5.929999999999999,1168,Midfielder
+Serge,Gakpé,38095,22.41,1793,Forward
+Carlos Andrés,Sánchez Arcosa,86340,0,122,Midfielder
+Tim-Henry,Handwerker,356928,9.25,383,Defender
+Pedro,Mosquera Parada,4511,14.689999999999998,1398,Midfielder
+Dalbert Henrique,Chagas Estevão,298212,3.04,525,Defender
+Aleksandar,Katai,127719,0.15,38,Midfielder
+Denys,Garmash,105606,0.44999999999999996,14,Midfielder
+Islam,Slimani,119630,12.259999999999998,336,Forward
+Serhiy,Rybalka,105612,0,0,Midfielder
+Christopher,Nkunku,347200,23.490000000000002,590,Midfielder
+Daniele,Padelli,20572,0,0,Goalkeeper
+Andriy,Pyatov,105320,0,0,Goalkeeper
+Dimitri,Foulquier,25638,11.96,1238,Defender
+Francesco,Zampano,24024,8.77,410,Defender
+Kamil,Grosicki,33032,8.51,505,Midfielder
+Luka,Milivojević,127537,19.130000000000003,3253,Midfielder
+Jefferson Agustin,Farfán Guadalupe,14872,1.8599999999999999,129,Forward
+Anice,Badri,28094,3.1599999999999997,224,Forward
+Jérémy,Grimm,29137,8.760000000000002,770,Midfielder
+Simone,Lo Faso,368340,0.43,34,Forward
+Wesley,Hoedt,268776,31.710000000000004,2520,Defender
+Erwin,Zelazny,25521,0,0,Goalkeeper
+Salvatore,Esposito,535716,0,0,Midfielder
+Róbert,Mazáň,786,0,83,Defender
+Claudio,Marchisio,20470,13.030000000000003,782,Midfielder
+Hjörtur,Hermannsson,1735,0,0,Defender
+Jae-Sung,Lee,299121,2.31,270,Midfielder
+Adam,Marušić,228928,32.01,2551,Midfielder
+Mattia,Zaccagni,246633,1.8699999999999999,149,Midfielder
+Josuha,Guilavogui,25861,32.49999999999999,2408,Midfielder
+Fabian,Lustenberger,15103,12.9,1547,Defender
+Diego,Falcinelli,21861,23.029999999999998,1710,Forward
+Adelino André ,Vieira Freitas,14940,0,270,Midfielder
+Gareth,Barry,8314,12.879999999999999,1925,Midfielder
+Salomon Armand Magloire,Kalou,7904,47.94,2220,Forward
+Arnór Ingvi,Traustason,57480,2.55,10,Midfielder
+Lucas Pedro,Alves De Lima,40301,12.09,2658,Defender
+Mamadou,Koné,3711,0,0,Forward
+Frédéric,Guilbert,28908,16.59,3240,Defender
+Vittorio,Parigini,239295,7.93,846,Forward
+Salvador,Ichazo Fernández,116394,0,0,Goalkeeper
+Enrico,Bearzotti,388099,0.2,409,Midfielder
+Andy,King,8498,12.709999999999999,1342,Midfielder
+Daniel,Ceballos Fernández,326523,9.13,384,Midfielder
+Jean-Claude,Billong,385655,4.07,293,Defender
+Mario,González Gutiérrez,257006,0,0,Forward
+Philipp,Ochs,297701,1.8800000000000001,63,Forward
+Gabriel,dos Santos Magalhães,415917,0,83,Defender
+Niall,McGinn,9525,1.5599999999999998,21,Midfielder
+Davide,Biondini,21282,0.41000000000000003,206,Midfielder
+Lukas,Klostermann,258252,7.3,2192,Defender
+Matija,Nastasić,20932,24.499999999999996,2001,Defender
+Grzegorz,Krychowiak,25537,35.400000000000006,2394,Midfielder
+Luca,Vido,262384,1.29,69,Forward
+Darijo,Srna,105332,0,390,Defender
+Daniele,De Rossi,20438,10.1,2061,Midfielder
+Javi,Castellano Betancor,4361,13.370000000000001,1567,Midfielder
+Niki,Mäenpää,71,0,0,Goalkeeper
+Rômulo ,Souza Orestes Caldeira,20935,26.979999999999997,3171,Midfielder
+Lucas,Höler,271990,7.13,838,Forward
+Corentin,Jean,134512,16.08,1661,Forward
+David,Juncà Reñé,4780,8.82,894,Defender
+Diego,Rico Salguero,169002,13.110000000000003,2296,Defender
+Wayne,Routledge,77557,0.45000000000000007,389,Midfielder
+Joaquín,Sánchez Rodríguez,3571,39.879999999999995,2487,Midfielder
+Felix,Eboa Eboa,286915,22.18,1511,Defender
+Emre,Çolak,32652,13.849999999999998,1459,Midfielder
+Nahki,Wells,9179,1.38,19,Forward
+Steeve,Yago,25791,4.4799999999999995,1573,Defender
+Rune ,Almenning Jarstein,54579,0,0,Goalkeeper
+Maurício,dos Santos Nascimento,41368,0,0,Defender
+Bastien,Rempp,482153,0,0,Goalkeeper
+Andrea,Donadello,531687,0,0,Defender
+Michał,Pazdan,99438,5.550000000000001,680,Defender
+Mirko,Valdifiori,21019,2.3899999999999997,594,Midfielder
+Boukary,Dramé,20639,0,69,Defender
+Craig,Dawson,8360,18.88,2511,Defender
+Jan-Ingwer,Callsen-Bracker,15768,0,0,Defender
+Erik,Thommy,224971,9.309999999999999,1140,Midfielder
+Roberto,Gagliardini,241676,12.36,1983,Midfielder
+Blerim,Džemaili,21169,21.09,1800,Midfielder
+Tomer,Hemed,3657,17.479999999999997,841,Forward
+Leonardo,Rivoira,410024,0,0,Defender
+Masaaki,Higashiguchi,95108,0,0,Goalkeeper
+Makoto,Hasebe,14929,23.519999999999996,2378,Midfielder
+Iván,López Mendoza,3919,4.07,175,Defender
+Osvaldo Nicolás Fabián,Gaitán,70121,2.21,215,Midfielder
+Davie,Selke,134399,38.89,1886,Forward
+Georginio,Wijnaldum,116,31.94,2346,Midfielder
+Ryan,Bertrand,7885,20.199999999999996,3227,Defender
+Theo Bernard François,Hernández,344132,8.940000000000001,952,Defender
+Artur,Ioniţă,50073,28.71,2661,Midfielder
+Saúl,Ñíguez Esclapez,4488,42.85999999999999,3157,Midfielder
+Diego,Varela Pampín,473386,0,0,Defender
+Mehmet,Topal,3289,11.1,270,Midfielder
+Marios,Oikonomou,93341,0.21,164,Defender
+Safwan,Mbaé,331914,0,0,Defender
+Guy Adolphe,N'Gosso Massouma,26414,5.289999999999999,590,Midfielder
+José Luis,Sanmartín Mato,3327,31.770000000000003,1716,Forward
+Younes,Kaboul,8272,2.23,151,Defender
+Tiemoué,Bakayoko,28291,32.019999999999996,2181,Midfielder
+Salvatore,Sirigu,25421,0,0,Goalkeeper
+Rhu-endly,Martina,340,16.36,1830,Defender
+Luka,Marković,362013,0,0,Forward
+Morgan,Sanson,209086,37.31,2153,Midfielder
+Shane ,Long,8384,20.269999999999996,1885,Forward
+Thomas Teye,Partey,217031,13.930000000000001,2376,Midfielder
+Julio,Gracia Gallardo,388832,0,15,Midfielder
+Axel,Werner,222324,0,0,Goalkeeper
+Antoine,Griezmann,3682,116.82,3681,Forward
+Matthieu,Udol,286506,0.53,352,Defender
+Mathieu,Dossevi,26512,46.22999999999999,2502,Midfielder
+Kristiano Samuel,Armenteros Nunez Mendoza Jansson,658,5.510000000000001,424,Forward
+Berat ,Djimsiti,50007,45.53,2700,Defender
+Roberto José,Rosales Altuve,254,4.47,3125,Defender
+Florian,Kath,269490,8.229999999999999,627,Midfielder
+Timo,Letschert,221047,4.9399999999999995,412,Defender
+Diego,Demme,15937,23.729999999999997,2291,Midfielder
+Alex,Meret,286215,0,0,Goalkeeper
+Marko,Arnautović,14703,65.91,2648,Forward
+Timo,Baumgartl,235597,24.31,2610,Defender
+Andrea,Nalini,272878,18.93,1643,Forward
+Youssef,En-Nesyri,447821,15.559999999999999,1600,Forward
+Sead,Kolašinac,14869,34.9,2153,Defender
+Loïc,Perrin,25864,36.08,2466,Defender
+Abdoulaye,Touré,217874,28.83,2809,Midfielder
+Ayman,Ashraf,120446,0,0,Defender
+Eric Bertrand ,Bailly,256998,10.41,990,Defender
+Samir,Handanovič,20571,0,0,Goalkeeper
+Juan Manuel,Valencia Aponzá,415687,0,0,Midfielder
+Jasper,Cillessen,33,0,0,Goalkeeper
+Nicolás Martín,Pareja,101649,4.32,406,Defender
+Daniel,Parejo Muñoz,3286,22.149999999999995,3011,Midfielder
+Aymen,Barkok,391387,4.02,297,Midfielder
+Ridle Bote,Nzuzi Baku,391425,4.12,234,Midfielder
+Marwin,Hitz,14914,0,0,Goalkeeper
+Adrian Marius,Stoian,21655,27.510000000000005,2135,Forward
+Denis,Petrić,25904,0,0,Goalkeeper
+Ager,Aketxe Barrutia,167117,0,34,Midfielder
+Mehdi,Zeffane,25399,7.4399999999999995,970,Defender
+Geoff,Cameron,58978,11.760000000000002,1525,Defender
+Simone,Romagnoli,21373,4.130000000000001,544,Defender
+Rubén,Pardo Gutiérrez,3677,5.12,215,Midfielder
+Stefan,de Vrij,130,41.45000000000001,3039,Defender
+Stuart,Dallas,80019,5.4,314,Midfielder
+Matthieu,Dreyer,27004,0,0,Goalkeeper
+Antonio,Rádiger,14748,28.93,2426,Defender
+Leroy,Sané,245364,78.33999999999999,2429,Midfielder
+Daniel,Brosinski,15399,17.6,2500,Defender
+Heinz,Lindner,64959,0,0,Goalkeeper
+Ander,Cantero Armendáriz,6322,0,0,Goalkeeper
+Clément,Lenglet,134503,39.65999999999999,3001,Defender
+Filippo,Melegoni,351009,0,0,Midfielder
+Matt,Phillips,9414,13.87,2070,Midfielder
+Gabriel,Barbosa Almeida,263948,0,0,Forward
+Daniele,Bonera,20393,15.339999999999998,1250,Defender
+Alexander,Sørloth,55224,2.01,360,Forward
+Digbo G'nampa Habib,Maïga,285457,1.27,694,Midfielder
+Loïs,Diony,217878,5.66,914,Forward
+Matthew,Jurman,61554,0,0,Defender
+Lee,Hodson,8887,0,0,Defender
+Alberto,Moreno Pérez,4908,5.040000000000001,1263,Defender
+Luca,Cigarini,20850,4.109999999999999,2047,Midfielder
+Olivier,Giroud,26010,55.44000000000001,1900,Forward
+Filip,Helander,50805,26.85000000000001,2491,Defender
+Nicolas,Janvier,367146,0.13,75,Midfielder
+Rolando,Mandragora,302799,18.889999999999997,3240,Midfielder
+DeAndre,Yedlin,252365,13.290000000000003,2837,Defender
+Ivan,Vargić,69417,0,0,Goalkeeper
+Kévin,Bérigaud,26665,4.76,274,Forward
+Saido,Berahino,9532,8.59,381,Forward
+Matheus,Dória Macedo,40574,2.0300000000000002,72,Defender
+Fedor,Kudryashov,101647,2.32,330,Defender
+Cedric,Teuchert,337732,1.46,22,Forward
+Járgen,Locadia,120,3.93,216,Forward
+Deji Ousman,Beyreuther,491429,0,0,Defender
+Elvis,Rexhbecaj,337903,0,119,Midfielder
+Tin,Jedvaj,212604,6.849999999999999,771,Defender
+Vincent,Marcel,421809,0.08,44,Midfielder
+Jeison Fabián,Murillo Cerón,4065,16.85,1357,Defender
+Víctor,Ruíz Torre,3277,24.830000000000005,2430,Defender
+Per Ciljan,Skjelbred,14905,12.560000000000002,2180,Midfielder
+Alfredo,Talavera Díaz,112813,0,0,Goalkeeper
+Jannik,Vestergaard,15806,40.98,2880,Defender
+Marlos,Moreno Durán,257752,0,0,Forward
+Victor,Wanyama,61967,10.040000000000001,824,Midfielder
+Freddie,Woodman,240270,0,0,Goalkeeper
+Will,Hughes,8981,20.810000000000002,998,Midfielder
+Adrián Luciano,Santos Sahibeddine,207061,0,9,Forward
+Hamza,Mendyl,426702,1.7500000000000002,852,Defender
+Nicolás Federico,Spolli,21072,19.21,1802,Defender
+Gonçalo Manuel,Ganchinho Guedes,237034,83.37999999999998,2671,Forward
+Pierre-Emerick,Aubameyang,25867,81.32000000000001,2493,Forward
+Hotaru,Yamaguchi,95010,1.0,100,Midfielder
+Iver,Fossum,208089,9.729999999999999,1292,Midfielder
+Taulant Ragip,Xhaka,49981,0.13,78,Midfielder
+Charlie,Austin,8953,31.740000000000002,1015,Forward
+Diego Alejandro,Rolán Silva,116283,27.04,1944,Forward
+Xherdan,Shaqiri,49872,39.839999999999996,3779,Midfielder
+Lewis,Cook,302518,19.98,2236,Midfielder
+Ander,Herrera Agáera,3413,15.850000000000003,1268,Midfielder
+Riccardo,Montolivo,20943,9.19,1097,Midfielder
+Ciro,Immobile,21384,107.71000000000002,2830,Forward
+Jaume,Doménech Sánchez,215265,0,0,Goalkeeper
+Giuseppe,Rossi,3548,5.53,237,Forward
+Manolo,Gabbiadini,20857,9.980000000000002,930,Forward
+Francisco,Barbosa Vieites,548764,0,0,Goalkeeper
+Nolan,Roux,25716,60.17,2839,Forward
+Timothy,Weah,471774,0,90,Forward
+Henrik,Dalsgaard,56394,1.6399999999999997,390,Defender
+Bryan,Dabo,26000,15.740000000000002,1934,Midfielder
+Paolo Pancrazio,Faragò,220359,24.149999999999995,2444,Midfielder
+Vladlen,Yurchenko,138493,0,0,Midfielder
+Salman Mohammed,Al Faraj,122847,0.64,270,Midfielder
+Luca,Rizzo,23386,9.580000000000002,483,Midfielder
+Jefferson Antonio,Montero Vite,3599,0,39,Midfielder
+John,Stones,9380,39.599999999999994,1951,Defender
+Hannes Þór,Halldórsson,57226,0,0,Goalkeeper
+Fyodor,Smolov,101707,0.73,465,Forward
+Luis Fernando,Muriel Fruto,20764,33.830000000000005,1658,Forward
+Román Aureliano,Torres Morcillo,91263,2.2600000000000002,236,Defender
+Mirko,Antonucci,405602,4.16,31,Forward
+Anto,Grgic,256776,0.13999999999999999,5,Midfielder
+Simon,Asta,493725,0,0,Defender
+Vagner José,Dias Gonçalves,351851,0,86,Midfielder
+Cheikh,M'Bengue,25789,2.75,474,Defender
+Oliver,Norwood,8773,0.65,349,Midfielder
+Kalifa,Coulibaly,25444,5.67,338,Forward
+Frédéric,Veseli,134954,0,0,Defender
+Leon ,Goretzka,134387,29.179999999999996,2045,Midfielder
+Arnaldo Antonio,Sanabria Ayala,225946,16.359999999999996,828,Forward
+Erick Antonio,Pulgar Farfán,90268,17.93,2757,Midfielder
+Karl,Darlow,8826,0,0,Goalkeeper
+Marco,Sau,21865,16.42,1253,Forward
+Jules,Koundé,410062,26.119999999999997,1588,Defender
+Stanislav,Lobotka,167641,31.069999999999993,3061,Midfielder
+Robin,Zentner,222798,0,0,Goalkeeper
+Mehdi,Carcela-González,101847,0.05,15,Midfielder
+Álvaro,Medrán Just,247222,4.24,1011,Midfielder
+Kévin Olivier,Soni,366374,0,0,Midfielder
+Omar,Gaber,119987,0,0,Defender
+Amine,Harit,372915,47.85,2132,Midfielder
+Grady,Diangana,379205,0,0,Midfielder
+Andrea,Marcucci,347019,0,0,Midfielder
+Sébastien,Haller,25512,34.209999999999994,2354,Forward
+Alfie,Whiteman,401050,0,0,Goalkeeper
+Cristian,Mutton,411313,0,0,Forward
+Jeremy,Blayac,26543,23.74,863,Forward
+José Fernando,Cuadrado Romero,91082,0,0,Goalkeeper
+Orestis,Karnezis,92864,0,0,Goalkeeper
+Saad Ali Saadeldin,Samir,120042,0,0,Defender
+Ángel Luis,Rodríguez Díaz,4131,43.27,2283,Forward
+Heurelho,da Silva Gomes,8266,0,0,Goalkeeper
+Aaron,Herzog,391515,0,0,Midfielder
+Simon,Thorup Kjær,20433,23.110000000000003,1958,Defender
+Martín Andrés,Silva Leites,113995,0,0,Goalkeeper
+Luis,Ndreu,540634,0,0,Midfielder
+Thomas,Máller,14732,89.27000000000001,2726,Forward
+Florian,Kainz,65055,20.2,1709,Midfielder
+Julián,Speroni,8391,0,0,Goalkeeper
+Joe,Ledley,61963,0.9299999999999999,363,Midfielder
+Miguel Ángel,Britos Cabrera,21160,7.529999999999999,853,Defender
+Filippo,Romagna,283832,14.89,1887,Defender
+Franck Yannick,Kessié,285109,45.19,3269,Midfielder
+Francesc,Regis Crespí,390613,0,0,Forward
+Leonardo,Pavoletti,22933,45.25,2723,Forward
+Arjen,Robben,14727,45.410000000000004,1518,Midfielder
+Tony,Jantschke,15019,6.510000000000001,724,Defender
+Florian,Thauvin,25770,72.05,2965,Forward
+Alois,Confais,249926,2.3600000000000003,579,Midfielder
+Bruno,da Silva Peres,44251,4.16,1144,Defender
+Mehdi,Lacen,4009,3.4100000000000006,1106,Midfielder
+Andrea,Tessiore,492463,0,0,Midfielder
+Benno,Schmitz,18544,0.24,81,Defender
+Sandro,Wagner,15085,49.38,1576,Forward
+Şener,Özbayraklı,34592,0,0,Defender
+Yassine,Benzia,28122,28.479999999999993,2304,Forward
+Gustav,Svensson,32798,0.6,90,Midfielder
+Alex,Iwobi,230020,47.05000000000001,1902,Midfielder
+Andrés Mateus,Uribe Villa,91502,2.5,182,Midfielder
+Federico,Melchiorri,145344,0,0,Forward
+Juan Francisco,Moreno Fuertes,3325,13.490000000000002,3059,Defender
+Arlind,Ajeti,49857,17.360000000000003,1428,Defender
+Vasilije,Janjičić,444439,2.96,312,Midfielder
+Arne,Maier,425926,11.020000000000001,1224,Midfielder
+Noah-Joel,Sarenren-Bazee,272436,0.02,104,Midfielder
+Emil,Krafth,51064,4.17,1033,Defender
+Sloan,Privat,25479,0,0,Forward
+Scott,Dann,8186,18.73,1415,Defender
+Ricardo Domingos,Barbosa Pereira,70381,0,90,Defender
+Jawad,El Yamiq,413041,1.5399999999999998,360,Defender
+Emir,Kujović,32973,0,0,Forward
+Alejandro Gutiérrez,Mozo,488750,0.58,44,Midfielder
+Thiago Emiliano,da Silva,20394,43.69,2565,Defender
+Damien,Delaney,8583,0.95,90,Defender
+James David,Rodríguez Rubio,70096,55.589999999999996,1778,Midfielder
+Wilfride,Kanga Aka,347205,1.28,147,Forward
+Dušan,Tadić,383,37.06000000000001,3086,Midfielder
+Raphaël,Adiceam,29314,0,0,Goalkeeper
+Santiago,Arias Naranjo,70136,1.09,386,Defender
+Kelvin,Amian Adou,352986,16.799999999999997,3165,Defender
+Jeff,Reine-Adelaide,366542,5.8,414,Midfielder
+David,Timor Copoví,3510,13.639999999999999,895,Midfielder
+Emmanuel,Rivière,25809,35.47,2007,Forward
+Chadrac,Akolo,328131,20.599999999999998,1089,Forward
+Petar,Brlek,69658,0.4,233,Midfielder
+Gianfilippo,Felicioli,286225,0.05,259,Defender
+Manuel,Ferrini,432680,0,0,Defender
+Francisco José,Molinero Calderón,3856,0.83,567,Defender
+Shane,Duffy,8242,59.09000000000001,3474,Defender
+Vincent,Peugnet,454268,0,0,Defender
+Bryan,Passi,426692,0,0,Defender
+Alessio,Miceli,423597,0,0,Midfielder
+Pablo,Nascimento Castro,41127,26.779999999999994,1292,Defender
+Bruno,Zuculini,86309,5.010000000000001,1297,Midfielder
+Michel Ndary,Adopo,562846,0,0,Midfielder
+Eros,Schiavon,21517,0.33999999999999997,336,Midfielder
+Rúnar Már,Sigurjónsson,57333,0,0,Midfielder
+Wesley,Sneijder,20531,5.51,399,Midfielder
+Thomas,Candeloro,531179,0,0,Goalkeeper
+Antonio,García Aranda,5383,5.590000000000001,1080,Defender
+Franco,Armani,90991,0,0,Goalkeeper
+Jonas,Knudsen,55957,0,120,Defender
+Hernán Arsenio,Pérez González,3539,2.55,499,Midfielder
+Rubén,Castro Martín,3604,9.76,246,Forward
+Gianluca,Caprari,21376,38.58,1864,Forward
+David,Alba Fernández,551398,0.52,63,Defender
+Baptiste,Santamaria,274344,13.419999999999998,2598,Midfielder
+Aleix,García Serrano,282448,7.960000000000001,839,Midfielder
+Nicolas,Höfler,15430,26.87,2347,Midfielder
+Andy,Delort,25745,28.74,2300,Forward
+Andy,Pelmard,497354,0,0,Defender
+Cédric,Bakambu,25472,17.9,1269,Forward
+Thomas,Kraft,15090,0,0,Goalkeeper
+Cheick Tidiane,Diabaté,25601,15.360000000000001,668,Forward
+Facundo Sebastián,Roncaglia,86183,16.68,1488,Defender
+Giovani,Lo Celso,356237,46.910000000000004,1762,Midfielder
+Ermir,Lenjani,50318,0.02,257,Defender
+Alex,Palmer,381290,0,0,Goalkeeper
+Yuri,Berchiche Izeta,4452,18.14,1705,Defender
+Denis Lemi,Zakaria Lako Lado,360992,16.15,2337,Midfielder
+Moctar El Hacen,El Id,264778,0.36000000000000004,81,Midfielder
+Mapou,Yanga-Mbiwa,25996,0.4,129,Defender
+Ömer,Toprak,14778,34.21000000000001,2006,Defender
+Sławomir,Peszko,15282,0.08,27,Midfielder
+Guessouma,Fofana,28948,2.5199999999999996,712,Midfielder
+Mathias,Jattah-Njie Jørgensen,55979,37.720000000000006,3630,Defender
+George Alexandru,Puşcaş,137161,10.15,683,Forward
+Gian-Luca,Itter,425923,1.91,414,Defender
+Alessio,Cragno,134413,0,0,Goalkeeper
+Kyle,Bartley,61979,4.57,201,Defender
+Enrico,Del Prato,422552,0,0,Defender
+Christ Emmanuel Faitout,Maouassa,366571,14.229999999999999,870,Midfielder
+Ellyes,Skhiri,246946,29.579999999999995,3322,Midfielder
+Jón Daði,Böðvarsson,58105,9.51,436,Forward
+Benjamin,Nivet,25891,17.669999999999998,1372,Midfielder
+Andrea,Petagna,246175,44.60999999999999,1627,Forward
+Miguel Ángel,Borja Hernández,91156,0,1,Forward
+Seung-Hyeon,Jung,373054,0,0,Defender
+Arnaud,Lusamba,286388,0.5700000000000001,158,Midfielder
+Stéphane,Ruffier,25845,0,0,Goalkeeper
+Jonas,Martin,26065,15.65,3044,Midfielder
+El-Hadji Baye Oumar,Niasse,145692,24.59,1065,Forward
+Asmir,Begović,8726,0,0,Goalkeeper
+Maxime,Le Marchand,26135,24.22,2536,Defender
+David,Soria Solís,278320,0,0,Goalkeeper
+Rémi,Walter,149053,11.97,1490,Midfielder
+Alin Dorinel,Toșca,85113,16.410000000000004,1593,Defender
+Francisco,Portillo Soler,3572,18.7,2463,Midfielder
+Michaël Jordan,Nkololo,209211,1.5799999999999998,402,Midfielder
+Hans Carl Ludwig,Augustinsson,51217,9.520000000000001,2985,Defender
+Timo,Hábers,272435,10.479999999999999,450,Defender
+Álvaro,Tejero Sacristán,344104,0,0,Defender
+Stanley,Nsoki,397030,0.36,25,Defender
+Riza,Durmisi,56009,14.59,2063,Defender
+Marko,Pjaca,135810,5.08,427,Forward
+Lukas,Podolski,15291,0,18,Forward
+Kylian,Mbappé Lottin,353833,100.65000000000002,2698,Forward
+Rolando,Aarons,337225,2.87,635,Midfielder
+Sam,Byram,224206,0.19,233,Defender
+Andy,Carroll,7970,9.82,805,Forward
+Baptiste,Guillaume,253784,9.409999999999998,407,Forward
+Marijan,Ćavar,476054,0.18,31,Midfielder
+Kyle,Taylor,515791,0,0,Midfielder
+Julian,Palmieri,25919,2.3899999999999997,1177,Defender
+Erik Alexander,Expósito Hernández,489417,5.0,444,Forward
+Marvin,Plattenhardt,15125,13.100000000000001,3049,Defender
+Zoltán,Stieber,15196,1.6199999999999999,77,Midfielder
+Bastian,Oczipka,14775,2.46,2319,Defender
+Adrián Ricardo,Centurión,213387,0,51,Midfielder
+Wilfredo Daniel,Caballero,3551,0,0,Goalkeeper
+Benjamin ,Kantie Karamoko,209102,0,0,Defender
+Antonio,Moya Vega,367391,0,0,Midfielder
+Federico,Brancolini,456492,0,0,Goalkeeper
+Vanja,Milinković-Savić,283062,0,0,Goalkeeper
+Franck Bilal,Ribéry,14726,28.4,1201,Midfielder
+Joachim,Andersen,145787,7.21,545,Defender
+Marc-André,ter Stegen,15008,0,0,Goalkeeper
+Ahmet Yilmaz,Çalık,134557,0,0,Defender
+Per,Mertesacker,7856,10.38,365,Defender
+Carlos Henrique,Casimiro,40756,44.5,2929,Midfielder
+Ibrahim,Amadou,28232,23.31,2411,Midfielder
+Morteza,Pouraliganji,79449,2.08,270,Defender
+Edson André,Sitoe,70711,13.889999999999999,1170,Defender
+Kyle,Scott,291594,0,0,Midfielder
+Kevin,Trapp,15062,0,0,Goalkeeper
+Gilbert Gianelli,Imbula Wanga,25942,18.73,2255,Midfielder
+Davide,Calabria,257028,20.259999999999998,1584,Defender
+Francis,Coquelin,7864,10.459999999999999,819,Midfielder
+Maximiliano Eduardo,Meza,146459,1.9,207,Midfielder
+João Filipe,Iria Santos Moutinho,70093,26.320000000000004,3279,Midfielder
+Christian Guillermo Martín,Ramos Garagay,114617,2.63,270,Defender
+Pierre,Lees Melou,277629,56.62999999999999,2951,Midfielder
+Nahuel Ignacio,Guzmán,86537,0,0,Goalkeeper
+Mehdi Pascal Marcel,Léris,449978,0.22,23,Forward
+Moussa,Sylla,471589,4.91,304,Forward
+Mouctar,Diakhaby,292654,12.09,717,Defender
+Roman,Hubník,15094,4.869999999999999,270,Defender
+Gianluca,Frabotta,489124,0,0,Defender
+Alessandro,Murgia,346908,8.62,847,Midfielder
+Ander,Guevara Lajo,477352,0,0,Midfielder
+Etienne,Capoue,25798,12.91,1542,Midfielder
+Adrien,Thomasson,209028,33.519999999999996,2589,Midfielder
+Christian,Kabasele,68085,28.549999999999997,2324,Defender
+Fousseni,Diabaté,277002,13.95,582,Forward
+Anthony,Ujah,15201,1.5099999999999998,141,Forward
+Gustavo Daniel,Cabral Cáceres,3916,25.96,1876,Defender
+Mattia,Destro,20796,29.770000000000003,1583,Forward
+Gotoku,Sakai,14749,13.459999999999999,2375,Defender
+Alexander ,Toft Søderlund,54819,10.53,380,Forward
+Denys,Boyko,105744,0,0,Goalkeeper
+Thore,Jacobsen,286403,0,0,Defender
+Taleb,Tawatha,97555,5.64,388,Defender
+Theodor,Gebre Selassie,82340,20.909999999999997,2914,Defender
+Pablo Ezequiel,De Blasis,86517,21.38,1637,Forward
+Maximilian,Eggestein,272440,28.33,2700,Midfielder
+Asier,Illarramendi Andonegi,3676,33.92999999999999,3164,Midfielder
+Xabier,Etxeita Gorritxategi,4113,3.1300000000000003,376,Defender
+Bogdan Ionuț,Lobonț,20426,0,0,Goalkeeper
+Slobodan,Medojević,14932,0.08,28,Midfielder
+Yann,Karamoh,352993,10.15,464,Forward
+Olexandr,Kucher,105328,0.27,90,Defender
+Niccolò,Zanellato,402014,0.12,74,Midfielder
+Lee,Grant,8935,0,0,Goalkeeper
+Laurent,Ciman,38075,0,75,Defender
+Jonathan,dos Santos Ramírez,3349,0.7000000000000001,35,Midfielder
+Youssef,Aït Bennasser,289359,16.129999999999995,2040,Midfielder
+Hermes Aristóteles,Romero,293198,1.58,70,Midfielder
+Landry,Bonnefoi,26046,0,0,Goalkeeper
+Moussa,Niakhaté,290119,40.309999999999995,3104,Defender
+Stéphane,Sessègnon,8533,7.9799999999999995,978,Midfielder
+Nathaniel,Chalobah,7888,4.870000000000001,447,Midfielder
+Iván,Ramis Barrios,3642,22.59,1305,Defender
+Romain,Caumet,501018,0,0,Midfielder
+Perparim,Hetemaj,20653,19.369999999999994,2406,Midfielder
+Flippo,Pavoni,499834,0,0,Goalkeeper
+Duje,Čop,69610,0.41000000000000003,95,Forward
+Franco Damián,Vázquez,20823,47.660000000000004,1836,Midfielder
+Aron,Jóhannsson,56424,8.18,250,Forward
+Seung-Woo,Lee,403546,5.5,366,Forward
+Kasey,Palmer,279709,0.8,168,Midfielder
+Josip,Iličić,20820,70.32000000000001,2002,Forward
+Régis,Gurtner,26583,0,0,Goalkeeper
+Scott,Malone,9280,5.19,1109,Defender
+Jonathan,Hogg,8897,15.49,2429,Midfielder
+Afonso,Mendes Ribeiro Figueiredo,222761,0.64,219,Defender
+Brice,Samba,26131,0,0,Goalkeeper
+Valerio,Verre,20446,4.36,332,Midfielder
+Alan,Mannus,62300,0,0,Goalkeeper
+Lilian,Fournier,426704,0,14,Midfielder
+Luke,Shaw,8135,6.359999999999999,788,Defender
+Benjamin,André,25826,34.13000000000001,3043,Midfielder
+Palko,Dárdai,448246,0.18,19,Forward
+Lucas ,Pezzini Leiva,7965,40.73,2894,Midfielder
+Thiago,Motta,25439,24.380000000000003,1390,Midfielder
+Jasmin,Kurtič,21620,18.17,2079,Midfielder
+Divock,Okoth Origi,134708,43.13,1923,Forward
+Brown,Ideye Aide,105616,3.7199999999999998,708,Forward
+Mario,Lemina,29640,26.680000000000003,1722,Midfielder
+Nicola,Murru,20869,6.75,1438,Defender
+Florian,Hábner,18581,1.67,316,Defender
+Jérôme,Roussillon,25457,16.46,1888,Defender
+Moise Bioty,Kean,410031,11.620000000000001,1115,Forward
+Vasco,Regini,21004,7.720000000000001,1069,Defender
+Caglar,Söyáncá,344864,28.289999999999992,2245,Defender
+Ismael,Díaz De León,241134,0.22,27,Forward
+Raúl,García Carnero,6513,3.53,1368,Defender
+Konstantinos,Stafylidis,92947,0.83,335,Defender
+Florian,Máller,337647,0,0,Goalkeeper
+James ,Morrison,8374,2.96,206,Midfielder
+Antonio,Barreca,300373,1.6,478,Defender
+Antonino,Ragusa,22699,8.64,774,Forward
+Tommaso,Berni,70161,0,0,Goalkeeper
+Silviu,Lung,83966,0,0,Goalkeeper
+Andrea,Colpani,422555,0,0,Midfielder
+Manuel,Akanji,297957,14.399999999999999,1260,Defender
+Paul,Lasne,25829,28.740000000000006,3056,Midfielder
+Maurice,Čović,383237,0,0,Midfielder
+Fikayo,Tomori,291591,0,0,Defender
+Diego Carlos,Santos Silva,270866,31.150000000000013,2289,Defender
+Lukáš,Hrádecký,55951,0,0,Goalkeeper
+Juan Guilherme,Nunes Jesus,20518,12.810000000000002,1683,Defender
+Lisandro Ezequiel,López,86785,0.9299999999999999,44,Defender
+Billy,Ketkeophomphone,26547,6.949999999999999,429,Forward
+Andrea,Danzi,523089,1.6099999999999999,392,Midfielder
+Gerard,Piqué Bernabéu,3341,59.91999999999999,3383,Defender
+Aldo,Caiazza,471252,0,0,Defender
+Philipp,Wollscheid,15126,0,0,Defender
+Roberto,Inglese,21438,47.52999999999999,2798,Forward
+Adam,Lallana,8140,2.82,450,Midfielder
+Ángel Fabián,di María Hernández,3314,52.70000000000002,2340,Midfielder
+Marcel,Schmelzer,14800,6.989999999999999,1493,Defender
+Aaron,Mooy,62389,17.479999999999997,3337,Midfielder
+Nicolai,Máller,15192,1.52,26,Midfielder
+Yoshinori,Muto,94764,39.62,1972,Forward
+Theódór Elmar,Bjarnason,56183,4.279999999999999,32,Midfielder
+Mathieu,Bodmer,25433,2.92,372,Defender
+Dejan,Lovren,25393,45.580000000000005,2744,Defender
+Wayne ,Hennessey,8425,0,0,Goalkeeper
+Kaylen,Hinds,279721,0,90,Forward
+Marcus,Thuram,301017,38.46,1914,Forward
+Conor,Masterson,302640,0,0,Defender
+Milan,Biševac,25423,8.99,714,Defender
+Héctor Alfredo,Moreno Herrera,3795,20.159999999999997,1217,Defender
+Petr,Čech,7882,0,0,Goalkeeper
+Federico,Ceccherini,21528,52.970000000000006,3226,Defender
+Luca,Crosta,472938,0,0,Goalkeeper
+Frederik,Hillesborg Sørensen,20680,22.85,1962,Defender
+Manuel,Locatelli,286226,9.580000000000002,653,Midfielder
+Mario Gaspar,Pérez Martínez,3529,39.11999999999999,2805,Defender
+Luca,Zanimacchia,447505,0,0,Forward
+Igor,Zubeldía Elorza,395114,26.49,1598,Midfielder
+Paulo Henrique,Chagas de Lima,40800,5.86,523,Midfielder
+Bryan,Oviedo,55982,0.86,180,Defender
+Sven,Schipplock,15821,2.0399999999999996,302,Forward
+James,Milner,8319,12.68,1742,Midfielder
+Guido Marcelo,Carrillo,86239,23.01,791,Forward
+Gerónimo,Rulli,86212,0,0,Goalkeeper
+Mohamed,Diamé,8620,14.759999999999998,2020,Midfielder
+Sam,Baldock,8566,0,24,Forward
+Leonardo,Marson,392384,0,0,Goalkeeper
+Pierre-Emile,Højbjerg,135114,18.730000000000004,1671,Midfielder
+Stefano,Sturaro,21290,2.17,801,Midfielder
+Hans,Hateboer,280419,14.049999999999999,2381,Defender
+Dávid,Ivan,138402,0,0,Midfielder
+Denis,Glushakov,101623,1.87,144,Midfielder
+Muhamed,Bešić,14886,0.29,44,Midfielder
+Gabriel Enrique,Gómez Girón,59083,2.22,249,Midfielder
+Luca,Crecco,256479,0,0,Midfielder
+Miguel Angel,Rubio Lestan,500200,0.63,27,Defender
+Max,Besuschkow,302608,0,0,Midfielder
+Marc,Navarro Ceciliano,341751,2.61,1069,Defender
+Ihsan,Sacko,412701,7.579999999999999,930,Forward
+Orji,Okwonkwo,403272,2.02,254,Forward
+Petko,Hristov,372079,0,0,Defender
+Patricio,Gabarrón Gil,4792,8.38,487,Defender
+Romain,Thomas,29474,31.66999999999999,2472,Defender
+Dennis,Diekmeier,14888,6.81,1846,Defender
+Fabio,Depaoli,415809,3.2,1174,Midfielder
+Francesco,Rossi,22053,0,0,Goalkeeper
+Marco,Festa,21900,0,0,Goalkeeper
+Sung-Yeung,Ki,61962,14.87,2044,Midfielder
+Laurent,Pionnier,25986,0,0,Goalkeeper
+Sokratis,Papastathopoulos,14687,35.580000000000005,2415,Defender
+Jefferson Andrés,Lerma Solís,255738,18.93,2315,Midfielder
+Francisco Javier,Calvo Quesada,125512,0.22999999999999998,105,Defender
+Alejandro,Gálvez Jimena,3970,24.48,1980,Defender
+Nemanja,Radonjić,237274,0,8,Midfielder
+Wayne,Rooney,7944,15.239999999999998,2570,Forward
+Rodrigo,Bentancur Colmán,361807,15.159999999999998,906,Midfielder
+Marco,Borriello,20476,4.31,758,Forward
+Yannick,Bolasie Yala,9194,12.870000000000001,844,Midfielder
+Ignatius,Kpene Ganago,521939,2.6599999999999997,47,Forward
+Antonio,Santurro,190168,0,0,Goalkeeper
+Jann-Fiete,Arp,491365,8.440000000000001,833,Forward
+Laurent,Koscielny,7855,39.50999999999999,2869,Defender
+Pablo Javier,Zabaleta Girod,8313,10.94,3289,Defender
+Sven ,Máller,228624,0,0,Goalkeeper
+Niklas,Sále,134383,42.54999999999999,2002,Defender
+Wergiton,do Rosário Calmon,43196,22.23,2047,Midfielder
+Konstantinos,Mavropanos,413002,1.1099999999999999,270,Defender
+Antoine,Bernede,397029,0,0,Forward
+Alejandro Darío,Gómez,21077,70.16999999999999,2755,Forward
+Michael,Hefele,15474,0,31,Defender
+Luca,Antonelli,21272,1.5599999999999998,129,Defender
+Kevin,Bonifazi,289827,2.09,408,Defender
+Adalberto,Peñaranda Maestre,259946,13.390000000000002,807,Forward
+Bohdan,Butko,105716,0,90,Defender
+Emiliano,Viviano,20802,0,0,Goalkeeper
+Joel,Coleman,274482,0,0,Goalkeeper
+Faouzi,Ghoulam,25849,24.029999999999998,987,Defender
+Dean,Marney,8947,0,0,Midfielder
+Márcio Rafael,Ferreira de Souza,14718,27.940000000000005,1843,Defender
+Wilfried Guemiand,Bony,471,14.509999999999998,697,Forward
+Fredrik,Ulvestad,54762,0,0,Midfielder
+Felipe Abdiel,Baloy Ramírez,112679,1.76,21,Defender
+Thiago Henrique,Mendes Ribeiro,41056,43.220000000000006,2317,Midfielder
+Luis Alberto,Suárez Díaz,7972,102.72000000000001,3353,Forward
+Danny,Drinkwater,8495,4.6,513,Midfielder
+Diafra,Sakho,26610,12.82,1015,Forward
+Mateo,Pavlović,69525,26.090000000000003,1966,Defender
+Toby,Alderweireld,36,21.880000000000003,2160,Defender
+Mijat,Gaćinović,136011,28.92,1787,Midfielder
+Karim,Onisiwo,66654,2.62,239,Midfielder
+Leander,Dendoncker,134702,0.22,90,Midfielder
+Semih,Kaya,32645,0,0,Defender
+Matty,James,192748,5.69,988,Midfielder
+Joshua,King,9637,42.88000000000001,2457,Forward
+Bright,Gyamfi,402017,2.64,286,Defender
+Dušan,Basta,20575,6.67,778,Defender
+Timothy,Fosu-Mensah,397168,5.63,1587,Defender
+Connor,Goldson,13451,3.82,180,Defender
+Étienne,Didot,25800,12.469999999999999,1636,Midfielder
+Daniel,Bachmann,204113,0,0,Goalkeeper
+Josip,Elez,135788,7.049999999999999,778,Defender
+Sebastian,Maier,15225,1.43,247,Midfielder
+Phil,Bardsley,8516,4.79,1126,Defender
+Nampalys,Mendy,134542,9.319999999999999,962,Midfielder
+Wissam,Ben Yedder,25795,51.33,1658,Forward
+Lucas,Rodrigues Moura da Silva,40765,11.59,281,Forward
+Reiss,Nelson,397098,3.11,148,Midfielder
+Dimitrios,Siovas,93003,28.73,2068,Defender
+Dominik,Kohr,165425,12.520000000000001,1694,Midfielder
+Ianis,Hagi,346551,0,0,Midfielder
+Miguel Arturo,Layún Prado,112366,6.5600000000000005,1492,Defender
+Tomáš ,Vaclík,82468,0,0,Goalkeeper
+Djené,Dakonam Ortega,250805,30.580000000000002,3240,Defender
+Alex Sandro,Lobo Silva,70084,33.279999999999994,2115,Defender
+José Paulo,Bezzera Maciel Júnior,40550,59.47999999999999,2284,Midfielder
+Samuel,Robert,436254,0,0,Forward
+Nordin,Amrabat,32968,32.24999999999999,2088,Forward
+Pedro David,Gallese Quiróz,114798,0,0,Goalkeeper
+Sebastián,Coates Nión,7954,0.5499999999999999,90,Defender
+Damien,Da Silva,26399,39.800000000000004,2838,Defender
+Peter,Pekarík,32959,22.06,1740,Defender
+Martín,Aguirregabiria Padilla,489488,25.270000000000003,1828,Defender
+Lévy Koffi,Djidji,25523,19.790000000000003,2417,Defender
+Raïs,M'Bolhi Ouhab,139295,0,0,Goalkeeper
+Artur,Boruc,20921,0,0,Goalkeeper
+Roman,Weidenfeller,14794,0,0,Goalkeeper
+André,Schárrle,14789,30.48,1303,Forward
+Andrés,Iniesta Luján,3353,46.75000000000001,2531,Midfielder
+Julien,Ngoy,448038,0.03,19,Forward
+Ari Freyr,Skúlason,51127,5.26,467,Defender
+Elseid Gëzim,Hysaj,21001,17.32,3403,Defender
+Niclas,Stierlin,495709,0,0,Midfielder
+Markel,Susaeta Laskurain,3420,12.72,2244,Midfielder
+Carlos Miguel,Ribeiro Dias,135937,7.579999999999999,676,Midfielder
+Armando,Sadiku,50461,4.380000000000001,499,Forward
+Shinji,Okazaki,14763,22.240000000000002,1361,Forward
+Rodrigo Sebastián,Palacio,21296,26.11,2058,Forward
+Mouez,Hassen,149050,0,0,Goalkeeper
+Juan Fernando,Quintero Paniagua,91019,4.9399999999999995,310,Midfielder
+Roberto,Olabe del Arco,240681,0,0,Midfielder
+Santiago Juan,Gentiletti Selak,26336,0.6799999999999999,290,Defender
+Alen,Halilović,234527,19.81,1363,Midfielder
+Pione,Sisto Ifolo Emirmija,241945,51.31,2763,Midfielder
+Nikola,Milenković,424241,20.020000000000003,1528,Defender
+Iván,Alejo Peralta,279555,11.909999999999998,1121,Midfielder
+Sergio,Ramos García,3306,51.949999999999996,3046,Defender
+Luca,Antei,21872,7.17,646,Defender
+Marco Jhonfai,Fabián De La Mora,112253,6.93,443,Midfielder
+Boubacar,Kamara,404216,10.370000000000001,455,Defender
+Tim,Krul,7976,0,0,Goalkeeper
+Frédéric,Sammaritano,25835,36.949999999999996,1409,Midfielder
+Julian,Brandt,146583,51.13999999999999,2346,Midfielder
+Martín Nicolás,Campaña Delgado,116623,0,0,Goalkeeper
+Emanuele,Torrasi,354470,0.12,5,Midfielder
+Maximilian,Arnold,14938,6.529999999999999,2443,Midfielder
+Jan,Repas,234138,5.6,901,Midfielder
+Mike,van der Hoorn,284,16.960000000000004,1952,Defender
+Andrey,Lunev,101971,0,0,Goalkeeper
+Jon,Bautista Orgilles,279571,2.48,108,Forward
+William,De Camargo,559187,0,0,Midfielder
+David,López Silva,4303,36.74999999999999,3330,Defender
+Gastón Exequiel,Ramírez Pereyra,20689,47.65,2222,Midfielder
+Jonathan,Viera Ramos,4379,23.369999999999994,1994,Midfielder
+Yacine,Bammou,229697,9.679999999999998,742,Forward
+Munir,Mohand Mohamedi,6509,0,0,Goalkeeper
+Ja-Cheol,Koo,15781,17.740000000000002,2179,Midfielder
+Kenny,Lala,26498,28.82,2736,Defender
+Daniel,Arzani,403613,2.09,54,Midfielder
+Hal,Robson-Kanu,8686,12.07,1085,Forward
+Jerome,Sinclair,234408,0,0,Forward
+Ronaldo ,Aparecido Rodrigues,14689,70.31999999999998,3060,Defender
+Max-Alain,Gradel,25860,19.02,2467,Forward
+Cheick,Keita,361779,0.08,125,Defender
+Lionel Andrés,Messi Cuccittini,3359,178.35999999999999,3356,Forward
+Vedran,Ćorluka,14771,8.04,503,Defender
+Paul,Baysse,26332,28.1,1800,Defender
+Bernard,Tekpetey,419629,0,0,Forward
+Carlos,Redruello Nimo,519095,0,0,Defender
+Alberto,Aquilani,20401,9.04,1294,Midfielder
+Davide,Astori,20866,35.53,2250,Defender
+Oliver,McBurnie,288865,8.120000000000001,250,Forward
+David,Alcibiade,28251,4.21,180,Defender
+Gylfi Þór,Sigurðsson,77558,24.89,2981,Midfielder
+Riccardo,Sottil,523085,0,0,Forward
+Alexander,Mesa Travieso,293857,1.34,249,Forward
+Gary ,Cahill,7887,37.16,2609,Defender
+Mohamed,Dräger,272234,0.63,44,Midfielder
+Thilo,Kehrer,235606,29.169999999999995,2363,Defender
+Robbie,Kruse,16151,0.38999999999999996,210,Forward
+Myziane,Maolida,404226,7.790000000000001,298,Forward
+Dejan,Kulusevski,472363,0,0,Forward
+Samuel,Bastien,278813,7.229999999999999,1392,Midfielder
+Michael,Keane,7919,26.669999999999998,2551,Defender
+Gonzalo,Castro Irizábal,3645,15.47,2088,Midfielder
+Christian Alberto,Cueva Bravo,114813,4.97,262,Midfielder
+Manuel,Neuer,14712,0,0,Goalkeeper
+John ,O'Shea,8522,1.33,202,Defender
+Adrián,San Miguel del Castillo,3582,0,0,Goalkeeper
+Gabriel,Vasconcelos Ferreira,40820,0,0,Goalkeeper
+Munir,El Haddadi Mohamed,278278,37.72,2470,Forward
+Otávio Henrique,Passos Santos,295569,10.89,1493,Midfielder
+Michael,Folivi,487049,0,0,Forward
+Filip,Manojlović,363560,0,0,Goalkeeper
+Fin,Bartels,16027,20.86,1129,Midfielder
+Fabian,Reese,337775,0.33,42,Forward
+Raúl,Rodríguez Navas,3828,27.480000000000004,1792,Defender
+Michael,McGovern,62331,0,0,Goalkeeper
+Victor James,Osimhen,403273,3.0300000000000002,259,Forward
+Markus,Suttner,64966,1.83,1170,Defender
+Wilder José,Cartagena Mendoza,139080,0,0,Midfielder
+Nabil,Bentaleb,144766,12.49,1087,Midfielder
+Manuel,Gasparini,549982,0,0,Goalkeeper
+Luca,Ranieri,523086,0,0,Defender
+Niko,Bungert,15179,0,0,Defender
+Vladimír,Darida,82518,21.46,1902,Midfielder
+Ignacio,Vidal Miralles,302542,3.170000000000001,433,Defender
+Kingsley,Coman,231139,38.08999999999999,1452,Forward
+Jacques François,Moubandje,49919,4.180000000000001,1704,Defender
+Javier,Eraso Goñi,6370,20.25,2542,Midfielder
+Christian,Maggio,21173,3.3999999999999995,625,Defender
+Kevin,Gameiro,25445,25.739999999999995,1043,Forward
+Chaouki,Ben Saada,25616,5.44,318,Midfielder
+Jordi,Osei-Tutu,397096,0,0,Defender
+Marcel,Sabitzer,65596,43.22,1974,Midfielder
+Marcelo,Vieira da Silva Júnior,3310,32.39,2544,Defender
+Víctor,López Ibáñez,404285,4.82,61,Defender
+Kyle,Walker-Peters,402884,8.28,188,Defender
+Troy,Deeney,8903,22.779999999999998,1890,Forward
+Blas Antonio Miguel,Pérez Ortega,113517,0.16,163,Forward
+Souleymane,Camara,26008,14.520000000000003,882,Forward
+Nabil,Fekir,28115,67.93,2552,Midfielder
+Saphir Sliti,Taïder,20690,6.12,377,Midfielder
+Birkir Már,Sævarsson,54451,4.45,720,Defender
+Romain,Perraud,301016,0,0,Defender
+Nathan,Dyer,77552,5.209999999999999,1305,Midfielder
+Tomasz,Jodłowiec,99462,1.7000000000000002,145,Midfielder
+Enes,Ünal,274435,36.67000000000001,1689,Forward
+Daniele,Baselli,21507,12.21,2596,Midfielder
+Andrey,Galabinov,22020,21.29,1113,Forward
+Morgan,Amalfitano,25562,3.53,797,Midfielder
+Benjamin,Henrichs,258253,9.76,1250,Defender
+Ben,Davies,136441,28.940000000000005,2772,Defender
+Danny,Simpson,149019,4.79,2312,Defender
+George,Thomas,282266,0,0,Forward
+Chris,Fáhrich,448127,0.43,95,Midfielder
+Sergio,Canales Madrazo,3282,31.500000000000007,1918,Midfielder
+Quentin,Othon,26200,0,0,Midfielder
+Javier,Ontiveros Parra,408293,3.17,381,Midfielder
+Tom,Davies,353236,11.13,1903,Midfielder
+Fernando,Navarro i Corbacho,3465,5.8,1042,Defender
+Kevin,Akpoguma,134392,21.869999999999994,1685,Defender
+Seko,Fofana,134508,26.200000000000003,1913,Midfielder
+Charly Junior,Musonda,212651,0.36,34,Midfielder
+Óscar David,Romero Villamayor,114055,0.5099999999999999,241,Midfielder
+Oriol,Romeu Vidal,7899,21.049999999999997,2904,Midfielder
+Grégory,Sertic,25598,6.920000000000001,334,Midfielder
+Federico,Viviani,20448,13.4,2487,Midfielder
+Ander,Iturraspe Derteano,3414,7.019999999999999,1903,Midfielder
+Leo,Weinkauf,253843,0,0,Goalkeeper
+Óscar,Melendo Jiménez,450784,10.579999999999998,647,Midfielder
+Gianmarco,Ferrari,22270,31.14000000000001,2644,Defender
+James,Tomkins,8554,43.76999999999999,2388,Defender
+Ante,Ćorić,284470,0,0,Midfielder
+Raphaël Adelino José,Guerreiro,28907,20.859999999999996,1411,Defender
+Jérôme,Gondorf,17136,3.25,791,Midfielder
+Stephane,Omeonga,349102,3.83,731,Midfielder
+Gerard,Moreno Balaguero,5400,57.86,3412,Forward
+Luca,Rossettini,20776,25.389999999999997,2026,Defender
+Törles,Knöll,337656,0,0,Forward
+Arnold,Bouka Moutou,29843,0,332,Defender
+Ryan,Fraser,62224,21.48,2008,Midfielder
+Marouane,Fellaini-Bakkioui,8249,17.23,1064,Midfielder
+Aleksandar,Mitrović,128214,10.34,356,Forward
+Valère,Germain,134494,49.529999999999994,2096,Forward
+Franco,Zuculini,3736,3.1300000000000003,321,Midfielder
+Federico,Bonazzoli,239298,2.1500000000000004,145,Forward
+Àngel,Rangel Zaragoza,77541,0.27999999999999997,156,Defender
+Antonio,Montoro Rodríguez,302548,0,0,Defender
+Hirving Rodrigo,Lozano Bahena,295156,9.55,317,Forward
+Adrián,Marín Gómez,286994,0.54,232,Defender
+Alessandro,Bastoni,405597,1.15,77,Defender
+Marcos Paulo,Mesquita Lopes,135913,59.41,2555,Midfielder
+Ayoub,El Kaabi,552555,0.25,74,Forward
+László,Bénes,282194,0,37,Midfielder
+Connor,Mahoney,276059,0,0,Midfielder
+Lassana,Diarra,3315,5.069999999999999,609,Midfielder
+Alban,Lafont,404213,0,0,Goalkeeper
+Daniele,Gasparetto,21500,0,0,Defender
+Tiago Manuel,Dias Correia,32601,5.67,358,Midfielder
+Keita,Baldé Diao,256480,36.64,1609,Forward
+Saliou,Ciss,54313,0.84,145,Defender
+José Luis,Palomino,86366,17.400000000000006,1967,Defender
+Mehdi,Abeid,7986,16.69,1149,Midfielder
+Juan Guillermo,Cuadrado Bello,20751,36.07,1680,Midfielder
+João,Miranda de Souza Filho,3431,38.989999999999995,3178,Defender
+Sidnei Rechel,da Silva Júnior,32577,24.29,1780,Defender
+Fabio,Pisacane,22732,14.66,1978,Defender
+Anthony,Gonçalves,26285,2.66,1739,Midfielder
+Emmanuel Okyere,Boateng,338201,21.459999999999997,1258,Forward
+Abdullah,Al Khaibari,487023,0,0,Midfielder
+Rémy,Vercoutre,25384,0,0,Goalkeeper
+Iago,Herrerín Buisán,4476,0,0,Goalkeeper
+Jonathan ,de Guzmán,3535,1.7000000000000002,1087,Midfielder
+Vicente,Guaita Panadero,3267,0,0,Goalkeeper
+Efkan,Bekiroglu,379216,0,0,Forward
+Johannes,Eggestein,366203,0,74,Forward
+Keisuke,Honda,101592,3.8699999999999997,38,Midfielder
+Max ,Meyer,134369,15.099999999999996,1731,Midfielder
+Jan,Oblak,70273,0,0,Goalkeeper
+Federico Julián,Fazio,3463,48.309999999999995,2955,Defender
+Balázs,Dzsudzsák,101690,4.32,360,Midfielder
+Vitja,Valenčič,345817,0,0,Midfielder
+Thomas,Delaney,55990,42.43,3167,Midfielder
+Mikel,Oyarzabal Ugarte,355599,58.39,2784,Midfielder
+Pedro Eliezer,Rodríguez Ledesma,3360,33.87,1510,Forward
+Alberto,López Jiménez,470756,0.18,43,Defender
+Sabri,Toufiqui,288415,0,0,Midfielder
+Alan,Dzagoev,101590,0.38999999999999996,42,Midfielder
+Phil,Foden,447205,0.66,44,Midfielder
+Timo,Werner,173214,65.72999999999998,2755,Forward
+Cristian,Portugués Manzanera,3287,52.88,3008,Midfielder
+Zinédine,Machach,288423,0.52,193,Midfielder
+Artur,Jędrzejczyk,99381,2.61,600,Defender
+Dominik,Maroh,15122,17.84,914,Defender
+Stipe,Perica,234533,4.99,925,Forward
+Mickaël,Cuisance,404219,7.239999999999999,1194,Midfielder
+Carlos,Calderón López,329026,0,0,Midfielder
+Francesco,Magnanelli,22162,18.89,2511,Midfielder
+Marcos ,Alonso Mendoza,8032,23.819999999999997,2860,Defender
+Maya,Yoshida,703,35.78999999999999,2412,Defender
+Mike,Frantz,15131,13.790000000000003,1043,Midfielder
+Peter,Crouch,8747,36.7,1548,Forward
+Nereo,Champagne,86350,0,0,Goalkeeper
+Antonín,Barák,265172,59.67000000000001,2715,Midfielder
+José Rodolfo,Pires Ribeiro,41904,0,0,Defender
+Harry,Winks,240070,5.2299999999999995,758,Midfielder
+Karim,Azamoum,28866,9.59,2312,Midfielder
+Angelo,Fulgini,256992,20.26,1505,Midfielder
+Lukas,Lerager,56441,34.509999999999984,3286,Midfielder
+Jérôme,Boateng,14716,33.13,2332,Defender
+Jonathan,Martins-Pereira,25526,5.71,1137,Defender
+Daniel,Didavi,15129,30.829999999999995,2248,Midfielder
+Youssouf,Sabaly,28529,35.910000000000004,3348,Defender
+Pedro Pablo,Hernández,269060,29.28,1805,Midfielder
+Filip,Starzyński,99634,0,0,Midfielder
+Maxime,Sivis,426771,0,0,Midfielder
+Mattéo,Ahlinvi,501205,0,0,Defender
+Ryan,Kent,343729,2.87,240,Midfielder
+Marcel,Benger,372316,0,0,Midfielder
+Vincent,Sierro,373636,0,214,Midfielder
+William Vitved,Kvist Jørgensen,14744,0.24,36,Midfielder
+Alexandre,Lacazette,25413,64.32999999999998,2211,Forward
+Roman Petrovich,Neustädter,15022,0.74,126,Defender
+Simon,Francis,9279,19.33,2751,Defender
+Ross,Barkley,8246,3.3100000000000005,129,Midfielder
+Aymen,Abdennour,25784,6.2299999999999995,496,Defender
+André,Hahn,15877,16.51,1333,Forward
+Farid,Boulaya,209014,1.34,155,Midfielder
+Juraj,Kucka,21285,4.41,360,Midfielder
+Adam,Smith,8460,11.620000000000001,2058,Defender
+Sergio,García De La Fuente,3816,48.18,1585,Forward
+Anas,Ouahim,337799,0,18,Midfielder
+Ioritz,Landeta Batiz,523328,0,0,Goalkeeper
+Danilo Fernando,Avelar,105523,4.870000000000001,1728,Defender
+Gautier,Lloris,231166,0,0,Defender
+Karim,Guédé,14992,0,53,Forward
+Alberto,Brignoli,21415,0,0,Goalkeeper
+Dominik,Kaiser,15810,0,256,Midfielder
+Godfred,Donsah,295273,19.05,1779,Midfielder
+Lukáš,Zima,137041,0,0,Goalkeeper
+Iván,López Álvarez,254189,11.91,1747,Forward
+Raúl,Albiol Tortajada,3300,48.150000000000006,2742,Defender
+Louis Jordan ,Beyer,504037,0,0,Defender
+Kwang-Song,Han,404209,1.33,244,Forward
+Idriss,Saadi,26327,10.89,868,Forward
+Bruno,Martella,22185,15.61,2619,Defender
+Dimitri ,Payet,25714,53.400000000000006,2863,Midfielder
+William,Silva de Carvalho,37762,7.030000000000001,876,Midfielder
+Lemouya,Goudiaby,470517,0,82,Midfielder
+Philipp,Lienhart,255732,10.180000000000001,851,Defender
+Miiko Martín,Albornoz Inola,50800,9.65,700,Defender
+Paul,Dummett,7978,7.61,1588,Defender
+Alexander,Meier,15254,0,0,Forward
+Yeni Atito,N'Gbakoto,25741,6.0,566,Forward
+Anga Dedryck,Boyata,8034,4.53,270,Defender
+Przemysław,Tytoń,99,0,0,Goalkeeper
+Pascal,Groß,15526,43.629999999999995,2936,Midfielder
+Aaron,Ramsdale,433506,0,0,Goalkeeper
+Flavien,Tait,209209,38.17,2253,Midfielder
+Cristian Eduardo,Zapata Valencia,3531,13.090000000000002,990,Defender
+Guilherme Antonio,Arana Lopes,336371,0.49,192,Defender
+Zlatan,Ibrahimović,20420,2.6,371,Forward
+Darko,Brašanac,127928,10.22,1175,Midfielder
+Patrik,Carlgren,51188,0,0,Goalkeeper
+Isaac,Cofie,22158,2.09,573,Midfielder
+Daler,Kuzyaev,220971,2.0500000000000003,303,Midfielder
+Fernando José,Torres Sanz,7908,17.98,898,Forward
+Claudio Ariel,Yacob,86308,4.12,900,Midfielder
+Yacine,Adli,472194,0.41000000000000003,7,Midfielder
+Alireza,Jahanbakhsh,79381,0.22999999999999998,168,Forward
+Milot,Rashica,239191,3.91,373,Forward
+Marcus,Coco,330387,16.88,1564,Midfielder
+Rubén,Sobrino Pozuelo,134249,34.559999999999995,1428,Forward
+Michel,Vorm,77536,0,0,Goalkeeper
+Anthony,Ribelin,302908,1.11,90,Midfielder
+Unai,Bustinza Martínez,6365,28.589999999999993,1626,Defender
+Ivan,Perišić,14812,94.28,4334,Midfielder
+Oussama,Tannane,1751,15.419999999999998,771,Forward
+Eneko,Bóveda Altube,4086,7.980000000000001,1191,Defender
+Andre,Gray,10663,25.180000000000003,1419,Forward
+Krisztián,Németh,354,0.86,108,Forward
+Charlison,Benschop,91,2.41,170,Forward
+Farès,Bahlouli,245807,1.9799999999999998,299,Midfielder
+Gabriele,Gori,405607,0,0,Forward
+Keshi,Anderson,399708,0,0,Forward
+Yann,Bodiger,229140,0.31999999999999995,219,Midfielder
+Moustapha Elhadji,Diallo,25939,32.540000000000006,1357,Midfielder
+Marcel,Tisserand,149091,6.25,1237,Defender
+Harry,Arter,9283,6.23,953,Midfielder
+Marco,Richter,337960,8.1,643,Forward
+Glyn Oliver,Myhill,8096,0,0,Goalkeeper
+Jorge,Resurrección Merodio,3443,26.46,3012,Midfielder
+Dennis,Aogo,14885,15.72,1939,Defender
+Erik,Lamela,20441,13.600000000000001,822,Midfielder
+Jessy,Benet,240225,0,0,Midfielder
+Willian,Borges da Silva,105333,54.269999999999996,2210,Midfielder
+Richard,Keogh,8764,1.2,180,Defender
+Cheikh,N'Doye,27412,0.03,37,Midfielder
+Ryder,Matos Santos,20949,15.430000000000001,1148,Forward
+Victor,Pastrana Carrasco,359844,0,0,Midfielder
+Iuri José ,Picanço Medeiros,70974,14.759999999999998,630,Forward
+Levin Mete,Öztunali,223560,24.610000000000003,1754,Midfielder
+Roque,Mesa Quevedo,4365,9.15,1098,Midfielder
+Sabin,Merino Zuloaga,167119,5.000000000000002,350,Forward
+Jordan Zacharie,Lukaku Menama Mokelenge,37745,9.66,1401,Defender
+Ismaël Tiémoko,Diomandé,25859,7.719999999999999,742,Midfielder
+Jérôme,Prior,229078,0,0,Goalkeeper
+Matias Ezequiel,Schelotto,20855,7.489999999999999,1291,Defender
+Darren,Randolph,62071,0,0,Goalkeeper
+Andros,Townsend,8471,40.78,3125,Midfielder
+Tiago Daniel,Rodrigues Dias,343273,0,0,Forward
+Felipe,Trevizan Martins,38082,5.2,458,Defender
+Assane,Dioussé El Hadji,364644,7.62,1349,Midfielder
+Riccardo,Meggiorini,21119,3.32,753,Forward
+Nicolas Louis Marcel,Cozza,477744,6.23,577,Defender
+Bakary,Koné,25392,21.12,2462,Defender
+Florentin,Pogba,26085,3.02,322,Defender
+Imanol,Agirretxe Arruti,3681,1.78,171,Forward
+Erik,Pieters,107,9.160000000000002,2720,Defender
+Saman,Ghoddos,53562,0,28,Forward
+Robert,Green,8544,0,0,Goalkeeper
+Max,Kruse,16025,41.24,2449,Forward
+Adrián,López Álvarez,3451,46.54,2347,Forward
+Adam,Ounas,300830,2.06,87,Forward
+Alexander,Szymanowski,4683,12.049999999999999,1064,Midfielder
+Ivan,Radovanović,21564,39.709999999999994,3143,Midfielder
+Francisco,Alcácer García,3291,27.22,634,Forward
+Junior,Stanislas,8959,25.72,1284,Midfielder
+Manuel,Agudo Durán,70125,49.63000000000001,1849,Forward
+Linton,Maina,448215,5.390000000000001,27,Midfielder
+Valère,Pollet,436250,0,0,Midfielder
+Bruno,González Cabrera,5677,17.889999999999997,1530,Defender
+Beram,Kayal,61961,3.3299999999999996,687,Midfielder
+Filip,Vaško,406132,0,0,Defender
+Oscar,Hiljemark,51145,9.54,1301,Midfielder
+Ludovic Lamine,Sané,25589,11.489999999999998,786,Defender
+Didier ,Ndong,242492,0,0,Midfielder
+Pierrick,Capelle,27646,25.09,1891,Midfielder
+Mason,Holgate,355937,10.059999999999999,1182,Defender
+Paul,Jaeckel,391643,1.15,270,Defender
+Ádám,Nagy,299557,5.800000000000001,982,Midfielder
+Andrea,Ranocchia,20519,7.86,600,Defender
+Stef,Peeters,38015,3.26,1098,Midfielder
+Pedro Miguel,Braga Rebocho,135901,15.83,1721,Defender
+Gareth,McAuley,8362,9.1,788,Defender
+Guilherme,Costa Marques,70834,16.03,926,Midfielder
+Florian,Escales,228936,0,0,Goalkeeper
+Matthias,Ginter,14991,41.35000000000001,3060,Defender
+Aziz,Bouhaddouz,15727,0,0,Forward
+Alexandros,Katranis,347277,0,0,Defender
+Dylan,Mboumbouni,256933,0,0,Defender
+Sebastian,Rudy,15811,19.89,1515,Midfielder
+Daniel,Pavlovic,49979,0.3,842,Defender
+Luca,Mazzitelli,292310,10.16,1002,Midfielder
+Róbert,Mak,15142,6.58,260,Forward
+Jordon,Mutch,8111,0,0,Midfielder
+Philipp,Max,221411,21.950000000000003,2960,Defender
+Michele,Rigione,21730,0,27,Defender
+Florian,Le Joncour,328021,0,0,Defender
+Amir,Abrashi,49982,5.779999999999999,1122,Midfielder
+Tyrese,Campbell,399514,1.1900000000000002,62,Forward
+Hernani,Azevedo Júnior,134797,1.9799999999999998,540,Midfielder
+Aníbal Cesis,Godoy,86414,0.71,243,Midfielder
+Leonardo,Bittencourt,15317,20.849999999999998,1613,Midfielder
+Jimmy,Briand,25411,46.82,3212,Forward
+Djibril,Sidibé,26196,35.6,2247,Defender
+Anderson,Santamaría Bardales,115353,1.04,134,Defender
+Joel,Ward,8221,7.160000000000001,1616,Defender
+Emmanuel Delan Junior,Latte Lath,448332,0,0,Forward
+Alexander,Alegría Moreno,6914,2.97,632,Forward
+Danny,Latza,16303,22.06,2354,Midfielder
+Ali Adnan Kadhim,Al Tameemi,131184,13.23,1659,Defender
+Christian,Fráchtl,396887,0,0,Goalkeeper
+Alexander,Schwolow,19525,0,0,Goalkeeper
+Oluwatosin,Adarabioyo,283145,0,0,Defender
+Gerónimo Gastón,Poblete,86486,11.27,1644,Midfielder
+Issa,Diop,286380,28.970000000000013,3060,Defender
+Mario,Gavranović,15199,1.67,113,Forward
+Branimir,Hrgota,51689,2.16,189,Forward
+Cédric Ricardo,Alves Soares,70389,15.879999999999999,3500,Defender
+Luciano,Vietto,86307,20.5,771,Forward
+Darío,Poveda Romera,400564,0,0,Forward
+Sam,Morsy,11270,0,40,Midfielder
+Yannick,Cahuzac,25764,18.65,1515,Midfielder
+Fallou,Diagne,14990,30.05999999999999,2322,Defender
+Leon-Aderemi,Balogun,16443,19.889999999999997,1475,Defender
+Alessandro,Bellemo,270034,0,0,Midfielder
+Raheem Shaquille,Sterling,11066,110.99999999999999,3242,Forward
+Silvan,Widmer,50069,13.4,1586,Defender
+Samuel ,Castillejo Azuaga,134174,41.6,2075,Midfielder
+José Leonardo,Ulloa,4255,1.53,262,Forward
+Marcel Julian,Lizak,508686,0,0,Goalkeeper
+Tyronne,Ebuehi,332821,0.16999999999999998,44,Defender
+Serhiy,Sydorchuk,105503,0,166,Midfielder
+Luke,Garbutt,9939,0,0,Defender
+Kane,Wilson,442310,0,0,Defender
+Paweł,Jaroszyński,269188,1.55,807,Defender
+Olarenwaju Ayoba,Kayode,50272,3.56,344,Forward
+Jonathan,Delaplace,38236,7.59,571,Midfielder
+Michael,Gregoritsch,65180,57.089999999999996,2535,Forward
+Lamine,Gassama,26022,0,90,Defender
+Férébory,Doré,26268,0,0,Forward
+Alphonse,Aréola,25418,0,0,Goalkeeper
+Karim,El Ahmadi Al Aroos,142,0.6799999999999999,266,Midfielder
+Maxime,Lopez,280115,11.830000000000002,1365,Midfielder
+Roman,Bárki,49968,0,0,Goalkeeper
+Massimo,Gobbi,20495,13.490000000000002,2049,Defender
+Romain,Saïss,26226,3.12,180,Midfielder
+Josh,Tymon,415748,0.13,163,Defender
+Theo ,Walcott,7879,23.39,1186,Forward
+Jonathan,Calleri,228902,32.41,3109,Forward
+Kevin,De Bruyne,38021,129.43000000000004,4074,Midfielder
+Diego,Alende López,372515,0,0,Defender
+Carlos Isaac,Muñoz Obejero,396484,0,64,Defender
+Jorge,Meré Pérez,275384,23.869999999999997,1890,Defender
+Joel,Pohjanpalo,35477,0.6200000000000001,70,Forward
+Gabriel,Barbosa Avelino,485450,0,0,Forward
+Abdoulaye,Bamba,26368,6.1,1533,Defender
+Ali,Gabr,198120,1.8900000000000001,270,Defender
+Antonio,Latorre Grueso,326535,6.14,760,Defender
+Nenad,Tomović,20748,21.86,2439,Defender
+Jordan,Ferri,25403,15.059999999999999,603,Midfielder
+Connor,Roberts,386197,0.04,268,Defender
+Bertrand Isidore,Traoré,142755,58.65999999999999,2277,Forward
+Íñigo,Martínez Berridi,3671,38.12,2496,Defender
+Raúl Alonso,Jiménez Rodríguez,112392,0.31,54,Forward
+Brahim,Abdelkader Diaz,404397,1.5599999999999998,36,Midfielder
+Eric ,Dier,210044,46.21000000000001,3381,Midfielder
+Robin,Hack,373350,1.78,65,Midfielder
+Christian,Dell'Orco,267185,2.4800000000000004,416,Defender
+Steve,Mounié,214654,36.120000000000005,1847,Forward
+Joel,Pereira Castro,237020,0,0,Goalkeeper
+Nathaniel,Clyne,8392,1.39,264,Defender
+Bassem ,Srarfi,408827,12.220000000000002,845,Midfielder
+Artem,Dzyuba,101669,9.989999999999998,603,Forward
+Ervin,Taha,404227,1.17,28,Forward
+Álvaro,Odriozola Arzallus,278289,24.060000000000002,2911,Defender
+Stefano,Ciavattini,347014,0,0,Defender
+Tomoaki,Makino,94630,0.9299999999999999,90,Defender
+Wylan,Cyprien,228983,11.589999999999998,944,Midfielder
+Joseba,Zaldúa Bengoetxea,6281,12.689999999999998,2593,Defender
+Joseph Alfred,Duncan,22383,21.060000000000002,1960,Midfielder
+Rubén ,Rochina Naixes,8213,2.12,141,Midfielder
+Rafael ,de Andrade Bittencourt Pinheiro,21299,0,0,Goalkeeper
+Giovanni,Navarro Solé,422521,0,0,Forward
+Pedro León,Sánchez Gil,4014,5.21,929,Midfielder
+Santiago Lionel,Ascacíbar,413737,13.520000000000001,2414,Midfielder
+Rodrigo Javier,de Paul,213948,33.319999999999986,2323,Midfielder
+Matt,Butcher,365718,0,0,Midfielder
+Yaya,Sanogo,25517,28.200000000000003,1474,Forward
+Almamy,Touré,149101,19.410000000000004,1229,Defender
+Arthur,Masuaku,26499,22.86,1877,Defender
+Benito Nicolas,Viola,22695,20.32,1857,Midfielder
+Michael,Lang,49977,0,100,Defender
+Geoffrey,Kondogbia,25623,42.18,2629,Midfielder
+Sergi,Samper Montaña,5907,0.48,145,Midfielder
+Nabil,Dirar,149074,1.1,180,Midfielder
+Jon,Flanagan,7956,0,0,Defender
+Eden,Massouema,373817,1.41,182,Midfielder
+Daryl,Janmaat,160,15.049999999999999,1810,Defender
+Matías,Vecino Falero,116349,45.83,2625,Midfielder
+Francisco,Feuillassier Ábalo,461173,0,0,Midfielder
+Carlo,Pinsoglio,21128,0,0,Goalkeeper
+Stephen,Ward,8433,12.259999999999998,2732,Defender
+Alexandr,Samedov,101699,0.1,379,Midfielder
+Romelu,Lukaku Menama,7905,116.28999999999998,3732,Forward
+Benito,Ramírez del Toro,287003,0.97,163,Midfielder
+Roberto,Jiménez Gago,3719,0,0,Goalkeeper
+Pasquale,Giannotti,527518,0,0,Midfielder
+Luigi,Sepe,22817,0,0,Goalkeeper
+Ezequiel,Ponce Martínez,284322,13.580000000000004,1045,Forward
+Roman,Zozulya,105380,1.4200000000000002,174,Forward
+Lacina,Traoré,101795,18.430000000000003,762,Forward
+Eliseu,Pereira dos Santos,3570,0,210,Defender
+Jordan,Tell,278513,1.3,84,Forward
+Adrián,Diéguez Grande,364870,1.2,438,Defender
+Sébastien,Corchia,25452,6.460000000000001,822,Defender
+Kevin,Lasagna,333913,42.45,2140,Forward
+Edoardo,Goldaniga,246059,4.43,1158,Defender
+Robert,Zulj,65207,0.5700000000000001,206,Midfielder
+Saša,Lukić,237269,16.64,995,Midfielder
+Jairo,Samperio Bustara,3708,5.0,580,Midfielder
+Jemerson,de Jesus Nascimento,263766,42.71000000000001,2926,Defender
+Marco,Sportiello,23705,0,0,Goalkeeper
+Adolfo Abdiel,Machado,125848,0.2,90,Defender
+Dominique,Heintz,16843,30.0,2790,Defender
+Mats ,Hummels,14795,38.35999999999999,2783,Defender
+Dennis,Geiger,367621,9.53,1594,Midfielder
+David,Zurutuza Veillet,3680,20.119999999999997,2248,Midfielder
+Andrew,Surman,8351,24.78,1839,Midfielder
+Thibaut,Courtois,3429,0,0,Goalkeeper
+Nikola,Kalinić,105376,51.39,1928,Forward
+Gil,Bastião Dias,338249,27.74000000000001,1172,Forward
+Enrique,García Martínez,3874,29.439999999999998,2460,Forward
+Woo-Young,Jung,95490,4.7,128,Midfielder
+Luca,Gagliano,546356,0,0,Forward
+Wes,Morgan,8488,26.719999999999995,2818,Defender
+Emiliano Adrián,Insúa Zapata,70139,14.41,2107,Defender
+Alex ,Pritchard,8290,4.790000000000001,1003,Midfielder
+Giovanni,Crociata,368642,5.069999999999999,273,Midfielder
+Niklas,Stark,173212,36.35,2182,Defender
+Vahid,Selimovic,366563,6.78,1071,Defender
+João Felipe,Schmidt Urbano,40767,0,0,Midfielder
+Sergi,Gómez Solà,3338,39.329999999999984,2659,Defender
+Vassilis,Torosidis,92908,0.42000000000000004,860,Defender
+Martin,Hinteregger,65075,33.730000000000004,2923,Defender
+Oualid,El Hajjam,30320,15.110000000000001,2194,Defender
+Jeffrey ,Schlupp,8501,6.79,1740,Defender
+Adnan,Januzaj,261127,45.47999999999999,1652,Midfielder
+Lucas,Deaux,26314,15.4,1981,Midfielder
+Ole,Käuper,286404,0,74,Midfielder
+Mamadou,Sissako,231184,0,0,Forward
+Lukas,Nmecha,353241,0,0,Forward
+Hugo,Mallo Novegil,3827,35.88000000000001,3004,Defender
+Simon,Laner,21228,0,0,Midfielder
+Daniel,Congré,25786,23.099999999999998,2627,Defender
+Christophe,Jallet,25427,8.339999999999998,1173,Defender
+Mattia,Perin,21468,0,0,Goalkeeper
+Alejandro,Robles García,405972,0.38999999999999996,90,Defender
+Taras,Stepanenko,105341,1.4000000000000001,270,Midfielder
+Gauthier,Banaziak,352898,0,0,Goalkeeper
+Raffael,Caetano de Araújo,15107,39.12,2081,Forward
+Hugo,Lloris,25381,0,0,Goalkeeper
+Ján,Greguš,82230,0.63,44,Midfielder
+Stefan,Kießling,14788,0.49,30,Forward
+Renaud,Cohade,26508,30.28999999999999,3300,Midfielder
+Jozabed,Sánchez Ruiz,4911,24.330000000000002,1462,Midfielder
+Christian,Puggioni,20632,0,0,Goalkeeper
+Marc,Roca Junqué,341752,1.95,263,Midfielder
+Ewandro Felipe,de Lima Costa,255322,0,0,Forward
+Ignazio,Abate,20390,4.07,1050,Defender
+Vincent,Kompany,8307,31.839999999999996,1772,Defender
+Jack,Wilshere,7873,27.6,1272,Midfielder
+Kyle,Lafferty,62001,0.11,211,Forward
+Jesse,Lingard,7934,64.88999999999999,2339,Midfielder
+Mamadou,Thiam,278515,0,0,Forward
+Ilya,Kutepov,103668,4.58,510,Defender
+Ángel Martín,Correa,254408,48.76,2267,Forward
+Óscar Esau,Duarte Gaitán,125250,14.71,1170,Defender
+Andrea,Pinamonti,405608,0,0,Forward
+Adama,Traoré,266917,4.8500000000000005,189,Midfielder
+Simone,Zaza,22202,32.61999999999999,2175,Forward
+Luis Miguel,Quezada Sánchez,217834,0,0,Defender
+Ben,Watson,8627,1.6,458,Midfielder
+Titas,Krapikas,352868,0,0,Goalkeeper
+Mubarak,Wakaso,3538,7.42,1084,Midfielder
+Samir,Caetano de Souza Santos,248950,24.710000000000004,2599,Defender
+Luca,Seri,546326,0,0,Goalkeeper
+Onur,Bulut,145014,0,38,Midfielder
+Alexandru Mihăiță,Chipciu,83590,0,108,Midfielder
+Karim,Ansarifard,79149,0,164,Forward
+Bartosz,Salamon,20723,18.7,1712,Defender
+Racine,Coly,326946,4.08,618,Defender
+Stephen,Quinn,8658,0,0,Midfielder
+Milos,Pantovic,272285,0,0,Forward
+Luiz Felipe,Ramos Marchi,376362,9.43,1131,Defender
+Mohamed ,Salah Ghaly,120353,115.96999999999997,3102,Forward
+Fernando,Marçal de Oliveira,70981,21.720000000000002,1293,Defender
+Willi,Orban,15069,34.08999999999999,2200,Defender
+Nico,Schulz,18982,15.559999999999999,1768,Midfielder
+Roger,Martí Salvador,3937,15.909999999999998,942,Forward
+Simon,Terodde,16094,23.9,2101,Forward
+Bakery,Jatta,449921,3.4099999999999997,274,Midfielder
+Ferdinando,Del Sole,448299,0,0,Forward
+Ermin,Bičakčić,15952,6.369999999999999,543,Defender
+Pierluigi,Gollini,264084,0,0,Goalkeeper
+Eliaquim,Mangala,70085,8.92,635,Defender
+Ole Kristian,Selnæs,54380,13.87,2059,Midfielder
+Kenan,Kodro,6292,1.35,199,Forward
+Francisco Borja,Lasso de la Vega Gayán,263092,0,54,Midfielder
+Virgil,van Dijk,370,47.290000000000006,2250,Defender
+Cristian David,Pavón,285396,0.13999999999999999,153,Forward
+Jasmin,Kurtič,21620,18.17,2079,Midfielder
+Eduardo,Expósito Jaén,499843,0.25,86,Midfielder
+Lebogang,Phiri,256706,12.06,1020,Midfielder
+Florian,Klein,64972,0.73,270,Defender
+Lucas,Torreira Di Pascua,333571,18.029999999999998,3485,Midfielder
+Christian,Mathenia,18704,0,0,Goalkeeper
+Oleg,Ivanov,102083,0,0,Midfielder
+Domenico,Berardi,209400,30.740000000000002,2340,Forward
+Rúben Miguel,Nunes Vezo,211853,7.249999999999999,1553,Defender
+Gianluca,Mancini,346913,5.990000000000001,691,Defender
+Michael,Esser,14821,0,0,Goalkeeper
+José Paolo,Guerrero González,14909,11.72,208,Forward
+Gaëtan,Bussmann,27393,0,0,Defender
+Christian,Benteke Liolo,38031,52.970000000000006,2243,Forward
+Mario,Götze,14806,26.479999999999997,1813,Midfielder
+Gabriel Fernando,de Jesus,340386,62.85000000000001,2073,Forward
+Mattia,Aramu,134440,0,0,Forward
+Marco,Capuano,21370,17.389999999999993,2121,Defender
+Filip,Kostić,127796,29.13,2578,Midfielder
+Sergio,Gontán Gallardo,21894,16.2,1199,Midfielder
+Gabriel Arturo,Torres Tejada,116997,1.16,73,Forward
+Keidi,Bare,286030,0,0,Midfielder
+Harry,Kane,8717,104.18999999999998,3896,Forward
+Francesco,Vicari,263432,20.82,2918,Defender
+Guillermo Alfonso,Maripán Loaysa,224080,17.409999999999997,1516,Defender
+Nahitan Michel,Nández Acosta,299618,2.39,294,Midfielder
+Lorenzo,Valeau,475573,0,0,Defender
+Riccardo,Saponara,21025,33.4,902,Midfielder
+Lorenco,Šimić,350569,4.25,314,Defender
+Steve,Mandanda,25552,0,0,Goalkeeper
+Joaquín,Navarro Jiménez,4272,35.8,2607,Defender
+Jonathan,Meier,471945,0,0,Defender
+Dean,Whitehead,8745,0.5,52,Midfielder
+Maksym,Koval,105587,0,0,Goalkeeper
+José Manuel,Rodríguez Benito,213124,22.24,2074,Defender
+Milos,Veljkovic,11095,33.60999999999999,2746,Defender
+Federico,Chiesa,447804,60.09999999999999,3024,Midfielder
+Giovanni-Guy Yann,Sio,14945,56.48,2193,Forward
+Celso,Borges Mora,51004,38.43,2622,Midfielder
+Gianluca,Scamacca,347024,0.24,20,Forward
+Rodrigue Casimir,Ninga,143189,12.330000000000002,1263,Forward
+Iván,Balliu Campeny,4786,9.629999999999999,1953,Defender
+Valentin,Eysseric,149076,11.03,766,Midfielder
+Daniel,Williams,15823,6.01,1092,Midfielder
+Adam,Masina,232822,18.000000000000004,2840,Defender
+Janik,Haberer,15487,28.000000000000004,2761,Midfielder
+Borja,Herrera González,298385,0,242,Defender
+Vid,Belec,22552,0,0,Goalkeeper
+Sam,Field,434159,0.66,536,Midfielder
+Benjamin,Stambouli,25995,21.62,2188,Midfielder
+Oğuzhan,Özyakup,7869,0.36,137,Midfielder
+Roque,Mesa Quevedo,4365,9.15,1098,Midfielder
+Mario ,Barwuah Balotelli,8326,42.29,2284,Forward
+Juan Pablo,Añor Acosta,5791,9.57,600,Midfielder
+Antonio,Candreva,20556,57.269999999999996,2740,Midfielder
+Bobby,Allain,26969,0,0,Goalkeeper
+Víctor,Sánchez Mata,3797,14.82,2462,Midfielder
+Vincenzo,Grifo,221452,20.369999999999997,752,Midfielder
+Alessio,Romagnoli,146588,31.309999999999995,2363,Defender
+Erkan,Zengin,33091,0,0,Midfielder
+Niklas,Dorsch,367620,1.79,90,Midfielder
+Oscar,Wendt,15014,10.540000000000001,2461,Defender
+Andreas,Hoelgebaum Pereira,240445,16.02,1054,Midfielder
+Mikel,Rico Moreno,5290,3.26,1162,Midfielder
+Jack,Butland,8094,0,0,Goalkeeper
+Odion Jude,Ighalo,5295,2.5100000000000002,122,Forward
+Paweł,Olkowski,99437,1.9900000000000002,450,Defender
+Robin,Quaison,51013,25.8,1389,Midfielder
+Mathieu,Debuchy,25700,6.510000000000001,1315,Defender
+Luís Carlos,Almeida da Cunha,7926,39.809999999999995,1073,Midfielder
+Gerard,Deulofeu Lázaro,3348,13.579999999999998,908,Forward
+Andrew,Robertson,222220,28.250000000000004,1943,Defender
+Rayan,Aït Nouri,565016,0,0,Defender
+Franco Matías,Di Santo,8628,24.249999999999996,1633,Forward
+Víctor,San Bartolomé Prieto,517435,0,0,Midfielder
+Iker,Muniain Goñi,3425,29.020000000000003,776,Forward
+Benjamin,Mendy,26136,4.72,402,Defender
+Juan Carlos,Pérez López,3735,0.83,784,Defender
+Jeffrey,Gouweleeuw,159,19.06,2386,Defender
+Bruno Alexandre,Vilela Gama,3394,0,101,Midfielder
+Breel-Donald,Embolo,282772,20.340000000000007,1229,Forward
+Vincent,Ráfli,49921,0,9,Defender
+Matt,Macey,171166,0,0,Goalkeeper
+Alessandro,Schöpf,208716,6.569999999999999,891,Midfielder
+André Filipe,Tavares Gomes,211885,10.680000000000001,911,Midfielder
+Jetro,Willems,110,6.879999999999999,1664,Defender
+Lionel Jules,Carole,26084,6.659999999999999,540,Defender
+Gergő,Lovrencsics,75292,2.75,173,Midfielder
+Marcos Javier,Acuña,89073,0,90,Midfielder
+Anthony Rubén,Lozano Colón,5147,10.209999999999999,446,Forward
+Kendall Jamaal,Waston Manley,125575,0.9199999999999999,90,Defender
+Dorian,Grange,235448,0,0,Goalkeeper
+Tomáš ,Necid,101607,2.01,165,Forward
+Pablo Daniel,Piatti,3293,11.32,1732,Forward
+Emiliano,Sala,25605,45.62,3078,Forward
+Christopher,Hérelle,28314,43.99,2970,Defender
+Samuel,Grandsir,295761,51.370000000000005,2608,Forward
+John,Guidetti,151,28.599999999999998,1459,Forward
+Luis,Hernández Rodríguez,5472,37.86,3240,Defender
+Tamás,Kádár,7980,1.28,270,Defender
+Dries,Mertens,122,104.20999999999998,3474,Forward
+Clément,Michelin,286382,0.52,265,Defender
+Karol,Linetty,138174,16.660000000000004,2132,Midfielder
+Stefano,Sorrentino,20633,0,0,Goalkeeper
+Dani,Castellano Betancor,4371,9.61,2023,Defender
+Jeremie,Boga,227756,0,0,Forward
+Lorenzo,Insigne,21385,137.93,3125,Forward
+Andrea,Tozzo,218982,0,0,Goalkeeper
+Gauthier,Hein,330395,0,81,Midfielder
+José Andrés,Guardado Hernández,3384,38.06,2571,Midfielder
+Senna,Miangue,402898,5.050000000000001,804,Defender
+Marvin ,Zeegelaar,189821,6.69,1046,Defender
+Łukasz,Fabiański,7847,0,0,Goalkeeper
+Antonio,Sivera Salvá,286981,0,0,Goalkeeper
+Clément,Billemaz,421864,0,0,Forward
+Osama Abdulrezag,Hawsawi,122839,2.41,270,Defender
+José Ramiro,Funes Mori,86325,1.78,119,Defender
+Julien,Serrano,472126,0,270,Defender
+Zaydou,Youssouf,482491,1.1400000000000001,117,Midfielder
+Jordan,Leborgne,258408,0,0,Midfielder
+Caner,Erkin,32523,1.22,180,Defender
+Francisco Javier,Guerrero Martín,372753,4.21,993,Forward
+Rubén,Peña Jiménez,225948,6.859999999999999,1703,Midfielder
+Antonio,Adán Garrido,3296,0,0,Goalkeeper
+Ben,Woodburn,351808,0,0,Forward
+Pape Cheik,Diop Gueye,339812,0.11,9,Midfielder
+Tom,Carroll,8976,8.06,2544,Midfielder
+Justin,Hoffmanns,337781,0,0,Defender
+André-Pierre,Gignac,25575,9.74,204,Forward
+Yoann,Salmier,339964,7.869999999999999,1095,Defender
+Edgar Yoel,Bárcenas Herrera,241077,3.32,222,Midfielder
+Simone,Palombi,364640,0,67,Forward
+Oliver,Sorg,14988,9.7,1690,Defender
+Yvon Landry ,Mvogo,49883,0,0,Goalkeeper
+Charlie,Adam,7961,0.89,459,Midfielder
+Clinton Mua,N'Jie,28123,34.34,854,Forward
+Ismael,Aaneba,449882,0,0,Defender
+Allan-Romeo,Nyom,5281,9.2,2294,Defender
+Tobias,Strobl,15813,1.27,97,Midfielder
+Mikael,Lustig,61949,0,397,Defender
+Leonardo,Capezzi,134429,3.2099999999999995,207,Midfielder
+Nura,Abdullahi,350991,0,0,Defender
+Damián Emiliano,Martínez,7848,0,0,Goalkeeper
+Gregory,van der Wiel,45,0.95,288,Defender
+Tom,Cleverley,7929,1.51,1908,Midfielder
+Bastian,Schweinsteiger,14728,1.0,218,Midfielder
+Leon,Britton,77550,1.31,306,Midfielder
+Lukas,Klánter,272338,5.86,1335,Defender
+Vincent,Laurini,22313,6.39,1616,Defender
+Diego,Benaglio,14913,0,0,Goalkeeper
+Mohamet Airam,Ramos Wade,473326,0,0,Goalkeeper
+Anthony,Racioppi,397039,0,0,Goalkeeper
+Loïc,Rémy,25577,23.400000000000002,1224,Forward
+Ibrahima,Konaté,393247,11.459999999999999,1226,Defender
+Sejad,Salihović,15812,1.87,368,Midfielder
+Josh,Magennis,62235,0.53,26,Forward
+David,Remeseiro Salgueiro,247220,19.259999999999998,1795,Midfielder
+Bryan,Mbeumo,454388,0.8400000000000001,51,Forward
+Robert,Bauer,223516,0.58,948,Defender
+Jesé,Rodríguez Ruiz,3326,11.51,601,Forward
+Manuel,Schmiedebach,15050,0,163,Midfielder
+Rolando Jorge,Pires da Fonseca,70088,31.549999999999994,2511,Defender
+Jordi,Mboula Queralt,405977,0,23,Forward
+Daniel,García Carrillo,5542,13.96,2782,Midfielder
+Lukas,Kábler,18670,6.1499999999999995,1135,Defender
+Sébastien,Cibois,347192,0,0,Goalkeeper
+Fabio,Borini,20449,30.17,1578,Forward
+Sascha,Riether,15284,0,0,Defender
+Fodé ,Ballo Touré,286917,6.61,2095,Defender
+Roberto,Suárez Pier,410055,15.200000000000003,1904,Defender
+Aldo,One Esteve,247150,0.74,90,Defender
+Miralem,Pjanić,20443,38.739999999999995,2491,Midfielder
+Julian,Baumgartlinger,15188,21.3,1653,Midfielder
+Aleksandr,Golovin,257800,9.82,563,Midfielder
+Kasper,Dolberg,281254,0,17,Forward
+Kévin,Malcuit,144867,29.490000000000006,1790,Defender
+Danny,Rose,8292,4.65,1274,Defender
+Sullay,Kaikai,297258,0,13,Midfielder
+Florent,Balmont,25704,17.990000000000002,840,Midfielder
+Fahad Mosaed,Al Muwallad Al Harbi,122623,0,157,Forward
+Antonio Miguel,Ramírez Martínez,3663,0,0,Goalkeeper
+Jordan Brian,Henderson,7964,22.859999999999996,2744,Midfielder
+Juan Manuel,Mata García,7906,24.739999999999995,1927,Midfielder
+Elisha,Owusu,370093,0,0,Midfielder
+Jaroslav,Plašil,25596,12.920000000000002,1283,Midfielder
+Thomas,Rodríguez,401104,0,0,Midfielder
+Antonio,Donnarumma,22085,0,0,Goalkeeper
+Marcos,Llorente Moreno,279538,6.890000000000001,538,Midfielder
+Dayotchanculle,Upamecano,352988,36.58,2265,Defender
+Oumar,Solet Bomawoko,486593,0,0,Defender
+Michail,Antonio,8677,23.080000000000002,1345,Forward
+Ricardo Iván,Rodríguez Araya,14922,11.65,3766,Defender
+Benoît,Costil,25632,0,0,Goalkeeper
+Nemanja,Radoja,140125,7.8,1070,Midfielder
+Andrés Tomás,Prieto Albert,247173,0,0,Goalkeeper
+Filip,Đuričić,174,21.84,977,Midfielder
+Steven N'Kemboanza Mike Christopher,N'Zonzi,8200,42.959999999999994,2351,Midfielder
+José Ignacio,Fernández Iglesias,3304,22.050000000000004,2230,Defender
+Joris,Gnagnon,366581,49.309999999999995,2898,Defender
+Christian ,Atsu Twasam,70215,25.259999999999998,1772,Midfielder
+Axel,Tuanzebe,397163,0,0,Defender
+Sergio,Rico González,3458,0,0,Goalkeeper
+André,Ramalho Silva,65880,0.27999999999999997,13,Defender
+Christopher,Rocchia,421858,0,0,Defender
+Emil,Forsberg,51132,15.309999999999999,2061,Midfielder
+Onur Recep,Kıvrak,32547,0,0,Goalkeeper
+Chung-Yong,Lee,8049,0.47000000000000003,118,Midfielder
+Marco,Asensio Willemsen,288091,72.44,1963,Midfielder
+Vincent,Manceau,26265,9.42,2970,Defender
+Vicente,Iborra De La Fuente,3928,14.27,1415,Midfielder
+Ronny,Rodelin,25715,47.1,3166,Forward
+Salif,Sané,26115,84.34999999999997,3152,Defender
+Oriol,Busquets Mas,344046,0,0,Midfielder
+Oghenekaro,Etebo,424624,14.67,1486,Forward
+Harun,Tekin,32777,0,0,Goalkeeper
+Mario,Sampirisi,21280,9.07,2148,Defender
+Mauricio,Lemos Merladet,292991,13.299999999999997,1964,Defender
+Carlos,Soler Barragán,372752,45.64,2376,Midfielder
+Ladislav,Krejčí,82266,2.71,608,Forward
+Maximilian,Mittelstädt,337890,9.97,412,Defender
+Erick Cathriel,Cabaco Almada,278049,16.33,1029,Defender
+Fabrizio,Cacciatore,21607,17.54,2899,Defender
+Álvaro,García Vázquez,3804,0,0,Forward
+Frederico,Rodrigues Santos,40335,0,0,Midfielder
+Keiren,Westwood,8515,0,0,Goalkeeper
+David,Limberský,82510,0.53,180,Defender
+Mathieu,Flamini,20406,1.66,499,Midfielder
+Khouma,El Hadji Babacar,3710,31.200000000000006,1134,Forward
+Abdallah,N'Dour,209095,0,278,Defender
+Fábio Henrique,Tavares,207143,53.95000000000001,3060,Midfielder
+Marc-Aurèle,Caillard,149057,0,0,Goalkeeper
+Toni,Kroos,14723,54.44,3108,Midfielder
+Simone,Padoin,20472,6.649999999999999,3115,Midfielder
+Borja,Valle Balonga,4440,11.78,456,Forward
+Stefan,Bell,15178,28.33,2160,Defender
+Costel Fane,Pantilimon,8303,0,0,Goalkeeper
+Giacomo,Bonaventura,20845,57.47,2543,Midfielder
+Tatsuya,Ito,391606,17.19,990,Midfielder
+Ignasi,Miquel i Pons,7857,14.730000000000002,1780,Defender
+Ashley,Westwood,8925,0.9900000000000001,1064,Midfielder
+Alexander,Djiku,229427,28.829999999999995,2520,Defender
+Martin,Terrier,394006,33.58,1627,Forward
+Gonzalo,Castro Randon,14770,9.950000000000001,1190,Midfielder
+Luis Alberto,Romero Alconchel,3484,57.879999999999995,2677,Midfielder
+Jiří,Skalák,104745,0,67,Midfielder
+Bruno,Martins Indi,134,6.609999999999999,1241,Defender
+Seydou,Sy,344927,0,0,Goalkeeper
+Emerson,Hyndman,259531,0.58,59,Midfielder
+Soualiho,Meïté,25504,26.76,1431,Midfielder
+Alexis Alejandro,Sánchez Sánchez,3361,50.66,2560,Forward
+Conor,Washington,234710,0,143,Forward
+Jakub,Błaszczykowski,14804,6.12,1009,Midfielder
+Miloš,Degenek,135425,0,0,Defender
+George Christopher,Williams,13492,0,0,Midfielder
+Nicolas,Haas,342075,0.29000000000000004,156,Midfielder
+Andrei,Girotto,43515,19.650000000000002,1505,Midfielder
+Jaïro,Riedewald,240559,0.62,405,Defender
+Ante,Budimir,69513,23.99,1569,Forward
+Kevin,Wimmer,65254,6.749999999999999,1323,Defender
+Robin,Gosens,295176,9.429999999999998,1450,Defender
+Salvatore,Elia,418317,0,0,Forward
+James,Meredith,10214,0,0,Defender
+Adrián ,González Morales,3705,16.810000000000006,2341,Midfielder
+Rene,Krhin,20685,9.57,1288,Midfielder
+Mikel,San José Domínguez,3409,16.090000000000003,2157,Midfielder
+Mohamed Salim,Fares,328336,15.299999999999999,2603,Forward
+Nathan,Aké,134102,55.45,3353,Defender
+Everton Luiz,Guimaraes Bilher,45579,2.1399999999999997,631,Midfielder
+Eldin,Jakupovic,93084,0,0,Goalkeeper
+Matteo,Gabbia,405603,0,0,Defender
+Nigel,de Jong,8315,3.6899999999999995,731,Midfielder
+Yusuf,Sari,489202,0,0,Midfielder
+James,McArthur,8623,28.20999999999999,2437,Midfielder
+Daniele,Gastaldello,20610,0,0,Defender
+Nikola,Maksimović,127524,2.56,95,Defender
+Craig,Cathcart,9403,6.4799999999999995,836,Defender
+Adel,Taarabt,9080,29.54,1617,Midfielder
+Fabio Giovanni,Ceravolo,22686,0.98,58,Forward
+Fabian,Delph,8464,22.78,1953,Midfielder
+Yahya Sulaiman,Al Shehri,122888,0.18,85,Midfielder
+Juan Pedro,Ramírez López,4360,46.480000000000004,3060,Defender
+Diego Sebastián,Laxalt Suárez,116269,18.09,3110,Midfielder
+Matúš,Kozáčik,78488,0,0,Goalkeeper
+Bobby Shou,Wood,15232,11.5,1628,Forward
+Gaku,Shibasaki,94828,7.880000000000001,1318,Midfielder
+Tobias,Sippel,15061,0,0,Goalkeeper
+Julian,Weigl,224677,15.409999999999998,1941,Midfielder
+Isaac,Mbenza,276983,28.21,2065,Forward
+Nuno Miguel,da Costa Jóia,215130,21.440000000000005,1784,Forward
+Ola,Toivonen,123,16.64,1167,Forward
+Chang-Hoon,Kwon,256084,34.61,2141,Midfielder
+Malang,Sarr,393228,9.15,1304,Defender
+David Josué,Jiménez Silva,8317,93.05000000000001,3102,Midfielder
+Oleksandr,Karavaev,171628,0,0,Midfielder
+Anastasios,Donis,233910,27.51,897,Forward
+Emanuel,Ercolano,560427,0,0,Defender
+Gianluca,Pegolo,20771,0,0,Goalkeeper
+Youri,Tielemans,263802,34.91000000000001,1716,Midfielder
+Kevin,Mirallas,92922,2.6799999999999997,138,Midfielder
+Pedro Miguel,Almeida Lopes Pereira,345740,0,382,Defender
+Enrique,Fornos Domínguez,278248,0,0,Defender
+Scott,Arfield,11294,7.61,1319,Midfielder
+Erick Steven,Ferigra Burnham,471124,0,0,Defender
+Aldo Sebastián,Corzo Chávez,114803,0,0,Defender
+Adrián,López Garrote,405969,0,0,Goalkeeper
+Dominik,Livaković,135784,0,0,Goalkeeper
+Elio,Capradossi,239290,1.5599999999999998,86,Defender
+Nicolas,Pépé,247671,56.42999999999999,2844,Forward
+Danilo,Larangeira,20583,36.47,2778,Defender
+William,Troost-Ekong,11093,1.38,270,Defender
+Daniele,Verde,343925,23.960000000000004,1935,Forward
+Leroy,Fer,262,17.170000000000005,1396,Midfielder
+Thomas,Strakosha,166534,0,0,Goalkeeper
+Jonathas Cristian,de Jesus,20728,19.419999999999998,620,Forward
+Ibrahima,Niane,498357,20.900000000000002,776,Forward
+José Manuel,Jurado Marín,14866,24.29,1502,Midfielder
+Rúben ,Santos Gato Alves Dias,258154,0,0,Defender
+Giorgio,Chiellini,20461,38.510000000000005,2552,Defender
+Luca,Caldirola,20704,0.8099999999999999,90,Defender
+Jean-Philippe,Gbamin,228980,49.8,2591,Midfielder
+Alejandro Miguel,Mula Sanchez,485383,8.36,539,Midfielder
+Barnabás,Bese,75014,0,44,Defender
+Rick,Karsdorp,289122,0.38,82,Defender
+Ognjen,Stijepović,405880,0,0,Forward
+Enric,Saborit Teixidor,3408,11.97,1421,Defender
+Javier ,López Rodríguez,3806,2.7600000000000002,949,Defender
+Maximilian,Philipp,19392,26.68,1145,Forward
+Andreas,Luthe,14822,0,0,Goalkeeper
+Kevin,Strootman,114,12.889999999999999,2250,Midfielder
+Max,Grán,15444,0,0,Goalkeeper
+Enrique,Sola Clemente,3517,0,0,Forward
+Ibrahima,Traoré,14758,8.21,198,Midfielder
+Lorenzo,Del Pinto,21678,4.97,743,Midfielder
+Pablo,Fornals Malla,399676,72.28,2604,Midfielder
+Vitorino Gabriel ,Pacheco Antunes,93000,3.4099999999999997,2790,Defender
+Jeffrey ,Bruma,14887,13.089999999999998,990,Defender
+Luca,Rigoni,20655,25.7,1569,Midfielder
+Emre,Mor,281255,22.5,695,Forward
+Yehvann,Diouf,444676,0,0,Goalkeeper
+Mariano Damián,Barbosa,4348,0,0,Goalkeeper
+Ashley Darel Jazz,Richards,77556,0,0,Defender
+Andreas,Beck,15798,4.629999999999999,1931,Defender
+Aarón,Martín Caricol,282438,4.34,2818,Defender
+Cyrus,Christie,8759,0,0,Defender
+Mathew,Ryan,61390,0,0,Goalkeeper
+Lars,Bender,14781,26.61,1598,Midfielder
+Abel Enrique,Aguilar Tapia,4814,0,32,Midfielder
+Johann,Obiang,209207,0.7799999999999999,462,Defender
+Fernando,Pacheco Flores,3299,0,0,Goalkeeper
+Goran,Pandev,21177,36.85,1825,Forward
+Sulley Ali,Muntari,20410,0.49,399,Midfielder
+Gelson Dany,Batalha Martins,227059,0.2,31,Forward
+Lassana,Coulibaly,366760,8.95,814,Midfielder
+Tom,Heaton,77502,0,0,Goalkeeper
+Josip,Pivarić,69964,0.25,201,Defender
+Francesco,Latella,544095,0,0,Goalkeeper
+Andrea,Cossu,20874,0,211,Midfielder
+Ferrán,Torres García,397303,7.01,239,Midfielder
+Jonathan,Klinsmann,492782,0,0,Goalkeeper
+Angelo Esmael,da Costa Júnior,20604,0,0,Goalkeeper
+Xabier,Prieto Argarate,3678,38.29,1916,Midfielder
+Sergio,Arribas Blázquez,485794,0,22,Midfielder
+Kyriakos,Papadopoulos,14857,45.67,2610,Defender
+Vincenzo,Millico,401883,0,0,Forward
+Simone,Missiroli,22163,29.699999999999992,2924,Midfielder
+José Miguel,da Rocha Fonte,8126,22.900000000000002,1500,Defender
+Rijad,Bajić,268180,0.02,29,Forward
+Matías,Aguirregaray Guruceaga,20803,1.91,1156,Defender
+Nuri,Şahin,3320,28.249999999999996,1268,Midfielder
+Giulio,Donati,21469,9.14,2301,Defender
+Jessy,Moulin,26216,0,0,Goalkeeper
+Andrea,Romagnoli,397237,0,0,Goalkeeper
+Ćazim,Suljić,340085,0,0,Midfielder
+Fabio,Lucioni,22614,8.01,720,Defender
+Ivan,Strinić,105361,10.410000000000002,2059,Defender
+Timo,Horn,15265,0,0,Goalkeeper
+Alessandro,Buongiorno,491451,0,0,Defender
+Marash,Kumbulla,404693,0,0,Defender
+Thomas,Meunier,37824,38.95,2384,Defender
+Steven James,Sidwell,11150,0,0,Midfielder
+Hugo,Duro Perales,545811,0,0,Forward
+Unai,Simón Mendibil,344059,0,0,Goalkeeper
+Joe,Willock,346159,0.18,82,Midfielder
+İlkay,Gándoğan,14808,30.78,1554,Midfielder
+Remo,Freuler,49991,44.79,3026,Midfielder
+Christoph,Kramer,14838,22.74,2149,Midfielder
+Igor,Smolnikov,101825,0,360,Defender
+Romain,Danzé,25637,2.42,680,Defender
+Matt,Targett,281135,0.18,166,Defender
+Ştefan Daniel,Radu,20550,31.100000000000005,2609,Defender
+Arda,Turan,3448,1.2900000000000003,245,Midfielder
+Chidozie,Collins Awaziem,364772,14.860000000000003,1564,Defender
+Jonjo,Shelvey,7967,13.74,2309,Midfielder
+Marcos Danilo,Ureña Porras,101796,0.9400000000000001,121,Forward
+Nicolas,de Roussel de Préville,25923,42.74999999999999,2234,Forward
+Jean-Victor,Makengo,352992,2.76,236,Midfielder
+Karl,Toko Ekambi,26638,78.31000000000002,3043,Forward
+Hólmar Örn,Eyjólfsson,14826,0,0,Defender
+Júnior Osmar Ignacio ,Alonso Mujica,213308,33.94000000000001,2780,Defender
+Alexander,Kačaniklić,8899,6.36,258,Midfielder
+Gaëtan,Bong Songo,26495,5.27,2238,Defender
+Manuel,Lanzini,41174,29.820000000000007,2045,Midfielder
+Pietro,Iemmello,22135,17.709999999999997,852,Forward
+Joy,Mukena,447782,0,0,Defender
+Ablie,Jallow,376908,0.67,131,Midfielder
+Jordan,Veretout,25541,36.489999999999995,3211,Midfielder
+Kevin,Vogt,14842,34.81999999999999,2790,Defender
+Adil,Rami,3276,59.80000000000001,3317,Defender
+Felix,Passlack,356906,0.53,74,Midfielder
+Panagiotis,Retsos,344178,28.650000000000002,1714,Defender
+Abdelhamid,Sabiri,442211,4.8,219,Midfielder
+Victorio Maximiliano,Pereira Páez,70116,0,0,Defender
+Bruno André,Cavaco Jordão,401277,0,0,Midfielder
+Jules,Iloki,217872,5.029999999999999,1387,Midfielder
+Vincent,Janssen,269676,0,0,Forward
+Naby Deco,Keïta,289711,39.16000000000001,1975,Midfielder
+Alejandro,Granell Nogué,214062,7.5,2854,Midfielder
+Joe,Rodon,412919,0,0,Defender
+Rani,Khedira,16826,23.31,2256,Midfielder
+Adama,Mbengue,215281,3.8699999999999997,1595,Defender
+Roberto Maximiliano,Pereyra,20593,23.049999999999997,1612,Midfielder
+Álvaro,González Soberón,3695,39.900000000000006,2900,Defender
+Christian,Rivera Hernández,373713,1.38,234,Midfielder
+Andreu,Fontàs Prat,3337,8.14,884,Defender
+Lasse,Sørensen,399564,0,76,Midfielder
+Felipe ,Anderson Pereira Gomes,40806,42.23,1152,Midfielder
+Blaise,Matuidi,25437,35.62999999999999,3284,Midfielder
+Miguel Ángel,Guerrero Martín,5481,31.830000000000002,1406,Forward
+Sergio,Escudero Palomo,14852,9.82,2328,Defender
+Raphaël,Varane,3309,37.13000000000001,2954,Defender
+Thiago,Rangel Cionek,99661,22.58,1530,Defender
+Ľubomír,Tupta,352722,0.2,30,Forward
+Aly,Abeid,376565,0,78,Defender
+Mahmoud Ibrahim,Hassan,220112,2.78,239,Midfielder
+Sam,Clucas,10252,13.55,2002,Midfielder
+Viktor,Fischer,1722,4.130000000000001,353,Forward
+Manuel Marouan,da Costa Trinidade,101620,0.34,190,Defender
+Bel Durel,Avounou,407699,2.7199999999999998,652,Midfielder
+Quentin,Boisgard,374118,0.12,178,Midfielder
+Finn,Dahmen,356872,0,0,Goalkeeper
+Olcay,Şahan,15076,0,49,Midfielder
+Alex,Ferrari,263433,13.18,2139,Defender
+Amine,Gouiri,449985,1.41,35,Forward
+Romario,Rösch,448313,0,0,Forward
+Péter,Gulácsi,9611,0,0,Goalkeeper
+Łukasz,Skorupski,99430,0,0,Goalkeeper
+Michele,Camporese,20925,0,0,Defender
+Emanuele,Giaccherini,20468,11.799999999999999,1357,Midfielder
+Stephan,Lichtsteiner,20465,14.49,2369,Defender
+Pascal,Stenzel,272378,11.270000000000001,1938,Defender
+Vahid,Amiri,237836,0.9899999999999999,266,Midfielder
+Lucas Ariel,Boyé,334817,1.78,402,Forward
