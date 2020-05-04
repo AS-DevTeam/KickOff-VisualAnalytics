@@ -18,8 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "SmartPi"
+title: "Kick-Off"
 remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
