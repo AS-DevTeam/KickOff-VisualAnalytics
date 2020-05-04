@@ -20,6 +20,8 @@
 
 title: "Kick-Off"
 remote_theme: pmarsceill/just-the-docs
+
+# Color scheme currently only supports "dark" or nil (default)
 color_scheme: "dark"
 
 # Exclude from processing.
