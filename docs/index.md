@@ -8,3 +8,5 @@ nav_order: 1
 ---
 
 #  The idea
+
+Nowadays  soccer analysis is acquiring interest and it became a real business. Teams pay money to get data to know their opponents and Pay tv tell you everything about a single player.
