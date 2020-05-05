@@ -9,7 +9,7 @@ A short description of the two datasets is shown above:
 
 ## Soccer event dataset
 
-Soccer match event dataset is composed by 8 files containing information about Coaches, Referees, Players, Teams, Competitions, Events, Matches and Players ranks. All these files are in described in a JSON format so that, for example, a single team is described as:
+[Soccer match event dataset](https://www.kaggle.com/karangadiya/fifa19/data#) is composed by 8 files containing information about Coaches, Referees, Players, Teams, Competitions, Events, Matches and Players ranks. All these files are in described in a JSON format so that, for example, a single team is described as:
 ```json
 {   "city": "Milano",
     "name": "Milan",
@@ -35,5 +35,4 @@ We decided to don't use *Coaches*, *Events* and *Referees* files that contain in
 
 ## FIFA 19 complete player dataset
 
-\textbf{FIFA 19 complete player dataset} \cite{fifa19} is composed by one single file in CSV format with 18206 players and 88 attributes per player. Each row of the file represent a single player described by name, ID, age, link of the photo (if available), nationality, market value, club, preferred foot, other information and 60 attributes strictly related to player's football skills (ex: Crossing, Finishing, Passing ecc.)
-\end{itemize}
+[FIFA 19 complete player dataset](https://www.kaggle.com/karangadiya/fifa19/data#) is composed by one single file in CSV format with 18206 players and 88 attributes per player. Each row of the file represent a single player described by name, ID, age, link of the photo (if available), nationality, market value, club, preferred foot, other information and 60 attributes strictly related to player's football skills (ex: Crossing, Finishing, Passing ecc.)
