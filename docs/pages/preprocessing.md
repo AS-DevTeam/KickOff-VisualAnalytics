@@ -86,7 +86,7 @@ For the teams we created 3 new files:
         }
         ```
 
-## Technologies
+## Technologies
 
 For the developing of our project we used three main technologies:
 
