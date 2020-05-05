@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Domain and analytical tasks
-nav_order: 3
+nav_order: 2
 ---
 # Domain and analytical tasks
 

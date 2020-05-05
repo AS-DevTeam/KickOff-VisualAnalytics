@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Conclusion and future work
-nav_order: 6
+nav_order: 5
 ---
 # What next?
 

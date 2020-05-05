@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dataset
-nav_order: 4
+nav_order: 3
 ---
 # Dataset
 To implement the views described above, we needed lots of details about teams and players' skills. At the moment of the creation of our system, we were no able to find a single open-source dataset that includes all the information that we need. For that reason, we decided to insert a preliminary step of data preprocessing in order to merge information coming from two different open-source datasets taken from Kaggle \cite{kaggle} and FigShare \cite{figshare}.\newpage
