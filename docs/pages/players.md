@@ -9,6 +9,8 @@ nav_order: 1
 
 This view implements two analytical tasks (T1 and T3) described in the in the [analytical task section](https://kickoff-va.github.io/KickOff-VisualAnalytics/pages/domain-analytical.html). It is logically divided in 2 steps:
 
+![players](../images/players-mac.jpeg)
+
 ## Filtering Step
 
 The filtering step is represented by the upper part of the page containing 2 components: scatterplot and parallel coordinates. These two component allow a first selection of the players that will be reflected in the second step;
