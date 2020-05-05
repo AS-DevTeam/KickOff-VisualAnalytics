@@ -5,7 +5,7 @@ nav_order: 4
 ---
 
 # Preprocessing of data
-tarting from these two datasets we needed to merge information taken
+Starting from these two datasets we needed to merge information taken
 from both to create a single dataset containing only the data that we
 had to use for our visual views. We created different types of files
 with different structures based on the type of visualization that will
