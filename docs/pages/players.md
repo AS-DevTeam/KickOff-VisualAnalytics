@@ -13,7 +13,7 @@ This view implements two analytical tasks (T1 and T3) described in the in the [a
 
 ## Filtering Step
 
-The filtering step is represented by the upper part of the page containing 2 components: scatterplot and parallel coordinates. These two component allow a first selection of the players that will be reflected in the second step;
+The filtering step is represented by the upper part of the page containing 2 components: scatterplot and parallel coordinates. These two component allow a first selection of the players that will be reflected in the second step.
 
 ## Player comparison step
 
