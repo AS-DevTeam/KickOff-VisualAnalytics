@@ -54,3 +54,5 @@ The components of the players view are connected through interactions, it means 
 3. the focused players box shows the cards of the players selected in the filtering step. Adding one player (clicking on the "+" button) will draw his bar in the players barchart and will add the relative polygon in the radar chart;
 
 4. the players barchart allows to focus a single player by moving the mouse over his bar, it will also highlight the relative polygon in the radar chart;
+
+![Players after selection and filter](../images/player-tab-sel.png)
