@@ -40,7 +40,7 @@ Thanks to this chart the user is able to see the values (approximately) of the p
 ### Barchart
 In this component each player is represented by a vertical bar where the height depends on the **overall** value of the player. The colours of the bars are assigned according to a colour scale starting from intense orange to intense blue, passing through different shades of these colours (it depends on the number of selected players).
 
-![Bar](../images/player-bar.png)
+![Bar](../images/player-bars.png)
 
 This chart allows a direct comparison among players based only on the **overall** value.
 
