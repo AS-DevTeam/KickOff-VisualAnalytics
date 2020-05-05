@@ -7,7 +7,7 @@ nav_order: 3
 
 The first step of our work was the study of our domain of interest: the world of football. We started studying which are the most important factors that are useful to describe the performance of both teams and players. In this step, thanks to the help of the literature and existing tools like WyScout \cite{wyscout} and Transfermarkt \cite{transfermarkt} we identify the general requirements for an effective and efficient performance evaluation system.
 
-## Analytical Tasks}
+## Analytical Tasks
 To accomplish this goal, the system was designed to address several visual analytical task categories for performance evaluation:
 \begin{itemize}
     \item \textbf{T1 Performance of the single player}\\ the user may want to evaluate the skills of a single player in order to know which are his best aspects and in which he is lacking.
