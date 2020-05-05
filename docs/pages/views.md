@@ -4,6 +4,8 @@ title: Views
 nav_order: 5
 has_children: true
 ---
+# How the system is organized
+
 KickOff is implemented as a web-based application composed of 2 main views accessible by the right side retractable menu:
 
 - **The players view** allows the user to select players to analyze his skills and abilities (T1). It also allows a comparison between players based on their skills (T3);
