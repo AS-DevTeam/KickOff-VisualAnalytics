@@ -38,7 +38,7 @@ In this component each player is represented by a vertical bar where the height 
 
 This chart allows a direct comparison among players based only on the **overall** value.
 
-### Radar Chart
+### Radar char
 In this last component each player is represented by a polygon where each vertex represents the exact value of a skill. The colour of each player's polygon is the same as the barchart one and the thickness of the polygonal outline encodes the value of the player's **overall**. The skills to be displayed can be selected from the dropdown list in the setting bar at the top of the page.
 
 This chart allows a direct comparison among players based on their selected skills' values.
