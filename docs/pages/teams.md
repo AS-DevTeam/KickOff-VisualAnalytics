@@ -13,6 +13,7 @@ performance, the *teams barchart* allowing direct comparison between two
 teams.
 
 ## The view in detail
+
 Now let's describe each component of the view, what it represents and its main functionality
 
 ### Teams Scatterplot
