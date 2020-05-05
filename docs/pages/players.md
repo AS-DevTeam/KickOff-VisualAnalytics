@@ -17,7 +17,7 @@ The filtering step is represented by the upper part of the page containing 2 com
 
 The player-comparison step is performed in the lower part of the page, in particular there are two components: a selection and a visual component. The player-selection part, consisting of the group of players obtained in the filtering step, allows to select each player (displayed with a card) in order to make a further and detailed investigation in the visual component, by using a barchart and a radar chart.
 
-## The view in detail
+## The view in detail
 
 Now let's describe each component of the view, what it represents and its main functionality.
 
