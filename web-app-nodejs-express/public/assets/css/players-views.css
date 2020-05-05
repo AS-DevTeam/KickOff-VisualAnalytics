@@ -1,0 +1,408 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+/**
+ * colors
+ * ColorBackground: (black) #222529
+ * ColorBackgroundViews: (pseudo-black) #2B2E32
+ * ColorText: (white) #FFFFFF
+ * ColorButtons: (green) rgb(69, 148, 86)
+ * Tooltip-border: #818181
+ */
+
+
+/* MENU CSS-SECTION */
+
+.menu-image {
+    position: relative;
+    height: 28vh;
+    width: 11vw;
+    right: 1vw;
+}
+
+#skill-dropdown {
+    position: absolute;
+    top: -2vh;
+    left: 0vh;
+    height: 10vh;
+    width: 80vw;
+}
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: #222529;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+#logo-container {
+    text-align: center;
+}
+
+.sidenav h1 {
+    font-family: "Montserrat-Bold";
+    margin-left: 1vw;
+    left: .5vw;
+    color: #ffffff;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+    font-family: "Montserrat";
+}
+
+.sidenav .side-item {
+    margin-bottom: .2vh;
+    font-size: 20px;
+}
+
+.sidenav .side-item:hover {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: rgb(69, 148, 86);
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {
+        padding-top: 15px;
+    }
+    .sidenav a {
+        font-size: 18px;
+    }
+}
+
+#open-menu {
+    color: #ffffff;
+    font-size: 2.5vh;
+    cursor: pointer;
+    position: fixed;
+    top: 3vh;
+    right: 1vw;
+}
+
+.label-dropdown {
+    font-family: "Montserrat-Bold";
+    color: #ffffff;
+    top: 1.5vh;
+    position: relative;
+}
+
+
+/* RADARCHART CSS-SECTION */
+
+#chart {
+    position: absolute;
+    background-color: #2B2E32;
+    border-radius: 20px;
+    padding: 0px;
+    top: 51.5vh;
+    left: 68vw;
+    height: 47vh;
+    width: 31vw;
+}
+
+
+/* BARCHART CSS-SECTION*/
+
+#barchart {
+    position: absolute;
+    left: 35.5vw;
+    top: 51.5vh;
+    width: 62vh;
+    height: 47vh;
+    padding: 2em;
+    background-color: #2B2E32;
+    border-radius: 20px;
+}
+
+.custom-submit {
+    font-family: "Montserrat";
+    font-size: bold;
+    color: #ffffff;
+    padding: 0.5em;
+    background-color: rgb(69, 148, 86);
+    border-radius: 10px;
+    border-color: rgb(69, 148, 86);
+    border-width: 1px;
+    margin: 0.5em;
+    font-size: 14px;
+}
+
+.custom-submit:hover {
+    background-color: rgb(90, 120, 86);
+    border-color: rgb(90, 120, 86);
+}
+
+.axis {
+    /* Set font family of the axis */
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 12px;
+    fill: #ffffff;
+}
+
+.axis text {
+    /* Change color of the text of the axis */
+    fill: #ffffff;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #ffffff;
+    shape-rendering: crispEdges;
+}
+
+.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 8vw;
+    margin-top: -20px;
+    /* Font */
+    color: #222529;
+    text-align: center;
+    background: #ffffff;
+    pointer-events: none;
+    border-radius: 15px;
+    border: #818181 solid 2px;
+}
+
+.tooltip p {
+    text-align: center;
+    vertical-align: middle;
+    font-family: "Montserrat-Bold";
+    margin: 0;
+}
+
+
+/* SCATTERPLOT CSS-SECTION */
+
+.dot {
+    stroke: #000;
+}
+
+.tooltip-scatterplot {
+    position: relative;
+    width: 10vw;
+    pointer-events: none;
+    border-radius: 15px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    font-family: "Montserrat-Bold";
+    font-size: 1.5vh;
+    color: #222529;
+    border: #818181 solid 2px;
+}
+
+.lasso path {
+    stroke: rgb(80, 80, 80);
+    stroke-width: 2px;
+}
+
+.lasso .drawn {
+    fill-opacity: .05;
+}
+
+.not_possible {
+    fill: rgb(200, 200, 200);
+}
+
+.possible {
+    fill: #EC888C;
+}
+
+.legend text {
+    fill: #ffffff;
+    font-size: 1vh;
+}
+
+#scatterplot {
+    position: absolute;
+    top: 10vh;
+    left: 1vw;
+    height: 40vh;
+    background-color: #2B2E32;
+    border-radius: 20px;
+    width: 33.5vw;
+    padding: 2em;
+}
+
+
+/* PARALLEL COORDINATES CSS-SECTION */
+
+#parallel-coordinates {
+    position: absolute;
+    background-color: #2B2E32;
+    border-radius: 20px;
+    width: 63.5vw;
+    height: 40vh;
+    left: 35.5vw;
+    top: 10vh;
+}
+
+
+/* SELECTION CSS-SECTION */
+
+#selection {
+    position: absolute;
+    top: 51.5vh;
+    left: 1vw;
+    height: 47vh;
+    background-color: #2B2E32;
+    border-radius: 20px;
+    width: 33.5vw;
+}
+
+#selection h3 {
+    font-family: "Montserrat-Bold";
+    color: #ffffff;
+    position: relative;
+    left: 1vw;
+}
+
+#selection ul {
+    height: 28vh;
+}
+
+.section {
+    display: inline-block;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, .15);
+    position: relative;
+    margin-top: 1.5vh;
+    margin-bottom: 0vh;
+    margin-left: .5vh;
+    margin-right: 2vw;
+    right: 1.5vw;
+    transition: all .2s ease-in-out;
+    background-color: #2B2E32;
+    font-family: "Montserrat";
+    color: #ffffff;
+}
+
+.section a {
+    font-size: 2vh;
+    font-family: "Montserrat-Bold";
+    color: #ffffff;
+}
+
+.image {
+    height: 3.5vw;
+    width: 3.5vw;
+    position: relative;
+    top: -.5vh;
+    overflow: hidden;
+    transition: all .2s ease-in-out;
+    margin-right: 10px;
+    border-radius: 50px;
+    background-color: rgb(255, 255, 255);
+    border: #b6aab0 solid 4px;
+}
+
+.flag {
+    height: 1vw;
+    width: 1.5vw;
+    position: relative;
+    top: -3vh;
+    overflow: hidden;
+    transition: all .2s ease-in-out;
+    margin-left: 10px;
+}
+
+.player-card {
+    background-color: #222529;
+    width: 29vw;
+    padding: 20px;
+    height: 10vh;
+    border-radius: 20px;
+    border: white .1vh solid;
+    position: relative;
+    margin-top: 1vh;
+}
+
+.player-card a {
+    position: relative;
+    top: -2.5vh;
+}
+
+.player-card h5 {
+    margin: 0px;
+    position: relative;
+    left: 4vw;
+    top: -4.5vh;
+    width: 20vw;
+}
+
+.fab {
+    width: 4vh;
+    height: 4vh;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: -4.5vh;
+    right: 20px;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, .3);
+    color: #fff;
+    font-size: 4vh;
+    padding: 0;
+    line-height: 4vh;
+    text-align: center;
+    background: #549D3C;
+    -webkit-transition: -webkit-transform .2s ease-in-out;
+    transition: transform .2s ease-in-out;
+    border: white .1vh solid;
+}
+
+#searchBar {
+    /* Do not repeat the icon image */
+    width: 30vw;
+    height: 3.5vh;
+    margin-top: .5vh;
+    margin-bottom: 5vh;
+    position: relative;
+    left: 1vw;
+    font-family: "Montserrat";
+    /* Full-width */
+    font-size: 2vh;
+    /* Increase font-size */
+    padding: 12px 20px 12px 40px;
+    /* Add some padding */
+    border: 1px solid #ddd;
+    /* Add a grey border */
+    margin-bottom: 12px;
+    /* Add some space below the input */
+    border-radius: 15px;
+}
+
+#listOfPlayers {
+    margin-right: 5vw;
+    overflow-y: auto;
+    overflow-x: hidden;
+    width: 31vw;
+    height: 30vh;
+    margin-bottom: 0;
+}
+
+#listOfPlayers li {
+    margin-right: 5vw;
+}

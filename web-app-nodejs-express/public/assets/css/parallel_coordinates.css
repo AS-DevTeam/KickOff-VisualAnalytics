@@ -1,0 +1,72 @@
+.parcoords {
+    display: block;
+}
+
+.parcoords svg,
+.parcoords canvas {
+    font: 10px sans-serif;
+    position: absolute;
+}
+
+.parcoords canvas {
+    opacity: 0.9;
+    pointer-events: none;
+}
+
+.axis-parallel .title {
+    font-size: 16px;
+    font-family: "Montserrat";
+    transform: rotate(-21deg) translate(-5px, -6px);
+    fill: #ffffff;
+}
+
+.axis-parallel line,
+.axis-parallel path {
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 1px;
+}
+
+.axis-parallel .tick text {
+    fill: rgb(255, 255, 255);
+    opacity: 0;
+    pointer-events: none;
+}
+
+.axis-parallel.manufac_name .tick text,
+.axis-parallel.food_group .tick text {
+    opacity: 1;
+}
+
+.axis-parallel:hover line,
+.axis-parallel:hover path,
+.axis-parallel.active line,
+.axis-parallel.active path {
+    fill: none;
+    stroke: #ffffff;
+    stroke-width: 2px;
+    z-index: -5000;
+}
+
+.axis-parallel:hover .title {
+    font-weight: bold;
+}
+
+.axis-parallel:hover .tick text {
+    opacity: 1;
+}
+
+.axis-parallel.active .title {
+    font-weight: bold;
+}
+
+.axis-parallel.active .tick text {
+    opacity: 1;
+    font-weight: bold;
+}
+
+.brush .extent {
+    fill-opacity: .3;
+    stroke: #fff;
+    stroke-width: 1px;
+}

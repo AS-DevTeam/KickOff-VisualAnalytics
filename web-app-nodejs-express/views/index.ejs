@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <title>Radar chart</title>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="assets/js/RadarChart.js"></script>
+    <link rel='icon' href='assets/img/favicon.ico' type='image/x-icon'>
+    <link rel="stylesheet" type="text/css" href="assets/css/players-views.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/parallel_coordinates.css">
+    <%-include ( 'cdn/bootstrap_cdn.ejs') %>
+        <%- include ('cdn/dropdown_cdn.ejs') %>
+            <%- include ('cdn/jquery_cdn.ejs') %>
+                <style>
+                    body {
+                        background-color: #222529;
+                        overflow: hidden;
+                    }
+                </style>
+</head>
+
+<body>
+    <div class="container m-0">
+        <div id="skill-dropdown">
+            <%- include('partials/nav.ejs'); %>
+                <!-- Dropdown row-->
+                <div class="col-sm-6">
+                    <h4 class="label-dropdown">Choose the skills</h4>
+                    <!-- Generate the selection for updating the chart-->
+                    <select style="font-family: 'Montserrat'" id="skillSelector" data-width="50%" class="selectpicker" data-live-search="true" multiple>
+                    <!-- Loops between the skills-->
+                    <% var i = 0 %>
+                    <% skillNames.forEach((skill) => { i++; if(i<=10){%>
+                        <option style="font-family: 'Montserrat'" selected><%= skill %></option>
+                        <% } else{%> 
+                        <option style="font-family: 'Montserrat'"><%= skill %></option>
+                        <%}}) %>
+                </select>
+                    <button class="custom-submit" onclick="updateAttributes()" type="submit">Update the chart</button>
+                    <p id="warning"></p>
+                </div>
+        </div>
+
+        <div class="row mt-5">
+            <div id="scatterplot"></div>
+            <div id="parallel-coordinates"></div>
+            <!--
+            <div id="legend"></div>-->
+            <div id="selection">
+                <h3>Result of the selection</h3>
+                <input type="text" id="searchBar" onkeyup="search()" placeholder="Search for player names..">
+                <ul id="listOfPlayers">
+                    <li class="not-selected">
+                        <div class="section">
+                            <div class="player-card">
+                                <img class="image" src="https://image.flaticon.com/icons/svg/1163/1163063.svg">
+                                <button id="test" class="fab" onclick="choosePlayer(this.id)">&#43;</button>
+
+                                <a>Use the brush on the parallel graph</a>
+                                <h5>Select players, see their skills and make comparisons among them.</h5>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div id="barchart"></div>
+        <div id="chart"></div>
+    </div>
+
+    </div>
+    <!-- For the menu -->
+    <script src="assets/js/side-menu.js"></script>
+    <!-- For the charts -->
+    <script src="assets/js/barchart.js"></script>
+    <script src="assets/js/d3-lasso.min.js"></script>
+    <script src="assets/js/scatter.js"></script>
+    <script src="assets/js/radarGraph.js"></script>
+    <script src="assets/js/parallelCoordinates.js"></script>
+    <!-- For progressive parallel coordinates -->
+    <script src="https://bl.ocks.org/syntagmatic/raw/3341641/render-queue.js"></script>
+    <script>
+        var fileUrl = "assets/players.csv";
+
+        var player_one = "Frank Tsadjout";
+        var player_two = "Marvin Bakalorz";
+
+        // This flag variable is true, meaning that there is no real selection on the barchart
+        // and on the radar chart
+        var firstSelection = true;
+
+        // List that will contain the selected players with the 
+        var players = [player_one, player_two];
+
+        //Legend titles
+        var LegendOptions = players;
+
+        // Get all selected attributes from the dropdown menu
+        var chosenAttributes = $('#skillSelector').val();
+
+        // HTML of the selected players
+        var userSelection;
+
+        drawBarchart(players);
+        drawScatterPlot(chosenAttributes, userSelection);
+        drawParallelCoordinates(chosenAttributes, userSelection, []);
+        update(players, chosenAttributes);
+
+        function updateAttributes() {
+            chosenAttributes = $('#skillSelector').val();
+            // If some values have been selected we can update the chart
+            if (chosenAttributes && chosenAttributes.length) {
+                // There must be at least three skills selected by the user
+                if (chosenAttributes.length < 3) {
+                    var alert = document.getElementById("warning");
+                    alert.innerHTML = "You have selected few skills. At least 3.";
+                    alert.style.color = "red";
+                } else {
+                    var alert = document.getElementById("warning");
+                    alert.innerHTML = "";
+                    update(players, chosenAttributes);
+                    drawParallelCoordinates(chosenAttributes, userSelection,   []);
+                }
+            } else {
+                // Display an alert if the user does not select any skill but press the button
+                var alert = document.getElementById("warning");
+                alert.innerHTML = "You HAVE TO select some skill. At least 3.";
+                alert.style.color = "red";
+            }
+
+        }
+
+        // To search the players once selected
+        function search() {
+            var input, filter, ul, li, a, i, txtValue;
+            input = document.getElementById('searchBar');
+            filter = input.value.toUpperCase();
+            ul = document.getElementById("listOfPlayers");
+            li = ul.getElementsByTagName('li');
+
+            // Loop through all list items, and hide those who don't match the search query
+            for (i = 0; i < li.length; i++) {
+                // The player name
+                a = li[i].getElementsByTagName("div")[1].getElementsByTagName("a")[0];
+                txtValue = a.textContent || a.innerText;
+                if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                    li[i].style.display = "";
+                } else {
+                    li[i].style.display = "none";
+                }
+            }
+        }
+
+        // Each button for adding the player has as id "add_[PLAYERNAME]"
+        function choosePlayer(buttonId) {
+            if (firstSelection) {
+                players = [];
+                firstSelection = false;
+            }
+
+            var playerName = buttonId.split("_")[1];
+            // We access the number of times a button was clicked
+            var clickTimes = d3.select("#" + CSS.escape(buttonId)).attr("data-click");
+            if (clickTimes == 0) {
+                console.log(clickTimes);
+                // If the player is not in the array we push it
+                if (players.includes(playerName) == false) {
+                    players.push(playerName);
+                    console.log(players)
+                    d3.select("#" + CSS.escape(buttonId)).attr("data-click", 1)
+                        .style("background-color", "rgb(163, 14, 14)")
+                        .style("cursor", "pointer")
+                        .style("-ms-transform", "rotate(45deg)")
+                        .style("-webkit-transform", "rotate(45deg)")
+                        .style("transform", "rotate(45deg)");
+
+                    // Change the class of the list-item
+                    d3.select("#li-" + CSS.escape(playerName)).attr("class", "selected-item");
+
+                    // Put the selected items on top of the list
+                    $("#li-" + CSS.escape(playerName))
+                        .hide()
+                        .css('opacity', 0.0)
+                        .prependTo('#listOfPlayers')
+                        .slideDown('fast')
+                        .animate({
+                            opacity: 1.0
+                        });
+
+                    $('#listOfPlayers').animate({
+                        scrollTop: 0
+                    }, '300');
+
+                    userSelection = d3.selectAll(".selected-item")["_groups"][0];
+
+                    drawBarchart(players)
+                    update(players, chosenAttributes);
+                }
+            }
+            if (clickTimes == 1) {
+                // The button was already clicked so we have to remove the selected player
+                // If the player IS IN the array we REMOVE IT !!
+                if (players.includes(playerName) == true) {
+                    // Delete the player
+                    var index = players.indexOf(playerName)
+                    if (index > -1) {
+                        players.splice(index, 1)
+                    }
+                    console.log(players)
+                    d3.select("#" + CSS.escape(buttonId)).attr("data-click", 0)
+                        .style("background-color", "green")
+                        .style("cursor", "pointer")
+                        .style("-ms-transform", "rotate(0deg)")
+                        .style("-webkit-transform", "rotate(0deg)")
+                        .style("transform", "rotate(0deg)");
+
+                    // Change the class of the list-item
+                    d3.select("#li-" + CSS.escape(playerName)).attr("class", "");
+
+                    userSelection = d3.selectAll(".selected-item")["_groups"][0];
+
+                    drawBarchart(players)
+                    update(players, chosenAttributes);
+                }
+
+            }
+        }
+    </script>
+
+</body>
+
+</html>

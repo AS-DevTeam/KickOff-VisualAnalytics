@@ -1,0 +1,302 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+/**
+ * colors
+ * ColorBackground: (black) #222529
+ * ColorBackgroundViews: (pseudo-black) #2B2E32
+ * ColorText: (white) #FFFFFF
+ * ColorButtons: (green) rgb(69, 148, 86)
+ */
+
+
+/* MENU CSS-SECTION */
+
+.menu-image {
+    position: relative;
+    height: 28vh;
+    width: 11vw;
+    right: 1vw;
+}
+
+.menu-teams {
+    position: absolute;
+    left: 2vw;
+}
+
+.main-title {
+    color: rgb(69, 148, 86);
+    font-family: 'Montserrat';
+    margin-top: 3vh;
+    margin-bottom: 1vh;
+}
+
+.main-title h4 {
+    color: #ffffff;
+    font-family: "Montserrat-Bold";
+}
+
+#skill-dropdown {
+    position: absolute;
+    top: -2vh;
+    left: 0vh;
+    height: 10vh;
+    width: 80vw;
+}
+
+#dropdownMenuButton_clusters {
+    position: absolute;
+    left: 50vw;
+    top: .5vh;
+    z-index: 1;
+}
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: #222529;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+#logo-container {
+    text-align: center;
+}
+
+.sidenav h1 {
+    font-family: "Montserrat-Bold";
+    margin-left: 1vw;
+    left: .5vw;
+    color: #ffffff;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+    font-family: "Montserrat";
+}
+
+.sidenav .side-item {
+    margin-bottom: .2vh;
+    font-size: 20px;
+}
+
+.sidenav .side-item:hover {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: rgb(69, 148, 86);
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {
+        padding-top: 15px;
+    }
+    .sidenav a {
+        font-size: 18px;
+    }
+}
+
+#open-menu {
+    color: #ffffff;
+    font-size: 2.5vh;
+    cursor: pointer;
+    position: fixed;
+    top: 3vh;
+    right: 1vw;
+}
+
+.label-dropdown {
+    font-family: "Montserrat-Bold";
+    color: #ffffff;
+    top: 1vh;
+    position: relative;
+}
+
+.legend {
+    fill: #ffffff;
+    left: 30vw;
+}
+
+
+/* MATRIX CSS-SECTION */
+
+#dropdownMenuButton {
+    position: absolute;
+    top: .5vh;
+    left: 62vw;
+    z-index: 1;
+}
+
+#dropdownMenuButton:hover {
+    color: #ffffff;
+}
+
+#matrix {
+    position: absolute;
+    top: 10vh;
+    left: 50vw;
+    height: 80vh;
+    background-color: #2B2E32;
+    border-radius: 20px;
+    width: 49vw;
+    height: 88vh;
+}
+
+#scatterplot_teams {
+    position: absolute;
+    top: 10vh;
+    left: 1vw;
+    height: 43vh;
+    background-color: #2B2E32;
+    border-radius: 20px;
+    width: 48vw;
+    padding: 2em;
+}
+
+#barchart_teams {
+    position: absolute;
+    left: 1vw;
+    top: 55vh;
+    width: 48vw;
+    height: 43vh;
+    padding: 2em;
+    background-color: #2B2E32;
+    border-radius: 20px;
+}
+
+.tooltip-scatterplot-teams {
+    position: relative;
+    width: 8vw;
+    pointer-events: none;
+    border-radius: 15px;
+    border: #818181 solid 2px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    font-family: "Montserrat-Bold";
+    font-size: 1.5vh;
+    color: #222529;
+    z-index: 100;
+}
+
+.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 8vw;
+    height: 4vh;
+    padding: 0.5em;
+    margin-top: -20px;
+    /* Font */
+    color: #222529;
+    text-align: center;
+    background: #ffffff;
+    pointer-events: none;
+    border-radius: 15px;
+}
+
+
+/*#radiobutton {
+    position: absolute;
+    margin-top: 5vh;
+}*/
+
+#choosealg {
+    position: absolute;
+    top: 9vh;
+    right: 39vw;
+    z-index: 100;
+}
+
+.dot {
+    stroke: #000;
+}
+
+.axis {
+    /* Set font family of the axis */
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 12px;
+    fill: #ffffff;
+}
+
+.axis text {
+    /* Change color of the text of the axis */
+    fill: #ffffff;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #ffffff;
+    shape-rendering: crispEdges;
+}
+
+
+/* BARCHART CSS */
+
+.tooltip-barchart {
+    font-family: "Montserrat-Bold";
+    position: absolute;
+    text-align: center;
+    width: 10vw;
+    margin-top: -20px;
+    /* Font */
+    color: #222529;
+    text-align: center;
+    background: #ffffff;
+    pointer-events: none;
+    border-radius: 15px;
+    border: #818181 solid 2px;
+}
+
+#seasonTrend {
+    position: absolute;
+    left: 1vw;
+    top: 55vh;
+    width: 48vw;
+    height: 43vh;
+    padding: 2em;
+    background-color: #2B2E32;
+    border-radius: 20px;
+}
+
+.barButtons {
+    position: absolute;
+    top: 56vh;
+    left: 3vw;
+}
+
+.barButtons button {
+    font-family: "Montserrat";
+    color: #ffffff;
+    padding: 0.5em;
+    background-color: rgb(69, 148, 86);
+    border-radius: 10px;
+    border-color: rgb(69, 148, 86);
+    border-width: 1px;
+    font-size: 8px;
+}
+
+.barButtons button:hover {
+    background-color: rgb(90, 120, 86);
+    border-color: rgb(90, 120, 86);
+}

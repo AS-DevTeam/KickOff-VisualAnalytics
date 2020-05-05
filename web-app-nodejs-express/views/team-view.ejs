@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <title>Team view</title>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <link rel='icon' href='assets/img/favicon.ico' type='image/x-icon'>
+    <link rel="stylesheet" type="text/css" href="assets/css/matrix.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/teams-views.css">
+    <%-include ( 'cdn/bootstrap_cdn.ejs') %>
+        <%- include ('cdn/dropdown_cdn.ejs') %>
+            <%- include ('cdn/jquery_cdn.ejs') %>
+                <style>
+                    body {
+                        background-color: #222529;
+                        height: 100vh;
+                        overflow: hidden;
+                    }
+                </style>
+</head>
+
+
+<body>
+    <div class="container m-0">
+        <div class="row" id="skill-dropdown">
+            <%- include('partials/nav.ejs'); %>
+                <!-- Dropdown row-->
+                <div class="menu-teams">
+                    <div class="main-title">
+                        <h4>Choose championship</h4>
+                    </div>
+                    <div class="form-check form-check-inline" style="font-family: 'Montserrat'; font-size: small; color: rgb(255, 255, 255);">
+                        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="radioItaly" value="italy" onclick="updateCharts('italy')" checked="checked">
+                        <label class="form-check-label" for="inlineRadio1">Serie A</label>
+                    </div>
+                    <div class="form-check form-check-inline" style="font-family: 'Montserrat'; font-size: small; color: rgb(255, 255, 255);">
+                        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="radioSpain" value="spain" onclick="updateCharts('spain')">
+                        <label class="form-check-label" for="inlineRadio2">Primera Division</label>
+                    </div>
+                    <div class="form-check form-check-inline" style="font-family: 'Montserrat'; font-size: small; color: rgb(255, 255, 255);">
+                        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="radioEngland" value="england" onclick="updateCharts('england')">
+                        <label class="form-check-label" for="inlineRadio3">Premier League</label>
+                    </div>
+                    <div class="form-check form-check-inline" style="font-family: 'Montserrat'; font-size: small; color: rgb(255, 255, 255);">
+                        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="radioGermany" value="germany" onclick="updateCharts('germany')">
+                        <label class="form-check-label" for="inlineRadio3">Bundesliga</label>
+                    </div>
+                    <div class="form-check form-check-inline" style="font-family: 'Montserrat'; font-size: small; color: rgb(255, 255, 255);">
+                        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="radioFrance" value="france" onclick="updateCharts('france')">
+                        <label class="form-check-label" for="inlineRadio3">League One</label>
+                    </div>
+                </div>
+
+                <div id="#clusterSelection" class="dropdown" style="margin-top: 5vh">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton_clusters" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-family: 'Montserrat'">
+                        Choose #clusters
+                    </button>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton_clusters">
+                        <a class="dropdown-item" onclick="updateClust(2)">2 clusters</a>
+                        <a class="dropdown-item" onclick="updateClust(3)">3 clusters</a>
+                        <a class="dropdown-item" onclick="updateClust(4)">4 clusters</a>
+                        <a class="dropdown-item" onclick="updateClust(5)">5 clusters</a>
+                    </div>
+                </div>
+
+
+                <div id="#algSelection" class="dropdown" style="margin-top: 5vh">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-family: 'Montserrat'">
+                    Choose algorithm
+                </button>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                        <a class="dropdown-item" onclick="updateAlg('mds')">MDS</a>
+                        <a class="dropdown-item" onclick="updateAlg('pca')">PCA</a>
+                        <a class="dropdown-item" onclick="updateAlg('tsne')">tSNE</a>
+                    </div>
+                </div>
+
+        </div>
+    </div>
+    <div class="row mt-5">
+        <div id="matrix"></div>
+        <div id="scatterplot_teams"></div>
+        <div id="seasonTrend"></div>
+        <div class="barButtons">
+            <!--<button onclick="drawTeamsTrend(file, 'first', selectedTeams);">First round</button>
+            <button onclick="drawTeamsTrend(file, 'second', selectedTeams);">Second round</button>-->
+            <button onclick="updateBarchart('first');">First round</button>
+            <button onclick="updateBarchart('second');">Second round</button>
+        </div>
+    </div>
+    <script src="assets/js/matrix.js"></script>
+    <script src="assets/js/scatter-teams.js"></script>
+    <script src="assets/js/barchart-teams.js"></script>
+    <script src="assets/js/d3-lasso.min.js"></script>
+    <script src="assets/js/side-menu.js"></script>
+    <script>
+        // contain country selected from radio buttons
+
+        var country = 'italy';
+
+        // just for testing
+
+        var player_one = "Frank Tsadjout";
+        var player_two = "Marvin Bakalorz";
+        var actualAlgorithm = 'mds';
+        var actualNClusters = 2;
+
+        // List that will contain the selected players with the 
+        var players = [player_one, player_two];
+
+
+        var tooltip = d3.select("body").append("div")
+            .attr("class", "tooltip-scatterplot-teams")
+            .style("opacity", 0)
+
+
+        // barchart part
+
+        // You need to modify the file once you want to plot the stat of other championships
+        var file = "assets/transponse_stat_" + country + ".csv";
+
+        //var selectedTeams = ["Juventus", "Internazionale"];
+
+        var leagues = ["Italy", "Spain", "England", "Germany", "France"];
+
+        for (var i in leagues) {
+            if (document.getElementById("radio" + leagues[i]).checked) {
+                var id = leagues[i];
+                break;
+            }
+        }
+
+        switch (String(id).toLowerCase()) {
+            case 'italy':
+                var actualTeams = ["Juventus", "Internazionale"];
+                break;
+            case 'spain':
+                var actualTeams = ["Barcelona", "Real Madrid"];
+                break;
+            case 'england':
+                var actualTeams = ["Liverpool", "Manchester City"];
+                break;
+            case 'france':
+                var actualTeams = ["PSG", "Bordeaux"];
+                break;
+            case 'germany':
+                var actualTeams = ["Bayern Munchen", "Borussia Dortmund"];
+                break;
+        }
+
+
+        drawMatrix("italy", actualAlgorithm);
+        drawScatterPlotTeams('italy', actualAlgorithm, actualNClusters);
+        drawTeamsTrend(file, 'first', actualTeams);
+
+        function setActualTeamsBarchart(vec) {
+            actualTeams[0] = vec[0];
+            actualTeams[1] = vec[1];
+            console.log("update --------> " + actualTeams[0] + " - " + actualTeams[1])
+        }
+
+        function updateBarchart(round) {
+
+            var leagues = ["Italy", "Spain", "England", "Germany", "France"];
+
+            for (var i in leagues) {
+                if (document.getElementById("radio" + leagues[i]).checked) {
+                    var id = leagues[i];
+                    break;
+                }
+            }
+
+
+            file = "assets/transponse_stat_" + id + ".csv";
+            drawTeamsTrend(file, round, actualTeams);
+
+        }
+
+        function updateCharts(selectedCountry) {
+            // update variables
+            country = selectedCountry;
+            file = "assets/transponse_stat_" + selectedCountry + ".csv";
+
+            d3.select("svg").remove();
+            drawMatrix(selectedCountry, actualAlgorithm);
+            drawScatterPlotTeams(selectedCountry, actualAlgorithm, actualNClusters);
+
+            switch (String(selectedCountry).toLowerCase()) {
+                case 'italy':
+                    actualTeams = ["Juventus", "Internazionale"];
+                    break;
+                case 'spain':
+                    actualTeams = ["Barcelona", "Real Madrid"];
+                    break;
+                case 'england':
+                    actualTeams = ["Liverpool", "Manchester City"];
+                    break;
+                case 'france':
+                    actualTeams = ["PSG", "Bordeaux"];
+                    break;
+                case 'germany':
+                    actualTeams = ["Bayern Munchen", "Borussia Dortmund"];
+                    break;
+            }
+
+            drawTeamsTrend(file, 'first', actualTeams);
+
+
+            //console.log(country);
+
+        }
+
+
+
+        function updateAlg(alg) {
+            d3.select("svg").remove();
+
+            var leagues = ["Italy", "Spain", "England", "Germany", "France"];
+
+            for (var i in leagues) {
+                if (document.getElementById("radio" + leagues[i]).checked) {
+                    var id = leagues[i];
+                    break;
+                }
+            }
+
+            drawMatrix(String(id).toLowerCase(), alg);
+            drawScatterPlotTeams(String(id).toLowerCase(), alg, actualNClusters);
+
+            actualAlgorithm = alg;
+            //console.log("Choosen algorithm: " + String(actualAlgorithm));
+        }
+        //console.log("Actual algorithm: " + String(actualAlgorithm));
+
+        function updateClust(clust) {
+            d3.select("svg").remove();
+            d3.select("#tooltip-scatterplot-teams").remove();
+            d3.select("#tooltip").remove();
+            //d3.select("body").select("tooltip-scatterplot-teams").remove();
+
+            var leagues = ["Italy", "Spain", "England", "Germany", "France"];
+
+            for (var i in leagues) {
+                if (document.getElementById("radio" + leagues[i]).checked) {
+                    var id = leagues[i];
+                    break;
+                }
+            }
+
+            drawMatrix(String(id).toLowerCase(), actualAlgorithm);
+            drawScatterPlotTeams(String(id).toLowerCase(), actualAlgorithm, clust);
+
+            actualNClusters = clust;
+            //console.log("Actual algorithm: " + String(actualAlgorithm));
+        }
+
+
+        function selectTeamScatter(name) {
+            d3.select("#scatterplot_teams").selectAll("svg").selectAll("g").select("#" + name)
+                .attr("r", 4.5)
+                .transition()
+                .duration(500)
+                .attr("r", 9)
+                .attr("fill-opacity", 1);
+        }
+
+        function deselectTeamScatter(name) {
+            d3.select("#scatterplot_teams").selectAll("svg").selectAll("g").select("#" + name)
+                .attr("r", 9)
+                .transition()
+                .duration(500)
+                .attr("r", 4.5)
+                .attr("fill-opacity", 0.5);
+
+            d3.select("#matrix").selectAll("svg").selectAll(".row").select("#" + name).classed("activeLasso", false);
+            d3.select("#matrix").selectAll("svg").selectAll(".column").select("#" + name).classed("activeLasso", false);
+        }
+
+        function selectTeamMatrix(teams) {
+            for (var i in teams) {
+                console.log("#" + teams[i]);
+                d3.select("#matrix").selectAll("svg").selectAll(".row").select("#" + teams[i]).classed("activeLasso", true);
+                d3.select("#matrix").selectAll("svg").selectAll(".column").select("#" + teams[i]).classed("activeLasso", true);
+            }
+        }
+
+
+        function deselectTeamMatrix(teams) {
+            for (var i in teams) {
+                console.log("#" + teams[i]);
+                d3.select("#matrix").selectAll("svg").selectAll(".row").select("#" + teams[i]).classed("activeLasso", false);
+                d3.select("#matrix").selectAll("svg").selectAll(".column").select("#" + teams[i]).classed("activeLasso", false);
+            }
+        }
+
+        function selectTeamMatrixBarchart(team) {
+            d3.select("#matrix").selectAll("svg").selectAll(".row").select("#" + team).classed("activeBarchart", true);
+            d3.select("#matrix").selectAll("svg").selectAll(".column").select("#" + team).classed("activeBarchart", true);
+        }
+
+        function deselectTeamMatrixBarchart(team) {
+            d3.select("#matrix").selectAll("svg").selectAll(".row").select("#" + team).classed("activeBarchart", false);
+            d3.select("#matrix").selectAll("svg").selectAll(".column").select("#" + team).classed("activeBarchart", false);
+        }
+
+        //console.log(actualNClusters);
+    </script>
+</body>
+
+</html>

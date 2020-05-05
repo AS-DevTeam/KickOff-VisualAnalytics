@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+html {
+    min-width: 1040px;
+    background-color: #2b2e32;
+}
+
+.ocks-org body {
+    background: #fcfcfa;
+    color: #333;
+    font-family: "Montserrat";
+    position: relative;
+    width: 960px;
+}
+
+a:not(:hover) {
+    text-decoration: none;
+}
+
+pre,
+code,
+textarea {
+    font-family: "Montserrat", monospace;
+}
+
+code {
+    line-height: 1em;
+}
+
+textarea {
+    font-size: 100%;
+}
+
+.html .tag,
+.css .tag,
+.javascript .keyword {
+    color: #43db1d;
+}
+
+
+/*
+Not needed here 
+
+This is the background of the matrix.
+.background {
+    margin-top: 50px;
+}
+
+The class of the rows and the columns, to define theri border,
+again, is not needed.
+line {
+    stroke: rgb(0, 0, 0);
+}
+*/
+
+text {
+    fill: rgb(255, 255, 255);
+    font-family: "Montserrat";
+}
+
+text.active {
+    fill: rgb(20, 168, 0);
+}
+
+text.activeLasso {
+    fill: red;
+    font-family: "Montserrat-Bold";
+}
+
+text.activeBarchart {
+    fill: rgb(20, 168, 0);
+}
+
+.cell {
+    stroke: rgb(175, 170, 170);
+    stroke-width: 2;
+}
+
+.cell:hover {
+    opacity: .9;
+    stroke: black;
+    stroke-width: 3;
+}
+
+.matrixTooltip {
+    position: absolute;
+    font-family: "Montserrat-Bold";
+    width: 4vw;
+    /* Font */
+    text-align: center;
+    background: #ffffff;
+    pointer-events: none;
+    border-radius: 5px;
+    border: #818181 solid 2px;
+}
