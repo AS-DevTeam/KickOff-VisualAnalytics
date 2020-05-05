@@ -31,6 +31,11 @@ Programming is a creative process, you may have to focus, since some days are pa
 ![Coding playlist](../images/coding.png)
 
 The playlist title is purely random of course ...
+
+Another playlist that we strongly recommend is the following, for "intense" coding sessions, enjoy!
+
+![Coding playlist part 2](../images/codingRock.png)
+
 ### Customizing your jekyll website
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
