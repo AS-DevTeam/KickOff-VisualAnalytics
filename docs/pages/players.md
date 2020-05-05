@@ -9,7 +9,7 @@ nav_order: 1
 
 This view implements two analytical tasks (T1 and T3) described in the in the [analytical task section](https://kickoff-va.github.io/KickOff-VisualAnalytics/pages/domain-analytical.html). It is logically divided in 2 steps:
 
-![players](../images/player-complete-tab.png)
+![players](../images/player-mac.png)
 
 ## Filtering Step
 
