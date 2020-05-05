@@ -6,11 +6,14 @@ nav_order: 2
 ---
 
 # Teams View
+
 This view implements two analytical tasks (T2 and T4) described in the
-*Section II*. It is divided in three visualization: the *teams
+[analytical task section](https://kickoff-va.github.io/KickOff-VisualAnalytics/pages/domain-analytical.html). It is divided in three visualization: the *teams
 scatterplot* and the *matrix* giving an overview of the teams’
 performance, the *teams barchart* allowing direct comparison between two
 teams.
+
+![Teams](../images/team-tab.png)
 
 ## The view in detail
 
@@ -26,12 +29,16 @@ III*. For this reason, both x-axis and y-axis are meaningless but the
 user can obtain information about teams seeing their position: the
 closer they are, the more their performances are similar.
 
+![Team Scatter](../images/team-scatter.png)
+
 ### Matrix
 
 In this component the teams are represented on both rows and columns.
 The cell encodes the information about the *dissimilarity* between the
 teams identified by that row and column using a [9 levels green color
 scale](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3).
+
+![Team Matrix](../images/team-matrix.png)
 
 This chart allows a comparison among teams’ performance, in particular,
 for each couple of teams the higher is the intensity of the green, the
@@ -46,6 +53,8 @@ for each team, for the half of the total number of game weeks,
 otherwise, if just 1 team is selected will be shown just one bar for
 each game week. The second half of game weeks results is accessible by
 clicking on the “Second round” button.
+
+![Team Barchart](../images/team-bar.png)
 
 This chart allows the user to directly compare the trend of 1 or 2 teams
 during the season and analyze which game week had the best performance.
