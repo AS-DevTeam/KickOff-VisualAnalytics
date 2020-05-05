@@ -9,7 +9,7 @@ nav_order: 1
 
 #  The idea
 
-![Title](images/intro.png)
+![Title](images/kickoff.png)
 
 The growing impact of big data in the last years affect each task of everyone’s life.  Even the world of football is radically changed thanks to the use of new technologies and tools that allow being more precise and faster to accomplish some goals.
 Football results are strongly related to lots of parameters that often are represented by numeral values, the right analysis of these parameters can be an advantage towards opposing teams. For example, according to research about Italian Serie A, the performance of a team in the entire season are directly related to the number of conceded goals.

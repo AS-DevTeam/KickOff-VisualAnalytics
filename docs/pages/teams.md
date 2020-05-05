@@ -13,7 +13,7 @@ scatterplot* and the *matrix* giving an overview of the teams’
 performance, the *teams barchart* allowing direct comparison between two
 teams.
 
-![Teams](../images/team-tab.png)
+![Teams](../images/team-tab-safari.png)
 
 ## The view in detail
 
@@ -29,7 +29,7 @@ III*. For this reason, both x-axis and y-axis are meaningless but the
 user can obtain information about teams seeing their position: the
 closer they are, the more their performances are similar.
 
-![Team Scatter](../images/team-scatter.png)
+![Team Scatter](../images/team-scatterplot.png)
 
 ### Matrix
 
@@ -38,7 +38,7 @@ The cell encodes the information about the *dissimilarity* between the
 teams identified by that row and column using a [9 levels green color
 scale](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3).
 
-![Team Matrix](../images/team-matrix.png)
+![Team Matrix](../images/team-matrixview.png)
 
 This chart allows a comparison among teams’ performance, in particular,
 for each couple of teams the higher is the intensity of the green, the
@@ -54,7 +54,7 @@ otherwise, if just 1 team is selected will be shown just one bar for
 each game week. The second half of game weeks results is accessible by
 clicking on the “Second round” button.
 
-![Team Barchart](../images/team-bar.png)
+![Team Barchart](../images/team-barchart.png)
 
 This chart allows the user to directly compare the trend of 1 or 2 teams
 during the season and analyze which game week had the best performance.
