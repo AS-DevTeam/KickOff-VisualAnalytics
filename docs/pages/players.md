@@ -33,6 +33,8 @@ In this component each player is represented by a broken line whose colour depen
 
 Thanks to this chart the user is able to see the values (approximately) of the players' selected skills.
 
+![Parallel](../images/player-parallel.png)
+
 ### Barchart
 In this component each player is represented by a vertical bar where the height depends on the **overall** value of the player. The colours of the bars are assigned according to a colour scale starting from intense orange to intense blue, passing through different shades of these colours (it depends on the number of selected players).
 
