@@ -26,6 +26,8 @@ Now let's describe each component of the view, what it represents and its main f
 ### Players Scatterplot
 In this component each player is represented by a dot whose colour depends on his role. The x-axis represents the **average score** of the player over the year and the y-axis the number of **minutes played** in the year.
 
+![Parallel](../images/player-scatter.png)
+
 This chart is useful to see the impact of a player during the year, the more the player is in the upper-right corner, the better his contribution to his team will be. On the contrary, the more his position is in the lower right corner, the less his contribution to his team will be.
 
 ### Parallel Coordinates
@@ -38,10 +40,14 @@ Thanks to this chart the user is able to see the values (approximately) of the p
 ### Barchart
 In this component each player is represented by a vertical bar where the height depends on the **overall** value of the player. The colours of the bars are assigned according to a colour scale starting from intense orange to intense blue, passing through different shades of these colours (it depends on the number of selected players).
 
+![Bar](../images/player-bar.png)
+
 This chart allows a direct comparison among players based only on the **overall** value.
 
 ### Radar char
 In this last component each player is represented by a polygon where each vertex represents the exact value of a skill. The colour of each player's polygon is the same as the barchart one and the thickness of the polygonal outline encodes the value of the player's **overall**. The skills to be displayed can be selected from the dropdown list in the setting bar at the top of the page.
+
+![Parallel](../images/player-radar.png)
 
 This chart allows a direct comparison among players based on their selected skills' values.
 
