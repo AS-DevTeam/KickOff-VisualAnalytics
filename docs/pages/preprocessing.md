@@ -90,7 +90,7 @@ For the teams we created 3 new files:
 
 For the developing of our project we used three main technologies:
 
-### Python
+### Python
 
 **Python** has been used for the entire step of data
 preprocessing. It has been used for all operation of *read from* and
@@ -99,12 +99,12 @@ dimensionality-reduction algorithms. In particular, for the application
 of PCA, MDS and tSNE we used `scikit-learn` that provides us powerful
 and easy to apply functions for dimensionality reduction.
 
-### Javascript and D3.js
+### Javascript and D3JS
 
 **Javascript** and **D3.js** have been used for the
 developing of the views that composes the system.
 
-### Node.js
+### NodeJS
 
 **Node.js** has been used to build our project. It allowed us
 better handling of connection and also an increment of the scalability
