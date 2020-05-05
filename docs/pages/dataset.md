@@ -24,7 +24,7 @@ Soccer match event dataset is composed by 8 files containing information about C
     "type": "club"
 }
 ```
-We decided to don't use \textit{Coaches}, \textit{Events} and \textit{Referees} files that contain information that is not useful for our purpose.\\Let's see the content of the other files, describing their most important fields:
+We decided to don't use *Coaches*, *Events* and *Referees* files that contain information that is not useful for our purpose. Let's see the content of the other files, describing their most important fields:
 
 - **Players** contains information about each player: personal information, identifier of the current club, role and the unique identifier;
 - **Teams** contains information about each team: name of the city, name of the team, the geographic area that belongs to, the type (club/national) and the unique identifier;
