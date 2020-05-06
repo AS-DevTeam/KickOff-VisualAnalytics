@@ -4,12 +4,12 @@ title: Dataset
 nav_order: 3
 ---
 # Dataset
-To implement the views described above, we needed lots of details about teams and players' skills. At the moment of the creation of our system, we were no able to find a single open-source dataset that includes all the information that we need. For that reason, we decided to insert a preliminary step of data preprocessing in order to merge information coming from two different open-source datasets taken from Kaggle \cite{kaggle} and FigShare \cite{figshare}.\newpage
+To implement the views described above, we needed lots of details about teams and players' skills. At the moment of the creation of our system, we were no able to find a single open-source dataset that includes all the information that we need. For that reason, we decided to insert a preliminary step of data preprocessing in order to merge information coming from two different open-source datasets taken from Kaggle [kaggle](https://www.kaggle.com/) and FigShare [figShare](https://figshare.com/).
 A short description of the two datasets is shown above:
 
 ## Soccer event dataset
 
-[Soccer match event dataset](https://www.kaggle.com/karangadiya/fifa19/data#) is composed by 8 files containing information about Coaches, Referees, Players, Teams, Competitions, Events, Matches and Players ranks. All these files are in described in a JSON format so that, for example, a single team is described as:
+[Soccer match event dataset] (https://figshare.com/collections/Soccer_match_event_dataset/4415000) is composed by 8 files containing information about Coaches, Referees, Players, Teams, Competitions, Events, Matches and Players ranks. All these files are in described in a JSON format so that, for example, a single team is described as:
 ```json
 {   "city": "Milano",
     "name": "Milan",

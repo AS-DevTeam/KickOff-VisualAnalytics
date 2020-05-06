@@ -20,4 +20,4 @@ Our main goal is to allow journalists and supporters to obtain information from 
 
 ## Source Code and System
 
-The source code of KickOff project, included the part of data preprocessing, is [here]() (KickOff Git repo) and the full system system is available [here](https://kickoff.azurewebsites.net/)
+The source code of KickOff project, included the part of data preprocessing, is [here](https://github.com/KickOff-VA/KickOff-VisualAnalytics) (KickOff Git repo) and the full system system is available [here](https://kickoff.azurewebsites.net/)
