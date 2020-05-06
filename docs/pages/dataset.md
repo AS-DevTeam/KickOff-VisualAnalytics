@@ -9,7 +9,7 @@ A short description of the two datasets is shown above:
 
 ## Soccer event dataset
 
-[Soccer match event dataset] (https://figshare.com/collections/Soccer_match_event_dataset/4415000) is composed by 8 files containing information about Coaches, Referees, Players, Teams, Competitions, Events, Matches and Players ranks. All these files are in described in a JSON format so that, for example, a single team is described as:
+[Soccer match event dataset](https://figshare.com/collections/Soccer_match_event_dataset/4415000) is composed by 8 files containing information about Coaches, Referees, Players, Teams, Competitions, Events, Matches and Players ranks. All these files are in described in a JSON format so that, for example, a single team is described as:
 ```json
 {   "city": "Milano",
     "name": "Milan",
