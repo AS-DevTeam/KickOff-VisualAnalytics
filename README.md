@@ -9,5 +9,5 @@ For more information, please check our [documentation](https://kickoff-va.github
 
 Check our LinkedIn profile.
 
-* [Andre Napoletani](https://www.linkedin.com/in/andrea-napoletani-aa0b87166/)
+* [Andrea Napoletani](https://www.linkedin.com/in/andrea-napoletani-aa0b87166/)
 * [Sergio Picca](https://www.linkedin.com/in/sergio-picca-801b0b173/)
