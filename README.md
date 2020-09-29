@@ -5,7 +5,7 @@ This project has been developed by Andrea Napoletani and Sergio Picca. We are tw
 
 We developed a web application to analyze the football statistics, both on European teams and players.
 
-For more information, please check our [documentation](https://kickoff-va.github.io/KickOff-VisualAnalytics/).
+For more information, please check our [documentation](https://as-devteam.github.io/KickOff-VisualAnalytics/).
 
 Check our LinkedIn profile.
 
